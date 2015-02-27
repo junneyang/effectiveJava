@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/objects
+END
+ObjectsFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/objects/ObjectsFacade.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/objects/User.java
+END
+BaseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/objects/BaseObject.java
+END
+ObjectsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/objects/ObjectsException.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/objects/Contact.java
+END

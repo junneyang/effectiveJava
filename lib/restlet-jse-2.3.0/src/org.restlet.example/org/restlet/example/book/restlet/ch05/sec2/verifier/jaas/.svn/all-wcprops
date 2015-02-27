@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas
+END
+MailClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas/MailClient.java
+END
+MailServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas/MailServerResource.java
+END
+Mail.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas/Mail.java
+END
+jaas.conf
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas/jaas.conf
+END
+MailResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas/MailResource.java
+END
+MailServerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/verifier/jaas/MailServerApplication.java
+END

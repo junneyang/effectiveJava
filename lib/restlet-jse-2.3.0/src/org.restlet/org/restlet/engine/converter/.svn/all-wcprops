@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/converter
+END
+DefaultConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/converter/DefaultConverter.java
+END
+StatusInfoHtmlConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/converter/StatusInfoHtmlConverter.java
+END
+ConverterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/converter/ConverterHelper.java
+END
+ConverterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/converter/ConverterUtils.java
+END

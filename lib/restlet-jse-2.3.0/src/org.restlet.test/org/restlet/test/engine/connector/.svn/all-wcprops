@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector
+END
+PostPutTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/PostPutTestCase.java
+END
+GetTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/GetTestCase.java
+END
+GetChunkedTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/GetChunkedTestCase.java
+END
+ChunkedEncodingPutTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/ChunkedEncodingPutTestCase.java
+END
+GetQueryParamTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/GetQueryParamTestCase.java
+END
+ChunkedEncodingTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/ChunkedEncodingTestCase.java
+END
+SslBaseConnectorsTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/SslBaseConnectorsTestCase.java
+END
+ConnectorsTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/ConnectorsTestSuite.java
+END
+RemoteClientAddressTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/RemoteClientAddressTestCase.java
+END
+SslGetTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/SslGetTestCase.java
+END
+dummy.jks
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/dummy.jks
+END
+SslClientContextGetTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/SslClientContextGetTestCase.java
+END
+HttpInboundRequestTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/HttpInboundRequestTestCase.java
+END
+BaseConnectorsTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/BaseConnectorsTestCase.java
+END
+AsynchroneTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/engine/connector/AsynchroneTestCase.java
+END

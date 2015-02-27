@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal
+END
+EntryContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/EntryContentHandler.java
+END
+EntryIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/EntryIterator.java
+END
+FeedContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/FeedContentHandler.java
+END

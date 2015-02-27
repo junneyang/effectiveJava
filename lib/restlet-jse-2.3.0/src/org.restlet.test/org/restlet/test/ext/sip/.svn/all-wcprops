@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/sip
+END
+AvailabilityTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/sip/AvailabilityTestCase.java
+END
+SipRecipientInfoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/sip/SipRecipientInfoTestCase.java
+END
+EventTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/sip/EventTypeTestCase.java
+END
+AddressTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/sip/AddressTestCase.java
+END
+SipTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/sip/SipTestSuite.java
+END

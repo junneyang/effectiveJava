@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/org/restlet/ext/jdbc
+END
+JdbcConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/org/restlet/ext/jdbc/JdbcConverter.java
+END
+JdbcClientHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/org/restlet/ext/jdbc/JdbcClientHelper.java
+END
+JdbcResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/org/restlet/ext/jdbc/JdbcResult.java
+END
+RowSetRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/org/restlet/ext/jdbc/RowSetRepresentation.java
+END

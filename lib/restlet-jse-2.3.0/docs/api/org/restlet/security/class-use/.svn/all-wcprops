@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use
+END
+User.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/User.html
+END
+RoleAuthorizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/RoleAuthorizer.html
+END
+SecretVerifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/SecretVerifier.html
+END
+LocalVerifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/LocalVerifier.html
+END
+MemoryRealm.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/MemoryRealm.html
+END
+Group.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Group.html
+END
+Authorizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Authorizer.html
+END
+MethodAuthorizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/MethodAuthorizer.html
+END
+Realm.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Realm.html
+END
+Role.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Role.html
+END
+Enroler.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Enroler.html
+END
+MapVerifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/MapVerifier.html
+END
+Authenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Authenticator.html
+END
+Verifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/Verifier.html
+END
+ConfidentialAuthorizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/ConfidentialAuthorizer.html
+END
+ChallengeAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/ChallengeAuthenticator.html
+END
+CertificateAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security/class-use/CertificateAuthenticator.html
+END

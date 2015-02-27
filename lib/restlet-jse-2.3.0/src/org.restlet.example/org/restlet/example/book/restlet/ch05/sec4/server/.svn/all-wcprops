@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server
+END
+RootServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/RootServerResource.java
+END
+AccountServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/AccountServerResource.java
+END
+MailServerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/MailServerComponent.java
+END
+jaas.policy
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/jaas.policy
+END
+log.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/log.properties
+END
+MailServerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/MailServerApplication.java
+END
+AccountsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/AccountsServerResource.java
+END
+FilesServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec4/server/FilesServerResource.java
+END

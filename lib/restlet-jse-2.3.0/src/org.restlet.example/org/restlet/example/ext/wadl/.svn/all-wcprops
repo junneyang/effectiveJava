@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl
+END
+FirstResourceServerMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/FirstResourceServerMain.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/Item.java
+END
+BaseResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/BaseResource.java
+END
+FirstResourceApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/FirstResourceApplication.java
+END
+FirstResourceClientMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/FirstResourceClientMain.java
+END
+ItemResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/ItemResource.java
+END
+ItemsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/wadl/ItemsResource.java
+END

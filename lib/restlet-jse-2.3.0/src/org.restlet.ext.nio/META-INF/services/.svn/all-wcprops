@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/META-INF/services
+END
+org.restlet.engine.ServerHelper
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/META-INF/services/org.restlet.engine.ServerHelper
+END
+org.restlet.engine.ClientHelper
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/META-INF/services/org.restlet.engine.ClientHelper
+END

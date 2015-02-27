@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing
+END
+TemplateRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/TemplateRoute.java
+END
+Extractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Extractor.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Template.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Route.java
+END
+Router.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Router.java
+END
+Redirector.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Redirector.java
+END
+VirtualHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/VirtualHost.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Filter.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Validator.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Variable.java
+END

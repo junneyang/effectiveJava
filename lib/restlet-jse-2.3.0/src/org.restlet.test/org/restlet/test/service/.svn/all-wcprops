@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/service
+END
+ConnegServiceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/service/ConnegServiceTestCase.java
+END
+ServiceTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/service/ServiceTestSuite.java
+END
+MetadataServiceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/service/MetadataServiceTestCase.java
+END
+StatusServiceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/service/StatusServiceTestCase.java
+END

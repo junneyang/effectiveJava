@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/internal
+END
+OpenIdUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/internal/OpenIdUser.java
+END
+XRDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/internal/XRDS.java
+END
+UserSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/internal/UserSession.java
+END
+ProviderResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/internal/ProviderResult.java
+END
+Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/internal/Provider.java
+END

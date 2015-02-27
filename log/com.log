@@ -1,0 +1,5 @@
+[INFO ] 2015-02-13 17:44:16.808 [main] com.LogHandler.main(LogHandler.java:38) loghandler just for test
+[INFO ] 2015-02-27 11:10:53.969 [main] app.HelloWorld.main(HelloWorld.java:15) hello world !!!
+[INFO ] 2015-02-27 11:12:08.229 [main] app.HelloWorld.main(HelloWorld.java:15) hello world !!!
+[INFO ] 2015-02-27 12:28:55.471 [main] app.HelloWorld.main(HelloWorld.java:15) hello world !!!
+[INFO ] 2015-02-27 12:30:07.792 [main] app.HelloWorld.main(HelloWorld.java:15) hello world !!!

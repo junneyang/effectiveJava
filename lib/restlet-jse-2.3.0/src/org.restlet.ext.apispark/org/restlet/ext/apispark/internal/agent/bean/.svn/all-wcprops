@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean
+END
+AuthenticationSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/AuthenticationSettings.java
+END
+FirewallRateLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/FirewallRateLimit.java
+END
+OperationAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/OperationAuthorization.java
+END
+FirewallIpFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/FirewallIpFilter.java
+END
+OperationsAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/OperationsAuthorization.java
+END
+FirewallSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/FirewallSettings.java
+END
+ModulesSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/ModulesSettings.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/Credentials.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/bean/User.java
+END

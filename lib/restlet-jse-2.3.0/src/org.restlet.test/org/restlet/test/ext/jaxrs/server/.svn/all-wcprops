@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server
+END
+ServerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/ServerWrapper.java
+END
+DirectServerWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/DirectServerWrapperFactory.java
+END
+RestletServerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/RestletServerWrapper.java
+END
+ServerWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/ServerWrapperFactory.java
+END
+DirectServerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/DirectServerWrapper.java
+END
+RestletServerWrapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/RestletServerWrapperFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/package-info.java
+END
+RestletServerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/server/RestletServerTestCase.java
+END

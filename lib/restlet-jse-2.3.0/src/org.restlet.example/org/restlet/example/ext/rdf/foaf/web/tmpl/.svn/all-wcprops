@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl
+END
+library.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/library.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/header.ftl
+END
+contact.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/contact.html
+END
+contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/contacts.html
+END
+user.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/user.html
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/footer.ftl
+END
+users.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/web/tmpl/users.html
+END

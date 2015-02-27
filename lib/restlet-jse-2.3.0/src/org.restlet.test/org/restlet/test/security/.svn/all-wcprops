@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/security
+END
+SaasComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/security/SaasComponent.java
+END
+SaasApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/security/SaasApplication.java
+END
+HttpBasicTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/security/HttpBasicTestCase.java
+END
+RoleTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/security/RoleTestCase.java
+END
+SecurityTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/security/SecurityTestCase.java
+END

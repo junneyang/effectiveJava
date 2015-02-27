@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6/readme.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6/license.txt
+END
+org.apache.solr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6/org.apache.solr.jar
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6/library.xml
+END
+org.apache.solr.common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6/org.apache.solr.common.jar
+END

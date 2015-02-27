@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server
+END
+RootServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/RootServerResource.java
+END
+MailsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/MailsServerResource.java
+END
+ContactServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/ContactServerResource.java
+END
+AccountServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/AccountServerResource.java
+END
+MailServerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/MailServerApplication.java
+END
+AccountsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/AccountsServerResource.java
+END
+MailServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/server/MailServerResource.java
+END

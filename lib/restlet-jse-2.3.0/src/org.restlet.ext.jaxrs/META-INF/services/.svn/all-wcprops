@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/META-INF/services
+END
+javax.ws.rs.ext.RuntimeDelegate
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/META-INF/services/javax.ws.rs.ext.RuntimeDelegate
+END

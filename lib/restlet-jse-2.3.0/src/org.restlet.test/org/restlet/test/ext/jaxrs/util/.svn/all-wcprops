@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/package-info.java
+END
+RemainingPathTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/RemainingPathTests.java
+END
+ConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/ConverterTests.java
+END
+PathRegExpTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/PathRegExpTests.java
+END
+OrderedReadonlySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/OrderedReadonlySet.java
+END
+EncodeOrCheckTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/EncodeOrCheckTests.java
+END
+SortedOrderedBagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/SortedOrderedBagTest.java
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/TestUtils.java
+END
+UtilTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/UtilTests.java
+END
+OrderedMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/util/OrderedMapTest.java
+END

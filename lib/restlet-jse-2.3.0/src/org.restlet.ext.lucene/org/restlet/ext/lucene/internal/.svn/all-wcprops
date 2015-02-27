@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.lucene/org/restlet/ext/lucene/internal
+END
+SolrRestletQueryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.lucene/org/restlet/ext/lucene/internal/SolrRestletQueryRequest.java
+END
+SolrRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.lucene/org/restlet/ext/lucene/internal/SolrRepresentation.java
+END
+SolrRestletParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.lucene/org/restlet/ext/lucene/internal/SolrRestletParams.java
+END
+SolrRepresentationContentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.lucene/org/restlet/ext/lucene/internal/SolrRepresentationContentStream.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty
+END
+HttpServerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/HttpServerHelper.java
+END
+JettyServerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/JettyServerHelper.java
+END
+HttpsServerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/HttpsServerHelper.java
+END
+HttpClientHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/HttpClientHelper.java
+END

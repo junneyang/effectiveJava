@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal
+END
+AwsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/AwsUtils.java
+END
+HttpDigestVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/HttpDigestVerifier.java
+END
+HttpDigestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/HttpDigestHelper.java
+END
+HttpAwsQueryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/HttpAwsQueryHelper.java
+END
+HttpAwsS3Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/HttpAwsS3Helper.java
+END
+CryptoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/CryptoUtils.java
+END
+HttpAzureSharedKeyLiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/HttpAzureSharedKeyLiteHelper.java
+END
+AwsVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/AwsVerifier.java
+END
+HttpAzureSharedKeyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.crypto/org/restlet/ext/crypto/internal/HttpAzureSharedKeyHelper.java
+END

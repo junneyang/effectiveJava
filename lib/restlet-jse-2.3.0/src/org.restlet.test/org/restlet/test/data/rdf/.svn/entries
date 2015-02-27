@@ -1,0 +1,207 @@
+10
+
+dir
+232471
+https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf
+https://svn.baidu.com/myspace
+
+
+
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+rdf-ns-prefix-confusion
+dir
+
+rdf-containers-syntax-vs-schema
+dir
+
+pfps-10
+dir
+
+rdfms-duplicate-member-props
+dir
+
+rdfs-entailment
+dir
+
+rdfms-syntax-incomplete
+dir
+
+xml-canon
+dir
+
+rdf-element-not-mandatory
+dir
+
+rdfs-domain-and-range
+dir
+
+datatypes
+dir
+
+statement-entailment
+dir
+
+rdfms-identity-anon-resources
+dir
+
+rdfs-subPropertyOf-semantics
+dir
+
+rdfms-abouteach
+dir
+
+rdf-charmod-uris
+dir
+
+unrecognised-xml-attributes
+dir
+
+rdfs-container-membership-superProperty
+dir
+
+rdfms-xmllang
+dir
+
+xmlsch-02
+dir
+
+tex-01
+dir
+
+rdfms-rdf-names-use
+dir
+
+rdfms-uri-substructure
+dir
+
+rdfms-xml-literal-namespaces
+dir
+
+Manifest.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+a0d8941add293253e2c8688e82e57152
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+230369
+
+amp-in-url
+dir
+
+rdfms-reification-required
+dir
+
+xmlbase
+dir
+
+rdfms-para196
+dir
+
+rdfms-difference-between-ID-and-about
+dir
+
+rdfs-no-cycles-in-subClassOf
+dir
+
+rdfms-not-id-and-resource-attr
+dir
+
+rdfs-subClassOf-a-Property
+dir
+
+rdfms-seq-representation
+dir
+
+rdf-charmod-literals
+dir
+
+rdfms-empty-property-elements
+dir
+
+horst-01
+dir
+
+rdfs-no-cycles-in-subPropertyOf
+dir
+
+rdfms-rdf-id
+dir
+
+test.xml
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+

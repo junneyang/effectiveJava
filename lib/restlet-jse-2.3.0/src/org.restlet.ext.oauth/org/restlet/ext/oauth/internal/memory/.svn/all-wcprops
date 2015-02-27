@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/memory
+END
+MemoryClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/memory/MemoryClientManager.java
+END
+MemoryTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/memory/MemoryTokenManager.java
+END
+MemoryClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/memory/MemoryClient.java
+END
+MemoryToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/memory/MemoryToken.java
+END

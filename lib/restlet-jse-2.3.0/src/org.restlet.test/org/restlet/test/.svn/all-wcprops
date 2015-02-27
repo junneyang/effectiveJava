@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test
+END
+HeaderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/HeaderTestCase.java
+END
+AbstractFilterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/AbstractFilterTestCase.java
+END
+CallTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/CallTestCase.java
+END
+MockRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/MockRestlet.java
+END
+RestletTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/RestletTestSuite.java
+END
+TemplateFilterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/TemplateFilterTestCase.java
+END
+RestletTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/RestletTestCase.java
+END
+MockFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/MockFilter.java
+END
+TraceRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/TraceRestlet.java
+END

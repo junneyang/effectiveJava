@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed
+END
+CoOpApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed/CoOpApplication.java
+END
+Job expand jobParts-description-literals-language, jobPosting-name-literals-language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed/Job%20expand%20jobParts-description-literals-language,%20jobPosting-name-literals-language.xml
+END
+JobPosting expand name-literals-language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed/JobPosting%20expand%20name-literals-language.xml
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed/metadata.xml
+END
+University expand name-literals-language, departments-name-literals-language, departments-divisions-name-literals-language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 277
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed/University%20expand%20name-literals-language,%20departments-name-literals-language,%20departments-divisions-name-literals-language.xml
+END

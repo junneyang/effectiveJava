@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.sdc/META-INF/services
+END
+org.restlet.engine.ClientHelper
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.sdc/META-INF/services/org.restlet.engine.ClientHelper
+END
+org.restlet.engine.security.AuthenticatorHelper
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.sdc/META-INF/services/org.restlet.engine.security.AuthenticatorHelper
+END

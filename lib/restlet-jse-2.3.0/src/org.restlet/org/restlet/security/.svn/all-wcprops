@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security
+END
+Enroler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Enroler.java
+END
+MapVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/MapVerifier.java
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Authenticator.java
+END
+Verifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Verifier.java
+END
+ConfidentialAuthorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/ConfidentialAuthorizer.java
+END
+ChallengeAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/ChallengeAuthenticator.java
+END
+CertificateAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/CertificateAuthenticator.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/User.java
+END
+RoleAuthorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/RoleAuthorizer.java
+END
+SecretVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/SecretVerifier.java
+END
+LocalVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/LocalVerifier.java
+END
+MemoryRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/MemoryRealm.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Group.java
+END
+Authorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Authorizer.java
+END
+MethodAuthorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/MethodAuthorizer.java
+END
+Realm.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Realm.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security/Role.java
+END

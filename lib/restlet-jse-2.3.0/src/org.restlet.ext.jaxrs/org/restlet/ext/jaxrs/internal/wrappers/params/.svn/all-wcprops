@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params
+END
+ParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/ParameterList.java
+END
+IntoRrcInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/IntoRrcInjector.java
+END
+ReprEntityGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/ReprEntityGetter.java
+END
+ContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/ContextHolder.java
+END
+ContextInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/ContextInjector.java
+END
+EntityGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/EntityGetter.java
+END
+NamedValuesIter.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/params/NamedValuesIter.java
+END
