@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/src/app
+/myspace/!svn/ver/232954/lbs/bmeqa/restlet/effectiveJava/src/app
 END
 BasicGrammar.java
 K 25
@@ -20,4 +20,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 84
 /myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/src/app/FunctionDesign.java
+END
+OOClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/232954/lbs/bmeqa/restlet/effectiveJava/src/app/OOClass.java
 END

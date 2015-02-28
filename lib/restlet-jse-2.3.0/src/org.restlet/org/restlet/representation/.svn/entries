@@ -1,7 +1,7 @@
 10
 
 dir
-232471
+232956
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/representation
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-ReaderRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-53e0a1a845a6caf951a27d3ca7b6fa0c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3608
 
 ByteArrayRepresentation.java
 file
@@ -94,14 +60,14 @@ yangjun03
 
 3501
 
-ObjectRepresentation.java
+ReaderRepresentation.java
 file
 
 
 
 
 2015-02-27T14:04:10.000000Z
-7bfad91e80c0ca489a9fe7a747d87b01
+53e0a1a845a6caf951a27d3ca7b6fa0c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,7 +92,41 @@ yangjun03
 
 
 
-12702
+3608
+
+StringRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+4e0e985e076f2ec5c9e5f1fb589c8f90
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6398
 
 DigesterRepresentation.java
 file
@@ -162,14 +162,14 @@ yangjun03
 
 10107
 
-StringRepresentation.java
+ObjectRepresentation.java
 file
 
 
 
 
 2015-02-27T14:04:10.000000Z
-4e0e985e076f2ec5c9e5f1fb589c8f90
+7bfad91e80c0ca489a9fe7a747d87b01
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -194,7 +194,7 @@ yangjun03
 
 
 
-6398
+12702
 
 BufferingRepresentation.java
 file
@@ -332,40 +332,6 @@ yangjun03
 
 2223
 
-FileRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-fae26c3e4c0f23d8929dc86aa3741252
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8410
-
 Representation.java
 file
 
@@ -399,6 +365,40 @@ yangjun03
 
 
 21838
+
+FileRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+fae26c3e4c0f23d8929dc86aa3741252
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8410
 
 Variant.java
 file
@@ -434,14 +434,14 @@ yangjun03
 
 17404
 
-StreamRepresentation.java
+AppendableRepresentation.java
 file
 
 
 
 
 2015-02-27T14:04:10.000000Z
-89920d924d96b19567d1f2273040e8d6
+433ae79990fe434deca3e8729366b94b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -466,7 +466,7 @@ yangjun03
 
 
 
-2155
+4966
 
 RepresentationInfo.java
 file
@@ -502,14 +502,14 @@ yangjun03
 
 5564
 
-AppendableRepresentation.java
+StreamRepresentation.java
 file
 
 
 
 
 2015-02-27T14:04:10.000000Z
-433ae79990fe434deca3e8729366b94b
+89920d924d96b19567d1f2273040e8d6
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -534,7 +534,7 @@ yangjun03
 
 
 
-4966
+2155
 
 CharacterRepresentation.java
 file

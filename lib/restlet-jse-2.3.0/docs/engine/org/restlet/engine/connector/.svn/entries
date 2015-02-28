@@ -1,7 +1,7 @@
 10
 
 dir
-232471
+232956
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/connector
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-HttpProtocolHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-6c35badff76431d8dda83300516f7ac5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12373
 
 ProtocolHelper.html
 file
@@ -94,14 +60,14 @@ yangjun03
 
 11909
 
-HttpServerHelper.html
+HttpProtocolHelper.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-f17dba789102d6f78ae85d2528eb7691
+6c35badff76431d8dda83300516f7ac5
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,7 +92,7 @@ yangjun03
 
 
 
-19742
+12373
 
 ServerHelper.html
 file
@@ -162,6 +128,40 @@ yangjun03
 
 19772
 
+HttpServerHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+f17dba789102d6f78ae85d2528eb7691
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19742
+
 NetServerHelper.html
 file
 
@@ -196,14 +196,14 @@ yangjun03
 
 28594
 
-HttpUrlConnectionCall.html
+ClientHelper.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-9836721fdb37e70525d832c989936493
+0a1f05583f5caa350729439a38806b2f
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -228,41 +228,7 @@ yangjun03
 
 
 
-41716
-
-HttpExchangeCall.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-1fa92e581fd85613ddbdb6a90001d6d8
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-34447
+14054
 
 HttpClientHelper.html
 file
@@ -298,14 +264,14 @@ yangjun03
 
 27873
 
-ClientHelper.html
+HttpExchangeCall.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-0a1f05583f5caa350729439a38806b2f
+1fa92e581fd85613ddbdb6a90001d6d8
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,7 +296,41 @@ yangjun03
 
 
 
-14054
+34447
+
+HttpUrlConnectionCall.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+9836721fdb37e70525d832c989936493
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41716
 
 Method.html
 file
@@ -468,40 +468,6 @@ yangjun03
 
 10604
 
-FtpClientHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-5d1e0eaf3a01352448998b6b809edc30
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22953
-
 package-tree.html
 file
 
@@ -535,6 +501,40 @@ yangjun03
 
 
 9735
+
+FtpClientHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+5d1e0eaf3a01352448998b6b809edc30
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22953
 
 HttpsServerHelper.html
 file

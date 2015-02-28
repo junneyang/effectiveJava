@@ -1,7 +1,7 @@
 10
 
 dir
-232471
+232956
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+SelfInjectingServerResourceModule.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+588462dad466ecb7828333606cd35a1c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4825
 
 FinderFactory.html
 file
@@ -195,38 +229,4 @@ yangjun03
 
 
 4770
-
-SelfInjectingServerResourceModule.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-588462dad466ecb7828333606cd35a1c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4825
 
