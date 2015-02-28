@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext
 https://svn.baidu.com/myspace
 
@@ -26,31 +26,22 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-freemarker
-dir
-
-javamail
-dir
-
-jaxb
+jaxrs
 dir
 
 wadl
 dir
 
-jaxrs
+jackson
 dir
 
 odata
 dir
 
-jackson
+sip
 dir
 
 raml
-dir
-
-sip
 dir
 
 guice
@@ -59,10 +50,10 @@ dir
 velocity
 dir
 
-atom
+xml
 dir
 
-xml
+atom
 dir
 
 gwt
@@ -102,5 +93,14 @@ crypto
 dir
 
 oauth
+dir
+
+freemarker
+dir
+
+jaxb
+dir
+
+javamail
 dir
 

@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf/rdfms-empty-property-elements
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-test001.rdf
+test012.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-87705af486f75cfdd4f791b6930a742c
+dbb34470c4c4f53273f86124083c8b9e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,16 +58,16 @@ yangjun03
 
 
 
-810
+789
 
-test002.rdf
+test013.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-fc87c793afb71d780b98276b3a541a7a
+7ac022e4d2a69ec4c9c5a3dc002c4159
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -92,16 +92,16 @@ yangjun03
 
 
 
-747
+931
 
-test003.rdf
+test014.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-28d4a9c1ca4b79d92822d32c29b71094
+efd22ac363fcb1e9bf8e03195076d995
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,16 +126,16 @@ yangjun03
 
 
 
-792
+879
 
-test004.rdf
+test015.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-6c8c919d01dcff79aaa9d47df396c3ee
+e9d0d4ce7771ed6bb6d690348617da71
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -160,16 +160,16 @@ yangjun03
 
 
 
-833
+1076
 
-test005.rdf
+test016.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-2e27c19831eeb584528fa3ee444ecc6b
+cf2a45f7ffaf8976532e8d02f5697b4b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -194,75 +194,7 @@ yangjun03
 
 
 
-791
-
-test006.rdf
-file
-
-
-
-
-2015-02-27T14:04:14.000000Z
-78d7080d98a7f30289b554ab62484e6c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-822
-
-test007.rdf
-file
-
-
-
-
-2015-02-27T14:04:14.000000Z
-d14ecd0b05bba0e5f2b2067a737806dd
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-792
+855
 
 test001.nt
 file
@@ -298,14 +230,14 @@ yangjun03
 
 487
 
-test008.rdf
+test017.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-60d4ebf3b858c9c2d46c23051f09e13b
+c80987ba0ba578452a2f7d960b178413
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,7 +262,7 @@ yangjun03
 
 
 
-747
+1039
 
 test011.nt
 file
@@ -365,40 +297,6 @@ yangjun03
 
 
 1174
-
-test009.rdf
-file
-
-
-
-
-2015-02-27T14:04:14.000000Z
-670ec5aa0bb60204e75944e38eebef33
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-772
 
 test003.nt
 file
@@ -638,14 +536,14 @@ yangjun03
 
 516
 
-test010.rdf
+test001.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-05922af7d944c52512a5e764c34b3779
+87705af486f75cfdd4f791b6930a742c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -670,16 +568,16 @@ yangjun03
 
 
 
-772
+810
 
-test011.rdf
+test002.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-e333143af8dcf4a1c2de7bfea096cbc7
+fc87c793afb71d780b98276b3a541a7a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -704,16 +602,16 @@ yangjun03
 
 
 
-764
+747
 
-test012.rdf
+test003.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-dbb34470c4c4f53273f86124083c8b9e
+28d4a9c1ca4b79d92822d32c29b71094
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -738,16 +636,16 @@ yangjun03
 
 
 
-789
+792
 
-test013.rdf
+test004.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-7ac022e4d2a69ec4c9c5a3dc002c4159
+6c8c919d01dcff79aaa9d47df396c3ee
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -772,16 +670,16 @@ yangjun03
 
 
 
-931
+833
 
-test014.rdf
+test005.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-efd22ac363fcb1e9bf8e03195076d995
+2e27c19831eeb584528fa3ee444ecc6b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -806,16 +704,16 @@ yangjun03
 
 
 
-879
+791
 
-test015.rdf
+test006.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-e9d0d4ce7771ed6bb6d690348617da71
+78d7080d98a7f30289b554ab62484e6c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -840,7 +738,7 @@ yangjun03
 
 
 
-1076
+822
 
 test010.nt
 file
@@ -876,14 +774,14 @@ yangjun03
 
 461
 
-test016.rdf
+test007.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-cf2a45f7ffaf8976532e8d02f5697b4b
+d14ecd0b05bba0e5f2b2067a737806dd
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -908,7 +806,7 @@ yangjun03
 
 
 
-855
+792
 
 test002.nt
 file
@@ -944,14 +842,14 @@ yangjun03
 
 459
 
-test017.rdf
+test008.rdf
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-c80987ba0ba578452a2f7d960b178413
+60d4ebf3b858c9c2d46c23051f09e13b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -976,7 +874,7 @@ yangjun03
 
 
 
-1039
+747
 
 test012.nt
 file
@@ -1011,6 +909,40 @@ yangjun03
 
 
 1178
+
+test009.rdf
+file
+
+
+
+
+2015-02-27T14:04:14.000000Z
+670ec5aa0bb60204e75944e38eebef33
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+772
 
 test004.nt
 file
@@ -1283,4 +1215,72 @@ yangjun03
 
 
 459
+
+test010.rdf
+file
+
+
+
+
+2015-02-27T14:04:14.000000Z
+05922af7d944c52512a5e764c34b3779
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+772
+
+test011.rdf
+file
+
+
+
+
+2015-02-27T14:04:14.000000Z
+e333143af8dcf4a1c2de7bfea096cbc7
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+764
 

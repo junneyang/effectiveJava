@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src
 https://svn.baidu.com/myspace
 
@@ -71,13 +71,13 @@ dir
 org.restlet.ext.jetty
 dir
 
-org.restlet
+org.restlet.ext.jdbc
 dir
 
 org.restlet.ext.rome
 dir
 
-org.restlet.ext.jdbc
+org.restlet
 dir
 
 org.restlet.ext.html
@@ -138,10 +138,10 @@ dir
 org.restlet.ext.slf4j
 dir
 
-org.restlet.ext.jaxb
+org.restlet.ext.fileupload
 dir
 
-org.restlet.ext.fileupload
+org.restlet.ext.jaxb
 dir
 
 org.restlet.ext.nio

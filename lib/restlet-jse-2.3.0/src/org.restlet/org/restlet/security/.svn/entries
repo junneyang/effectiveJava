@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Realm.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-f13358c4a4ae125bc287e10b46b16913
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5320
-
-Role.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-e523683148e5a98db8be395ec4e0ba46
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8365
 
 Enroler.java
 file
@@ -264,40 +196,6 @@ yangjun03
 
 1614
 
-CertificateAuthenticator.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-6654e0537090c21d6ab8b83c104fd74d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4877
-
 ChallengeAuthenticator.java
 file
 
@@ -332,14 +230,14 @@ yangjun03
 
 11947
 
-User.java
+CertificateAuthenticator.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-f33d32606c3ad5625db8d869fe718e2e
+6654e0537090c21d6ab8b83c104fd74d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,7 +262,7 @@ yangjun03
 
 
 
-5476
+4877
 
 RoleAuthorizer.java
 file
@@ -399,6 +297,40 @@ yangjun03
 
 
 4823
+
+User.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+f33d32606c3ad5625db8d869fe718e2e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5476
 
 SecretVerifier.java
 file
@@ -603,4 +535,72 @@ yangjun03
 
 
 5082
+
+Realm.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+f13358c4a4ae125bc287e10b46b16913
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5320
+
+Role.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+e523683148e5a98db8be395ec4e0ba46
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8365
 

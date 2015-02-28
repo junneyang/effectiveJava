@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext
 https://svn.baidu.com/myspace
 
@@ -74,10 +74,10 @@ dir
 slf4j
 dir
 
-jaxb
+fileupload
 dir
 
-fileupload
+jaxb
 dir
 
 nio
@@ -89,10 +89,10 @@ dir
 jibx
 dir
 
-xml
+atom
 dir
 
-atom
+xml
 dir
 
 gwt
@@ -113,10 +113,10 @@ dir
 rdf
 dir
 
-thymeleaf
+httpclient
 dir
 
-httpclient
+thymeleaf
 dir
 
 jaas

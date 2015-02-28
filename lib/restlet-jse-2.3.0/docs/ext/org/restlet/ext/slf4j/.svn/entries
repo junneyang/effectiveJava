@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/slf4j
 https://svn.baidu.com/myspace
 
@@ -25,9 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-class-use
-dir
 
 Slf4jLogger.html
 file
@@ -232,4 +229,7 @@ yangjun03
 
 
 5693
+
+class-use
+dir
 

@@ -1,7 +1,7 @@
 10
 
 dir
-232956
+232993
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests
 https://svn.baidu.com/myspace
 
@@ -570,40 +570,6 @@ yangjun03
 
 2870
 
-ContextsTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-6f2e10962e3dd4095898bbc4757b2f93
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2621
-
 DeterminingMediaTypeTest.java
 file
 
@@ -637,6 +603,40 @@ yangjun03
 
 
 3754
+
+ContextsTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+6f2e10962e3dd4095898bbc4757b2f93
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2621
 
 IllegalConstructorTest.java
 file
@@ -672,40 +672,6 @@ yangjun03
 
 2072
 
-InjectionTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-0a8492a0a58169fb0da38faa937c1b6b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2530
-
 MessageBodyWritersTest.java
 file
 
@@ -739,6 +705,40 @@ yangjun03
 
 
 2949
+
+InjectionTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+0a8492a0a58169fb0da38faa937c1b6b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2530
 
 JaxRsTestCase.java
 file
@@ -808,40 +808,6 @@ yangjun03
 
 9593
 
-IllegalThingsTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-113693137185889309cb1c6a299e475c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2454
-
 MultipleResourcesTest.java
 file
 
@@ -876,14 +842,14 @@ yangjun03
 
 2490
 
-MethodAheadLocatorTest.java
+IllegalThingsTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-3f347e9b797c02a13386e47fc8b782f9
+113693137185889309cb1c6a299e475c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -908,41 +874,7 @@ yangjun03
 
 
 
-2268
-
-NoProviderTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-8319106155d3e274651e82db55b2b75e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2059
+2454
 
 SimpleTrainTest.java
 file
@@ -978,14 +910,14 @@ yangjun03
 
 8591
 
-Issue593Test.java
+NoProviderTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-dd308cbc1dd61c17d3d16b973f607e48
+8319106155d3e274651e82db55b2b75e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1010,7 +942,41 @@ yangjun03
 
 
 
-2170
+2059
+
+MethodAheadLocatorTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+3f347e9b797c02a13386e47fc8b782f9
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2268
 
 Issue971Test.java
 file
@@ -1045,6 +1011,40 @@ yangjun03
 
 
 2322
+
+Issue593Test.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+dd308cbc1dd61c17d3d16b973f607e48
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2170
 
 CookieParamTest.java
 file
