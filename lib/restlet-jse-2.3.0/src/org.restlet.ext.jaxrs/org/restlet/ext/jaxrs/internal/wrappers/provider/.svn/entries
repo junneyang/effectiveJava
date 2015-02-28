@@ -1,7 +1,7 @@
 10
 
 dir
-232993
+233007
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+AbstractProviderWrapper.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+bc79921cda88e49dfd3a875a1a2f244c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10781
+
+MessageBodyWriter.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+92a04f8643ecc805dcde8ad4a30c6147
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5244
 
 MessageBodyReaderSet.java
 file
@@ -331,72 +399,4 @@ yangjun03
 
 
 16351
-
-AbstractProviderWrapper.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-bc79921cda88e49dfd3a875a1a2f244c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10781
-
-MessageBodyWriter.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-92a04f8643ecc805dcde8ad4a30c6147
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5244
 

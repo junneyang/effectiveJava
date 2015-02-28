@@ -1,7 +1,7 @@
 10
 
 dir
-232993
+233007
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-AccountRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:08.000000Z
-d06b9e2d1ab3ad66fb5ef4b3e25372fc
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1686
 
 ContactResource.java
 file
@@ -399,4 +365,38 @@ yangjun03
 
 
 987
+
+AccountRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:08.000000Z
+d06b9e2d1ab3ad66fb5ef4b3e25372fc
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1686
 

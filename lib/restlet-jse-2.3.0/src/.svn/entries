@@ -1,7 +1,7 @@
 10
 
 dir
-232993
+233007
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src
 https://svn.baidu.com/myspace
 
@@ -26,7 +26,25 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-org.restlet.ext.xstream
+org.restlet.ext.gson
+dir
+
+org.restlet.ext.emf
+dir
+
+org.restlet.ext.e4
+dir
+
+org.restlet.ext.httpclient
+dir
+
+org.restlet.ext.jaas
+dir
+
+org.restlet.test
+dir
+
+org.restlet.ext.slf4j
 dir
 
 org.restlet.ext.freemarker
@@ -35,16 +53,10 @@ dir
 org.restlet.ext.javamail
 dir
 
-org.restlet.ext.jaxrs
+org.restlet.ext.nio
 dir
 
 org.restlet.ext.wadl
-dir
-
-org.restlet.ext.jackson
-dir
-
-org.restlet.ext.odata
 dir
 
 org.restlet.ext.simple
@@ -53,31 +65,22 @@ dir
 org.restlet.ext.raml
 dir
 
-org.restlet.ext.guice
-dir
-
-org.restlet.example
-dir
-
-org.restlet.ext.jsslutils
+org.restlet.ext.sip
 dir
 
 org.restlet.ext.velocity
 dir
 
-org.restlet.ext.swagger
+org.restlet.ext.xml
 dir
 
-org.restlet.ext.jetty
+org.restlet.ext.gwt
 dir
 
 org.restlet.ext.jdbc
 dir
 
 org.restlet.ext.rome
-dir
-
-org.restlet
 dir
 
 org.restlet.ext.html
@@ -117,10 +120,10 @@ yangjun03
 
 549
 
-org.restlet.ext.emf
+org.restlet.ext.json
 dir
 
-org.restlet.ext.json
+org.restlet.ext.sdc
 dir
 
 org.restlet.ext.apispark
@@ -129,66 +132,63 @@ dir
 org.restlet.ext.lucene
 dir
 
-org.restlet.ext.openid
-dir
-
-org.restlet.ext.crypto
-dir
-
-org.restlet.ext.slf4j
-dir
-
-org.restlet.ext.fileupload
-dir
-
-org.restlet.ext.jaxb
-dir
-
-org.restlet.ext.nio
-dir
-
-org.restlet.ext.sip
-dir
-
-org.restlet.ext.jibx
-dir
-
-org.restlet.ext.xml
-dir
-
-org.restlet.ext.atom
-dir
-
-org.restlet.ext.gwt
-dir
-
-org.restlet.ext.spring
-dir
-
-org.restlet.ext.gson
-dir
-
-org.restlet.ext.e4
-dir
-
-org.restlet.ext.sdc
-dir
-
 org.restlet.ext.rdf
+dir
+
+org.restlet.ext.openid
 dir
 
 org.restlet.ext.thymeleaf
 dir
 
-org.restlet.ext.jaas
-dir
-
-org.restlet.ext.httpclient
+org.restlet.ext.crypto
 dir
 
 org.restlet.ext.oauth
 dir
 
-org.restlet.test
+org.restlet.ext.xstream
+dir
+
+org.restlet.ext.jaxb
+dir
+
+org.restlet.ext.fileupload
+dir
+
+org.restlet.ext.jaxrs
+dir
+
+org.restlet.ext.jackson
+dir
+
+org.restlet.ext.odata
+dir
+
+org.restlet.ext.guice
+dir
+
+org.restlet.example
+dir
+
+org.restlet.ext.jsslutils
+dir
+
+org.restlet.ext.jibx
+dir
+
+org.restlet.ext.swagger
+dir
+
+org.restlet.ext.jetty
+dir
+
+org.restlet.ext.atom
+dir
+
+org.restlet
+dir
+
+org.restlet.ext.spring
 dir
 

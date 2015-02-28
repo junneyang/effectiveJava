@@ -1,7 +1,7 @@
 10
 
 dir
-232993
+233007
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/representation
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Variant.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-32de29e048c974960afcf8671d41e8fa
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31711
 
 StreamRepresentation.html
 file
@@ -298,40 +264,6 @@ yangjun03
 
 26823
 
-package-frame.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-bb6ec266771ff66707c161d4e838c227
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3372
-
 OutputRepresentation.html
 file
 
@@ -365,6 +297,40 @@ yangjun03
 
 
 24565
+
+package-frame.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+bb6ec266771ff66707c161d4e838c227
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3372
 
 package-use.html
 file
@@ -400,40 +366,6 @@ yangjun03
 
 15180
 
-ByteArrayRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-4c132385604ec405480173c5f618cf9a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24899
-
 ReaderRepresentation.html
 file
 
@@ -467,6 +399,40 @@ yangjun03
 
 
 29570
+
+ByteArrayRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+4c132385604ec405480173c5f618cf9a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24899
 
 package-summary.html
 file
@@ -706,6 +672,9 @@ yangjun03
 
 27179
 
+class-use
+dir
+
 WritableRepresentation.html
 file
 
@@ -739,9 +708,6 @@ yangjun03
 
 
 23874
-
-class-use
-dir
 
 WriterRepresentation.html
 file
@@ -777,6 +743,40 @@ yangjun03
 
 22174
 
+Representation.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+6f5360791a874bccbf7a5e0b6b5c7e7c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63783
+
 FileRepresentation.html
 file
 
@@ -811,14 +811,14 @@ yangjun03
 
 44000
 
-Representation.html
+Variant.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-6f5360791a874bccbf7a5e0b6b5c7e7c
+32de29e048c974960afcf8671d41e8fa
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -843,5 +843,5 @@ yangjun03
 
 
 
-63783
+31711
 
