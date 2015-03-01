@@ -1,7 +1,7 @@
 10
 
 dir
-233042
+233049
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/jackson
 https://svn.baidu.com/myspace
 
@@ -25,77 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-JacksonRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-818e068749d9ee54b22b07f6d858e629
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-51632
-
-class-use
-dir
-
-JacksonConverter.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-555032d2d42317dd8bc1e479fa4e1b61
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-35216
 
 package-frame.html
 file
@@ -232,4 +161,75 @@ yangjun03
 
 
 7231
+
+JacksonRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+818e068749d9ee54b22b07f6d858e629
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51632
+
+class-use
+dir
+
+JacksonConverter.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+555032d2d42317dd8bc1e479fa4e1b61
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35216
 

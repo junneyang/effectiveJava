@@ -1,7 +1,7 @@
 10
 
 dir
-233042
+233049
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/header/class-use
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,312 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+EncodingReader.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+b257153cd48395fefc469b0de335fe48
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4652
+
+DateWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+de8dac862351808bc9cc7086e0424176
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4608
+
+MethodWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+68e2772432d83ec197b5c0cb20052f98
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6865
+
+ProductWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+5b8acc78ba3747a9916980ce051c0b6b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4641
+
+ChallengeWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+37e7dbbe6074b4ac6048523c11156979
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18564
+
+DimensionWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+be4f31cc1563eafbf3e9fc57ddf621c8
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7156
+
+EncodingWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+0984325fed8e642529d79e79db75b297
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4652
+
+WarningReader.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+964ee3db93fcf46f717b7a1b41991220
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4641
+
+CookieSettingReader.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+76013a0bebadb0564543148024dbbfc9
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707
 
 ContentTypeReader.html
 file
@@ -502,40 +808,6 @@ yangjun03
 
 4619
 
-ExpectationWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-69b49dc5c9f28676b11a49d4b5214392
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6985
-
 LanguageWriter.html
 file
 
@@ -569,6 +841,40 @@ yangjun03
 
 
 4652
+
+ExpectationWriter.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+69b49dc5c9f28676b11a49d4b5214392
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6985
 
 RecipientInfoReader.html
 file
@@ -604,14 +910,14 @@ yangjun03
 
 4707
 
-CacheDirectiveReader.html
+HeaderWriter.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-404b53a59634ff7afd8dc563e94dbaba
+fdb33fbb8387f7cc05fdd903e8d9a3ad
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -636,7 +942,7 @@ yangjun03
 
 
 
-4718
+28523
 
 HeaderConstants.html
 file
@@ -672,14 +978,14 @@ yangjun03
 
 4663
 
-HeaderWriter.html
+CacheDirectiveReader.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-fdb33fbb8387f7cc05fdd903e8d9a3ad
+404b53a59634ff7afd8dc563e94dbaba
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -704,7 +1010,7 @@ yangjun03
 
 
 
-28523
+4718
 
 DispositionReader.html
 file
@@ -740,40 +1046,6 @@ yangjun03
 
 4685
 
-StringReader.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-d1dd3b145628ab6da0faf1272888e8cb
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4630
-
 RangeWriter.html
 file
 
@@ -807,6 +1079,40 @@ yangjun03
 
 
 7050
+
+StringReader.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+d1dd3b145628ab6da0faf1272888e8cb
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4630
 
 RecipientInfoWriter.html
 file
@@ -944,14 +1250,14 @@ yangjun03
 
 6985
 
-MethodReader.html
+ProductReader.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-9da66f99dc3dea8c444991631d40614d
+ed7848870c2998a7d9a3a7c97e2dbb51
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -976,41 +1282,7 @@ yangjun03
 
 
 
-4630
-
-StringWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-24ceb14a12f871e91cccb1925a9590f6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6838
+4641
 
 TokenReader.html
 file
@@ -1046,14 +1318,14 @@ yangjun03
 
 4619
 
-ProductReader.html
+StringWriter.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-ed7848870c2998a7d9a3a7c97e2dbb51
+24ceb14a12f871e91cccb1925a9590f6
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1078,7 +1350,41 @@ yangjun03
 
 
 
-4641
+6838
+
+MethodReader.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+9da66f99dc3dea8c444991631d40614d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4630
 
 CookieWriter.html
 file
@@ -1147,310 +1453,4 @@ yangjun03
 
 
 4663
-
-EncodingReader.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-b257153cd48395fefc469b0de335fe48
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4652
-
-DateWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-de8dac862351808bc9cc7086e0424176
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4608
-
-MethodWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-68e2772432d83ec197b5c0cb20052f98
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6865
-
-ProductWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-5b8acc78ba3747a9916980ce051c0b6b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4641
-
-ChallengeWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-37e7dbbe6074b4ac6048523c11156979
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18564
-
-DimensionWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-be4f31cc1563eafbf3e9fc57ddf621c8
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7156
-
-EncodingWriter.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-0984325fed8e642529d79e79db75b297
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4652
-
-WarningReader.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-964ee3db93fcf46f717b7a1b41991220
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4641
-
-CookieSettingReader.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-76013a0bebadb0564543148024dbbfc9
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4707
 

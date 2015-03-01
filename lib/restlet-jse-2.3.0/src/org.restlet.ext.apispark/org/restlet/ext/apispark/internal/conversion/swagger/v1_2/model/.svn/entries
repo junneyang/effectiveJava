@@ -1,7 +1,7 @@
 10
 
 dir
-233042
+233049
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,108 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+BasicAuthorizationDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+614048a1434ab7aa7d3f0a6691ec4413
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1296
+
+ApiKeyAuthorizationDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+ad1cae2246c9ab743649b18876db9c12
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1540
+
+ResponseMessageDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+6274fcaea98db27b1893666cfe92a0e6
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1699
 
 ResourceListingApi.java
 file
@@ -94,14 +196,14 @@ yangjun03
 
 4697
 
-ApiDeclaration.java
+ScopeDeclaration.java
 file
 
 
 
 
 2015-02-27T14:04:06.000000Z
-e83be22d155e33bfc26186419188a5a3
+27c6b7dd317362e5a344e12c9a8a747c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,41 +228,7 @@ yangjun03
 
 
 
-3775
-
-ResourceOperationParameterDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-4b1e23e72a7da2f62ff0a210191fb9c4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3939
+1514
 
 LoginEndpointDeclaration.java
 file
@@ -196,14 +264,14 @@ yangjun03
 
 1303
 
-ScopeDeclaration.java
+ResourceOperationParameterDeclaration.java
 file
 
 
 
 
 2015-02-27T14:04:06.000000Z
-27c6b7dd317362e5a344e12c9a8a747c
+4b1e23e72a7da2f62ff0a210191fb9c4
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -228,7 +296,41 @@ yangjun03
 
 
 
-1514
+3939
+
+ApiDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+e83be22d155e33bfc26186419188a5a3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3775
 
 ImplicitDeclaration.java
 file
@@ -332,40 +434,6 @@ yangjun03
 
 2303
 
-ItemsDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-ad0226f5e5e3f78696d02f6f53604d06
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1701
-
 TokenEndpointDeclaration.java
 file
 
@@ -400,14 +468,14 @@ yangjun03
 
 1494
 
-OAuth2AuthorizationDeclaration.java
+ItemsDeclaration.java
 file
 
 
 
 
 2015-02-27T14:04:06.000000Z
-2a038ebb3c428960b2e4e55038c4d5af
+ad0226f5e5e3f78696d02f6f53604d06
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -432,7 +500,7 @@ yangjun03
 
 
 
-1802
+1701
 
 AuthorizationsDeclaration.java
 file
@@ -467,6 +535,40 @@ yangjun03
 
 
 1899
+
+OAuth2AuthorizationDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+2a038ebb3c428960b2e4e55038c4d5af
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1802
 
 TypePropertyDeclaration.java
 file
@@ -739,106 +841,4 @@ yangjun03
 
 
 2581
-
-BasicAuthorizationDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-614048a1434ab7aa7d3f0a6691ec4413
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1296
-
-ApiKeyAuthorizationDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-ad1cae2246c9ab743649b18876db9c12
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1540
-
-ResponseMessageDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-6274fcaea98db27b1893666cfe92a0e6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1699
 

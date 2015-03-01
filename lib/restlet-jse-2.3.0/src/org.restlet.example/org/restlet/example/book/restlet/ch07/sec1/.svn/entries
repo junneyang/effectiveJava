@@ -1,7 +1,7 @@
 10
 
 dir
-233042
+233049
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec1
 https://svn.baidu.com/myspace
 
@@ -26,12 +26,6 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-sub1
-dir
-
-sub2
-dir
-
 sub3
 dir
 
@@ -39,5 +33,11 @@ sub4
 dir
 
 sub5
+dir
+
+sub1
+dir
+
+sub2
 dir
 

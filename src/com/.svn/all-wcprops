@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/src/com
+/myspace/!svn/ver/233049/lbs/bmeqa/restlet/effectiveJava/src/com
+END
+StreamGobbler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/233049/lbs/bmeqa/restlet/effectiveJava/src/com/StreamGobbler.java
 END
 LogHandler.java
 K 25

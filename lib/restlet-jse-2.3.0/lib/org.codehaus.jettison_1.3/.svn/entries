@@ -1,7 +1,7 @@
 10
 
 dir
-233042
+233049
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.codehaus.jettison_1.3
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-org.codehaus.jettison.jar
-file
-
-
-
-
-2015-02-27T14:04:03.000000Z
-f89c69522ab58a11b8a6251d5035d289
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-81899
-
-readme.txt
-file
-
-
-
-
-2015-02-27T14:04:03.000000Z
-a8cab20d3c2530b26f3e69db9f6c1d86
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-704
 
 license.txt
 file
@@ -161,4 +93,72 @@ yangjun03
 
 
 547
+
+org.codehaus.jettison.jar
+file
+
+
+
+
+2015-02-27T14:04:03.000000Z
+f89c69522ab58a11b8a6251d5035d289
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+81899
+
+readme.txt
+file
+
+
+
+
+2015-02-27T14:04:03.000000Z
+a8cab20d3c2530b26f3e69db9f6c1d86
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+704
 
