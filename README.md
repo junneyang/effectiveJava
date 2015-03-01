@@ -56,3 +56,8 @@ effective java, deep learning and practice for java.
 
 ### 009.Implement
 * 接口示例
+
+### 010.DataArray
+* java数组
+* 概念、声明以及初始化(new方式初始化-运行时初始化或者声明就初始化、直接静态初始化)
+* ArrayList:	动态扩展

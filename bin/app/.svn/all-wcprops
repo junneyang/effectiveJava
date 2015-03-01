@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/bin/app
+/myspace/!svn/ver/233041/lbs/bmeqa/restlet/effectiveJava/bin/app
 END
 BasicGrammar.class
 K 25
@@ -14,6 +14,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 84
 /myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/ConcreteClass.class
+END
+DataArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/233041/lbs/bmeqa/restlet/effectiveJava/bin/app/DataArray.class
 END
 AbstractClass.class
 K 25

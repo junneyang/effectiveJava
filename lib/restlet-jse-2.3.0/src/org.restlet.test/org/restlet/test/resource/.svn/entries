@@ -1,7 +1,7 @@
 10
 
 dir
-233007
+233042
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,142 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+MyResource01.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+7a7a7620db6ee527ec5065ede1079d1c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1409
+
+AnnotatedInterface02.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+5e778287c69219b129955929da50cbeb
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1142
+
+MyResource13.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+f748ff346e7fa37002fb404379ec23df
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1241
+
+USIMethod.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+7522e71ce3c22865e260fd473f82a3a3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1331
 
 MyResource05.java
 file
@@ -298,40 +434,6 @@ yangjun03
 
 1849
 
-AnnotatedResource16TestCase.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-0f613153ec2366d7fbaa6b74d7537f6c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2206
-
 MyServerResource13.java
 file
 
@@ -365,6 +467,40 @@ yangjun03
 
 
 1685
+
+AnnotatedResource16TestCase.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+0f613153ec2366d7fbaa6b74d7537f6c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2206
 
 AnnotatedResource08TestCase.java
 file
@@ -570,40 +706,6 @@ yangjun03
 
 1337
 
-AnnotatedInterface03.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-c74dcec8b962475e52338763d55e4c95
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1175
-
 ResourceTestSuite.java
 file
 
@@ -637,6 +739,40 @@ yangjun03
 
 
 2674
+
+AnnotatedInterface03.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+c74dcec8b962475e52338763d55e4c95
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1175
 
 MyResource06.java
 file
@@ -944,40 +1080,6 @@ yangjun03
 
 2415
 
-SNIMethod.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-2628c61260e89e588c5d7345c87e4505
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1331
-
 AnnotatedResource09TestCase.java
 file
 
@@ -1011,6 +1113,40 @@ yangjun03
 
 
 13109
+
+SNIMethod.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+2628c61260e89e588c5d7345c87e4505
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1331
 
 MyServerResource18.java
 file
@@ -1420,40 +1556,6 @@ yangjun03
 
 2400
 
-MyServerResource15.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-934e2b0b97cab2990ec7fc02735ab034
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1234
-
 AnnotatedResource18TestCase.java
 file
 
@@ -1487,6 +1589,40 @@ yangjun03
 
 
 2415
+
+MyServerResource15.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+934e2b0b97cab2990ec7fc02735ab034
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1234
 
 Contact.java
 file
@@ -1590,40 +1726,6 @@ yangjun03
 
 1139
 
-DirectoryTestCase.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-db12cc2b544048d62e6f05cf84d8a1e5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32445
-
 MyResource12.java
 file
 
@@ -1657,6 +1759,40 @@ yangjun03
 
 
 1197
+
+DirectoryTestCase.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+db12cc2b544048d62e6f05cf84d8a1e5
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32445
 
 MyResource04.java
 file
@@ -1998,40 +2134,6 @@ yangjun03
 
 1658
 
-MyServerResource12.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-53fdb943e4cd49499cf782616de7179e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1316
-
 AnnotatedResource15TestCase.java
 file
 
@@ -2065,6 +2167,40 @@ yangjun03
 
 
 2206
+
+MyServerResource12.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+53fdb943e4cd49499cf782616de7179e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1316
 
 AnnotatedResource07TestCase.java
 file
@@ -2167,140 +2303,4 @@ yangjun03
 
 
 1096
-
-MyResource01.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-7a7a7620db6ee527ec5065ede1079d1c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1409
-
-AnnotatedInterface02.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-5e778287c69219b129955929da50cbeb
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1142
-
-MyResource13.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-f748ff346e7fa37002fb404379ec23df
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1241
-
-USIMethod.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-7522e71ce3c22865e260fd473f82a3a3
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1331
 

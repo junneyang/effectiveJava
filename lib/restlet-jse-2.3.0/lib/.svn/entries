@@ -1,7 +1,7 @@
 10
 
 dir
-233007
+233042
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,191 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+org.restlet.ext.jaxrs.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+6750c82f50c4370fdbffc191ff90b932
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+317721
+
+org.restlet.ext.wadl.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+ba5daf9f317ace63a6fdf9e2ac7d385d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69282
+
+org.restlet.ext.jackson.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+13fe63d258c58ab2fe0e9b020af0372f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7209
+
+org.apache.commons.dbcp_1.3
+dir
+
+org.restlet.ext.odata.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+e6a16ac93b40cb1f7757c8c94dd949a8
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89259
+
+readme.txt
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+92322ebd23a9729ef55df690bdf63a73
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8470
+
+org.aopalliance_1.0
+dir
+
+com.sun.xml.bind_2.1
+dir
+
+javax.mail_1.4
+dir
+
+net.sourceforge.nekohtml_1.9
+dir
 
 org.restlet.ext.jdbc.jar
 file
@@ -60,10 +245,13 @@ has-props
 
 11335
 
+org.thymeleaf_2.1
+dir
+
 net.jcip.annotations_1.0
 dir
 
-org.thymeleaf_2.1
+org.codehaus.woodstox_4.3
 dir
 
 org.restlet.ext.json.jar
@@ -99,9 +287,6 @@ has-props
 
 
 8501
-
-org.codehaus.woodstox_4.3
-dir
 
 org.freemarker_2.3
 dir
@@ -251,9 +436,6 @@ has-props
 
 2428
 
-org.raml_0.8
-dir
-
 org.restlet.ext.nio.jar
 file
 
@@ -288,19 +470,22 @@ has-props
 
 138171
 
+org.raml_0.8
+dir
+
 org.apache.httpclient_4.3
 dir
 
 org.mongodb_2.11
 dir
 
-org.hamcrest_1.3
+org.apache.james.mime4j_0.7
 dir
 
 org.yaml.snakeyaml_1.13
 dir
 
-org.apache.james.mime4j_0.7
+org.hamcrest_1.3
 dir
 
 org.apache.tika_1.4
@@ -343,6 +528,9 @@ has-props
 
 31453
 
+org.junit_4.11
+dir
+
 org.joda.time_2.3
 dir
 
@@ -382,9 +570,6 @@ has-props
 
 
 6558
-
-org.junit_4.11
-dir
 
 org.restlet.ext.spring.jar
 file
@@ -429,7 +614,7 @@ dir
 com.google.gdata_1.0
 dir
 
-org.apache.velocity_1.7
+com.thoughtworks.xstream_1.4
 dir
 
 org.restlet.ext.e4.jar
@@ -466,7 +651,7 @@ has-props
 
 3694
 
-com.thoughtworks.xstream_1.4
+org.apache.velocity_1.7
 dir
 
 org.restlet.ext.sdc.jar
@@ -503,40 +688,6 @@ has-props
 
 16544
 
-org.restlet.ext.thymeleaf.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-79b5f4dafc4111cc014c02d8dda3ba5a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8812
-
 org.restlet.ext.jaas.jar
 file
 
@@ -571,17 +722,14 @@ has-props
 
 4897
 
-javax.ws.rs_2.0
-dir
-
-org.restlet.ext.xstream.jar
+org.restlet.ext.thymeleaf.jar
 file
 
 
 
 
 2015-02-27T14:04:05.000000Z
-8ae1a6bab4fea0217714588196aab818
+79b5f4dafc4111cc014c02d8dda3ba5a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -606,7 +754,10 @@ has-props
 
 
 
-8437
+8812
+
+javax.ws.rs_2.0
+dir
 
 org.restlet.ext.freemarker.jar
 file
@@ -641,6 +792,40 @@ has-props
 
 
 9092
+
+org.restlet.ext.xstream.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+8ae1a6bab4fea0217714588196aab818
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8437
 
 org.restlet.ext.javamail.jar
 file
@@ -679,10 +864,10 @@ has-props
 org.apache.commons.io_2.0
 dir
 
-org.apache.lucene_4.6
+org.osgi_4.0
 dir
 
-org.osgi_4.0
+org.apache.lucene_4.6
 dir
 
 org.restlet.ext.simple.jar
@@ -719,12 +904,6 @@ has-props
 
 11666
 
-com.google.protobuf_2.5
-dir
-
-org.apache.solr_4.6
-dir
-
 org.restlet.ext.raml.jar
 file
 
@@ -759,73 +938,11 @@ has-props
 
 4245
 
-org.restlet.ext.guice.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-b6789bf9ea012fd68faed1a310c05a7f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15191
+org.apache.solr_4.6
+dir
 
-org.restlet.ext.jsslutils.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-605684c48f22466069b252aec4535ae0
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4220
+com.google.protobuf_2.5
+dir
 
 org.restlet.example.jar
 file
@@ -861,6 +978,74 @@ has-props
 
 4263842
 
+org.restlet.ext.jsslutils.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+605684c48f22466069b252aec4535ae0
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4220
+
+org.restlet.ext.guice.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+b6789bf9ea012fd68faed1a310c05a7f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15191
+
 org.restlet.ext.velocity.jar
 file
 
@@ -895,39 +1080,11 @@ has-props
 
 9559
 
-org.restlet.ext.jetty.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-777ab6b371acbeb74ebe677394bb077b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21927
+org.apache.commons.codec_1.5
+dir
+
+org.apache.commons.collections_3.2
+dir
 
 org.restlet.ext.swagger.jar
 file
@@ -963,23 +1120,14 @@ has-props
 
 11438
 
-org.apache.commons.codec_1.5
-dir
-
-org.apache.commons.collections_3.2
-dir
-
-org.apache.httpmime_4.3
-dir
-
-org.restlet.jar
+org.restlet.ext.jetty.jar
 file
 
 
 
 
 2015-02-27T14:04:05.000000Z
-7161b4a315369a126bfc8a2d3363dcf1
+777ab6b371acbeb74ebe677394bb077b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1004,7 +1152,10 @@ has-props
 
 
 
-708959
+21927
+
+org.apache.httpmime_4.3
+dir
 
 org.restlet.ext.rome.jar
 file
@@ -1039,6 +1190,40 @@ has-props
 
 
 5157
+
+org.restlet.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+7161b4a315369a126bfc8a2d3363dcf1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+708959
 
 org.restlet.ext.html.jar
 file
@@ -1179,10 +1364,10 @@ has-props
 
 26541
 
-org.jsslutils_1.0
+org.eclipse.jetty_9.2
 dir
 
-org.eclipse.jetty_9.2
+org.jsslutils_1.0
 dir
 
 org.restlet.ext.crypto.jar
@@ -1219,10 +1404,13 @@ has-props
 
 36211
 
+org.apache.log4j_1.2
+dir
+
 org.eclipse.emf_2.6
 dir
 
-org.apache.log4j_1.2
+org.apache.commons.pool_1.5
 dir
 
 org.restlet.ext.sip.jar
@@ -1259,12 +1447,6 @@ has-props
 
 85501
 
-org.apache.commons.pool_1.5
-dir
-
-javax.servlet_3.1
-dir
-
 org.restlet.ext.jibx.jar
 file
 
@@ -1298,6 +1480,9 @@ has-props
 
 
 5966
+
+javax.servlet_3.1
+dir
 
 org.json_2.0
 dir
@@ -1474,40 +1659,6 @@ has-props
 org.codehaus.jettison_1.3
 dir
 
-org.restlet.test.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-6b0496ccaaf360d3ad0a1517a7cfc909
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1117768
-
 org.restlet.ext.oauth.jar
 file
 
@@ -1542,6 +1693,40 @@ has-props
 
 72911
 
+org.restlet.test.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+6b0496ccaaf360d3ad0a1517a7cfc909
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1117768
+
 org.jibx_1.2
 dir
 
@@ -1549,190 +1734,5 @@ com.google.guice_3.0
 dir
 
 org.javassist_3.18
-dir
-
-org.restlet.ext.wadl.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-ba5daf9f317ace63a6fdf9e2ac7d385d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-69282
-
-org.restlet.ext.jaxrs.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-6750c82f50c4370fdbffc191ff90b932
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-317721
-
-org.restlet.ext.odata.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-e6a16ac93b40cb1f7757c8c94dd949a8
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-89259
-
-org.apache.commons.dbcp_1.3
-dir
-
-org.restlet.ext.jackson.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-13fe63d258c58ab2fe0e9b020af0372f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7209
-
-readme.txt
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-92322ebd23a9729ef55df690bdf63a73
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8470
-
-com.sun.xml.bind_2.1
-dir
-
-javax.mail_1.4
-dir
-
-org.aopalliance_1.0
-dir
-
-net.sourceforge.nekohtml_1.9
 dir
 

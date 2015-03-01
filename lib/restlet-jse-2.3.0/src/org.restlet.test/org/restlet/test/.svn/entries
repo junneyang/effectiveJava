@@ -1,7 +1,7 @@
 10
 
 dir
-233007
+233042
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,12 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+xslt
+dir
+
+connector
+dir
 
 TemplateFilterTestCase.java
 file
@@ -94,16 +100,16 @@ yangjun03
 
 2823
 
-ext
-dir
-
 service
 dir
 
-component
+ext
 dir
 
 representation
+dir
+
+component
 dir
 
 HeaderTestCase.java
@@ -328,12 +334,6 @@ yangjun03
 
 3816
 
-routing
-dir
-
-resource
-dir
-
 CallTestCase.java
 file
 
@@ -368,9 +368,9 @@ yangjun03
 
 8487
 
-xslt
+resource
 dir
 
-connector
+routing
 dir
 

@@ -1,7 +1,7 @@
 10
 
 dir
-233007
+233042
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf/rdfms-duplicate-member-props
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-test001.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-6e775722b3768038a298b378a720d2a6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1011
 
 test001.nt
 file
@@ -93,4 +59,38 @@ yangjun03
 
 
 756
+
+test001.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+6e775722b3768038a298b378a720d2a6
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1011
 

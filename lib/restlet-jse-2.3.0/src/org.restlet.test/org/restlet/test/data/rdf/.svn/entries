@@ -1,7 +1,7 @@
 10
 
 dir
-233007
+233042
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf
 https://svn.baidu.com/myspace
 
@@ -26,76 +26,6 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-rdfms-identity-anon-resources
-dir
-
-rdfs-subPropertyOf-semantics
-dir
-
-rdfms-abouteach
-dir
-
-rdf-charmod-uris
-dir
-
-unrecognised-xml-attributes
-dir
-
-rdfs-container-membership-superProperty
-dir
-
-rdfms-xmllang
-dir
-
-xmlsch-02
-dir
-
-tex-01
-dir
-
-rdfms-rdf-names-use
-dir
-
-rdfms-uri-substructure
-dir
-
-rdfms-xml-literal-namespaces
-dir
-
-Manifest.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-a0d8941add293253e2c8688e82e57152
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-230369
-
 amp-in-url
 dir
 
@@ -105,10 +35,10 @@ dir
 xmlbase
 dir
 
-rdfms-para196
+rdfms-difference-between-ID-and-about
 dir
 
-rdfms-difference-between-ID-and-about
+rdfms-para196
 dir
 
 rdfs-no-cycles-in-subClassOf
@@ -184,10 +114,10 @@ dir
 rdfms-duplicate-member-props
 dir
 
-rdf-element-not-mandatory
+xml-canon
 dir
 
-xml-canon
+rdf-element-not-mandatory
 dir
 
 rdfms-syntax-incomplete
@@ -204,4 +134,74 @@ dir
 
 statement-entailment
 dir
+
+rdfms-identity-anon-resources
+dir
+
+rdfs-subPropertyOf-semantics
+dir
+
+rdfms-abouteach
+dir
+
+rdf-charmod-uris
+dir
+
+unrecognised-xml-attributes
+dir
+
+rdfs-container-membership-superProperty
+dir
+
+rdfms-xmllang
+dir
+
+xmlsch-02
+dir
+
+tex-01
+dir
+
+rdfms-rdf-names-use
+dir
+
+rdfms-uri-substructure
+dir
+
+rdfms-xml-literal-namespaces
+dir
+
+Manifest.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+a0d8941add293253e2c8688e82e57152
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+230369
 

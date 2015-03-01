@@ -1,7 +1,7 @@
 10
 
 dir
-233007
+233042
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/crypto/class-use
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-CookieAuthenticator.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-857a6a2f3d88b8298fb315fa75d2ef20
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4682
-
-AwsAuthenticator.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-61eaaf647f1071cafff7a3ede84fe965
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4649
 
 DigestAuthenticator.html
 file
@@ -195,4 +127,72 @@ yangjun03
 
 
 4594
+
+CookieAuthenticator.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+857a6a2f3d88b8298fb315fa75d2ef20
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4682
+
+AwsAuthenticator.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+61eaaf647f1071cafff7a3ede84fe965
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4649
 
