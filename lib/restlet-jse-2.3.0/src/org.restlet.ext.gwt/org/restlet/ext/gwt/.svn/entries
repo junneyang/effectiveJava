@@ -1,7 +1,7 @@
 10
 
 dir
-233049
+233051
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.gwt/org/restlet/ext/gwt
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+SimpleSerializationPolicyProvider.java
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+0f13351803f3a51a2a78f83cf9a4c294
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1615
 
 SimpleSerializationPolicy.java
 file
@@ -127,38 +161,4 @@ yangjun03
 
 
 6435
-
-SimpleSerializationPolicyProvider.java
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-0f13351803f3a51a2a78f83cf9a4c294
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1615
 

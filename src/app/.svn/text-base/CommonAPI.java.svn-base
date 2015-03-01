@@ -72,6 +72,8 @@ public class CommonAPI {
 				p = r.exec("cmd.exe /C " + cmdStr);
 			} else if (osName.equals("Windows 95")) {
 				p = r.exec("command.com /C " + cmdStr);
+			} else if (osName.equals("Linux")) {
+				p = r.exec(cmdStr);
 			}
 			StreamGobbler errorGobbler = new StreamGobbler(p.getErrorStream(), error);
 			StreamGobbler outputGobbler = new StreamGobbler(p.getInputStream(), output);

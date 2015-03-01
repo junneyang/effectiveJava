@@ -1,31 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/233049/lbs/bmeqa/restlet/effectiveJava/bin/app
-END
-OOParam.class
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/bin/app/OOParam.class
-END
-FunctionDesign.class
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/FunctionDesign.class
-END
-Interface.class
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/bin/app/Interface.class
+/myspace/!svn/ver/233051/lbs/bmeqa/restlet/effectiveJava/bin/app
 END
 CommonAPI.class
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/myspace/!svn/ver/233049/lbs/bmeqa/restlet/effectiveJava/bin/app/CommonAPI.class
+/myspace/!svn/ver/233051/lbs/bmeqa/restlet/effectiveJava/bin/app/CommonAPI.class
 END
 OOClass.class
 K 25
@@ -80,4 +62,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 81
 /myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/HelloWorld.class
+END
+OOParam.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/bin/app/OOParam.class
+END
+FunctionDesign.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/FunctionDesign.class
+END
+Interface.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/bin/app/Interface.class
 END

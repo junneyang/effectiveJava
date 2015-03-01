@@ -1,7 +1,7 @@
 10
 
 dir
-233049
+233051
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext
 https://svn.baidu.com/myspace
 
@@ -26,58 +26,79 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-openid
-dir
-
-crypto
-dir
-
-slf4j
-dir
-
-fileupload
-dir
-
-jaxb
-dir
-
-nio
-dir
-
-sip
-dir
-
-jibx
-dir
-
-xml
-dir
-
-atom
-dir
-
-gwt
-dir
-
-spring
-dir
-
 gson
+dir
+
+emf
 dir
 
 e4
 dir
 
-sdc
-dir
-
-rdf
+httpclient
 dir
 
 jaas
 dir
 
-httpclient
+slf4j
+dir
+
+freemarker
+dir
+
+javamail
+dir
+
+nio
+dir
+
+wadl
+dir
+
+simple
+dir
+
+sip
+dir
+
+raml
+dir
+
+velocity
+dir
+
+xml
+dir
+
+gwt
+dir
+
+jdbc
+dir
+
+rome
+dir
+
+html
+dir
+
+json
+dir
+
+sdc
+dir
+
+apispark
+dir
+
+lucene
+dir
+
+rdf
+dir
+
+openid
 dir
 
 thymeleaf
@@ -86,40 +107,34 @@ dir
 oauth
 dir
 
-freemarker
+crypto
 dir
 
 xstream
 dir
 
-javamail
+fileupload
 dir
 
-wadl
+jaxb
 dir
 
 jaxrs
 dir
 
-jackson
-dir
-
 odata
 dir
 
-simple
-dir
-
-raml
-dir
-
-jsslutils
+jackson
 dir
 
 guice
 dir
 
-velocity
+jsslutils
+dir
+
+jibx
 dir
 
 jetty
@@ -128,24 +143,9 @@ dir
 swagger
 dir
 
-rome
+atom
 dir
 
-jdbc
-dir
-
-html
-dir
-
-emf
-dir
-
-json
-dir
-
-apispark
-dir
-
-lucene
+spring
 dir
 

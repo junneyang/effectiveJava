@@ -1,7 +1,7 @@
 10
 
 dir
-233049
+233051
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/class-use
 https://svn.baidu.com/myspace
 
@@ -25,142 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Disposition.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-d981317e204c54caff8bc93dc1380baf
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9974
-
-ChallengeScheme.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-f12048ae29cab34deaa26468403172de
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-35380
-
-CharacterSet.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-266d598904aa33e11678fb064820af2d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-42310
-
-LocalReference.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-7a61490b33c3641e772db7cd7c5ac8f6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12693
 
 Preference.html
 file
@@ -230,40 +94,6 @@ yangjun03
 
 11892
 
-Product.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-c764ee21bb9eb51bde5d028995c6813c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8692
-
 Metadata.html
 file
 
@@ -298,14 +128,14 @@ yangjun03
 
 25997
 
-Language.html
+Product.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-e44936402d07ca70fe96eb9951d9c026
+c764ee21bb9eb51bde5d028995c6813c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,7 +160,7 @@ yangjun03
 
 
 
-29894
+8692
 
 Status.html
 file
@@ -365,6 +195,40 @@ yangjun03
 
 
 71320
+
+Language.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+e44936402d07ca70fe96eb9951d9c026
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29894
 
 Dimension.html
 file
@@ -434,40 +298,6 @@ yangjun03
 
 6395
 
-ReferenceList.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-f8ba8621b4a37411b01828b7a1da0245
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9217
-
 ClientInfo.html
 file
 
@@ -501,6 +331,40 @@ yangjun03
 
 
 18173
+
+ReferenceList.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+f8ba8621b4a37411b01828b7a1da0245
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9217
 
 AuthenticationInfo.html
 file
@@ -774,40 +638,6 @@ yangjun03
 
 13249
 
-Cookie.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-c2d77ef3fc0e00d669f8b647ee7948a4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14093
-
 Conditions.html
 file
 
@@ -841,6 +671,40 @@ yangjun03
 
 
 12261
+
+Cookie.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+c2d77ef3fc0e00d669f8b647ee7948a4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14093
 
 Tag.html
 file
@@ -876,40 +740,6 @@ yangjun03
 
 24551
 
-Method.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-5bf3a3d33e8a27371b1ca273e6ebdcf0
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-54214
-
 Parameter.html
 file
 
@@ -943,6 +773,40 @@ yangjun03
 
 
 34772
+
+Method.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+5bf3a3d33e8a27371b1ca273e6ebdcf0
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54214
 
 MediaType.html
 file
@@ -1215,4 +1079,140 @@ yangjun03
 
 
 10133
+
+Disposition.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+d981317e204c54caff8bc93dc1380baf
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9974
+
+ChallengeScheme.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+f12048ae29cab34deaa26468403172de
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35380
+
+CharacterSet.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+266d598904aa33e11678fb064820af2d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42310
+
+LocalReference.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+7a61490b33c3641e772db7cd7c5ac8f6
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12693
 
