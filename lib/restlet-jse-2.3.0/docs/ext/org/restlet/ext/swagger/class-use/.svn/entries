@@ -1,7 +1,7 @@
 10
 
 dir
-233051
+233058
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/swagger/class-use
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-SwaggerApplication.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-b188a0d3e89961a1fb5133b2648a78b3
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4682
-
-SwaggerSpecificationRestlet.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-798ca4f3c451fdd86dd87d49f6d74c6f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7397
 
 Swagger2SpecificationRestlet.html
 file
@@ -195,4 +127,72 @@ yangjun03
 
 
 4968
+
+SwaggerApplication.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+b188a0d3e89961a1fb5133b2648a78b3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4682
+
+SwaggerSpecificationRestlet.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+798ca4f3c451fdd86dd87d49f6d74c6f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7397
 

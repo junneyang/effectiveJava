@@ -1,7 +1,7 @@
 10
 
 dir
-233051
+233058
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/connector
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-FtpClientHelper.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-0461381791ef70480cc9045fd57720e3
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7532
 
 HttpsServerHelper.java
 file
@@ -94,40 +60,6 @@ yangjun03
 
 4734
 
-ConnectorHelper.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-64bae59e004c9ac725cc616f65d3a20a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2896
-
 WebDavProtocolHelper.java
 file
 
@@ -162,14 +94,14 @@ yangjun03
 
 1448
 
-ConnectionClosingRepresentation.java
+ConnectorHelper.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-f1a82804325cc7fabd1eda98a82131a4
+64bae59e004c9ac725cc616f65d3a20a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -194,41 +126,7 @@ yangjun03
 
 
 
-1919
-
-HttpProtocolHelper.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-36650c6c5577b4a6305a3456f58b519e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1553
+2896
 
 ProtocolHelper.java
 file
@@ -264,14 +162,14 @@ yangjun03
 
 1417
 
-HttpServerHelper.java
+HttpProtocolHelper.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-bd00fe7925d0b27af5bed1100e26589e
+36650c6c5577b4a6305a3456f58b519e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,7 +194,41 @@ yangjun03
 
 
 
-2438
+1553
+
+ConnectionClosingRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+f1a82804325cc7fabd1eda98a82131a4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1919
 
 ServerHelper.java
 file
@@ -332,6 +264,40 @@ yangjun03
 
 2725
 
+HttpServerHelper.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+bd00fe7925d0b27af5bed1100e26589e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2438
+
 NetServerHelper.java
 file
 
@@ -365,108 +331,6 @@ yangjun03
 
 
 8033
-
-ClientHelper.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-0b75e2b88a7d84ad2e636f5cfebfdf91
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1577
-
-HttpClientHelper.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-525f3693a6169ba1907c14bf10048f04
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7991
-
-HttpExchangeCall.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-8d298b5bf5a7cfd0d7514b0628509865
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4179
 
 HttpUrlConnectionCall.java
 file
@@ -502,6 +366,108 @@ yangjun03
 
 14501
 
+HttpExchangeCall.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+8d298b5bf5a7cfd0d7514b0628509865
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4179
+
+HttpClientHelper.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+525f3693a6169ba1907c14bf10048f04
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7991
+
+ClientHelper.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+0b75e2b88a7d84ad2e636f5cfebfdf91
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1577
+
 Method.java
 file
 
@@ -535,4 +501,38 @@ yangjun03
 
 
 1671
+
+FtpClientHelper.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+0461381791ef70480cc9045fd57720e3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7532
 

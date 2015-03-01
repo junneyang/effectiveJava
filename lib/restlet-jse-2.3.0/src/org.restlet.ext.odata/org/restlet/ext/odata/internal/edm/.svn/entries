@@ -1,7 +1,7 @@
 10
 
 dir
-233051
+233058
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/edm
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-AssociationSet.java
+Type.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-ab112b449bd356366370a26555c7315e
+5e74cae556b430b0d2911bd87ca9895c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,7 +58,41 @@ yangjun03
 
 
 
-2696
+2789
+
+Property.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+e3b0e53fe8b366d6498864984f2d30b1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5689
 
 EntitySet.java
 file
@@ -93,6 +127,40 @@ yangjun03
 
 
 1918
+
+AssociationSet.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+ab112b449bd356366370a26555c7315e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2696
 
 ODataType.java
 file
@@ -264,40 +332,6 @@ yangjun03
 
 22005
 
-AssociationEnd.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-f896664ddfd91944360ee7d8f3f020a4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2879
-
 MetadataReader.java
 file
 
@@ -331,6 +365,40 @@ yangjun03
 
 
 31220
+
+AssociationEnd.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+f896664ddfd91944360ee7d8f3f020a4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2879
 
 NavigationProperty.java
 file
@@ -434,40 +502,6 @@ yangjun03
 
 2560
 
-ComplexProperty.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-01f0429f1febc86ae561cc54c76a2ed7
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1828
-
 Association.java
 file
 
@@ -501,6 +535,40 @@ yangjun03
 
 
 2451
+
+ComplexProperty.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+01f0429f1febc86ae561cc54c76a2ed7
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1828
 
 EntityType.java
 file
@@ -705,72 +773,4 @@ yangjun03
 
 
 3858
-
-Type.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-5e74cae556b430b0d2911bd87ca9895c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2789
-
-Property.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-e3b0e53fe8b366d6498864984f2d30b1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5689
 

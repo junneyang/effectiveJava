@@ -1,7 +1,7 @@
 10
 
 dir
-233051
+233058
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-TokenVerifier.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-9b8c150253d117a8f7befe504d065986
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8354
 
 GrantType.java
 file
@@ -196,14 +162,14 @@ yangjun03
 
 12736
 
-AuthorizationBaseServerResource.java
+OAuthResourceDefs.java
 file
 
 
 
 
 2015-02-27T14:04:06.000000Z
-416b6e871eafd14b6cafa0ec72f7ec3a
+e7708ade7b9ecb8269d6e97440c53e56
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -228,7 +194,7 @@ yangjun03
 
 
 
-7677
+2205
 
 OAuthError.java
 file
@@ -264,14 +230,14 @@ yangjun03
 
 1702
 
-OAuthResourceDefs.java
+AuthorizationBaseServerResource.java
 file
 
 
 
 
 2015-02-27T14:04:06.000000Z
-e7708ade7b9ecb8269d6e97440c53e56
+416b6e871eafd14b6cafa0ec72f7ec3a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,7 +262,7 @@ yangjun03
 
 
 
-2205
+7677
 
 internal
 dir
@@ -335,40 +301,6 @@ yangjun03
 
 12699
 
-OAuthException.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-c6db973280ebad6499022d0f2ed07265
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4054
-
 AuthorizationServerResource.java
 file
 
@@ -403,14 +335,14 @@ yangjun03
 
 11754
 
-ProtectedClientResource.java
+OAuthException.java
 file
 
 
 
 
 2015-02-27T14:04:06.000000Z
-50e3cdcb8a7c06f56be8220d93d185f2
+c6db973280ebad6499022d0f2ed07265
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -435,7 +367,7 @@ yangjun03
 
 
 
-5079
+4054
 
 ResponseType.java
 file
@@ -470,6 +402,40 @@ yangjun03
 
 
 1201
+
+ProtectedClientResource.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+50e3cdcb8a7c06f56be8220d93d185f2
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5079
 
 HttpOAuthMacHelper.java
 file
@@ -708,4 +674,38 @@ yangjun03
 
 
 4228
+
+TokenVerifier.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+9b8c150253d117a8f7befe504d065986
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8354
 

@@ -1,7 +1,7 @@
 10
 
 dir
-233051
+233058
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf/rdf-containers-syntax-vs-schema
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+test003.nt
+file
+
+
+
+
+2015-02-27T14:04:14.000000Z
+12096ac9058f9d347c08d9677eab157f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+581
 
 test004.nt
 file
@@ -94,40 +128,6 @@ yangjun03
 
 804
 
-test006.nt
-file
-
-
-
-
-2015-02-27T14:04:14.000000Z
-d0e733f334ecceecc125694ba20363d4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1659
-
 error002.rdf
 file
 
@@ -161,6 +161,40 @@ yangjun03
 
 
 897
+
+test006.nt
+file
+
+
+
+
+2015-02-27T14:04:14.000000Z
+d0e733f334ecceecc125694ba20363d4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1659
 
 test007.nt
 file
@@ -400,40 +434,6 @@ yangjun03
 
 897
 
-test001.nt
-file
-
-
-
-
-2015-02-27T14:04:14.000000Z
-17ef98ac26b62343d2ec7c4676afb739
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-611
-
 test007.rdf
 file
 
@@ -468,14 +468,14 @@ yangjun03
 
 930
 
-test002.nt
+test001.nt
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-7f45823e1f9ca2c69f6a65a4d253723f
+17ef98ac26b62343d2ec7c4676afb739
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -500,7 +500,7 @@ yangjun03
 
 
 
-701
+611
 
 test008.rdf
 file
@@ -536,14 +536,14 @@ yangjun03
 
 879
 
-test003.nt
+test002.nt
 file
 
 
 
 
 2015-02-27T14:04:14.000000Z
-12096ac9058f9d347c08d9677eab157f
+7f45823e1f9ca2c69f6a65a4d253723f
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -568,5 +568,5 @@ yangjun03
 
 
 
-581
+701
 

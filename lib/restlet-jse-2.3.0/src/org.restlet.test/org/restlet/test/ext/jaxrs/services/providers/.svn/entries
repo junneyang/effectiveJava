@@ -1,7 +1,7 @@
 10
 
 dir
-233051
+233058
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Issue971Writer.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-d95abdc080420ad5321f2c10b75fa938
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2320
-
-BooleanEntityProvider.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-2fdffcd722a60ffc5c5ccce3cc0ae2cf
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3388
 
 AppCrazyPersonProvider.java
 file
@@ -162,40 +94,6 @@ yangjun03
 
 1177
 
-TextCrazyPersonProvider.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-884ec876cfe47b44ba3567310bcc456a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3021
-
 BaseUriContext.java
 file
 
@@ -230,14 +128,14 @@ yangjun03
 
 1262
 
-MatchedUriTestProvider.java
+TextCrazyPersonProvider.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-e6bcfaa8d31791f09998da8e4a734146
+884ec876cfe47b44ba3567310bcc456a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -262,7 +160,7 @@ yangjun03
 
 
 
-3172
+3021
 
 Issue971WriterSub.java
 file
@@ -297,6 +195,40 @@ yangjun03
 
 
 1085
+
+MatchedUriTestProvider.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+e6bcfaa8d31791f09998da8e4a734146
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3172
 
 ContextResolverTestWriter.java
 file
@@ -603,4 +535,72 @@ yangjun03
 
 
 2871
+
+Issue971Writer.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+d95abdc080420ad5321f2c10b75fa938
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2320
+
+BooleanEntityProvider.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+2fdffcd722a60ffc5c5ccce3cc0ae2cf
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3388
 

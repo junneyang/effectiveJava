@@ -73,3 +73,12 @@ effective java, deep learning and practice for java.
 * Date:			日期操作类
 * DateFormate:	日期格式化工具
 * Math/Random:	java数学计算
+
+### 012.IOSyetem
+* java IO操作
+* File:		文件、目录操作抽象(信息获取、判断、创建删除等操作)
+* IO结构:		输入输出流(输入输出相对于应用程序来说,应用程序写文件输出，应用程序读文件输入流)
+* 分类:		字节流(InputStream/OutStream)、字符流(Reader/Writer)、flush从缓冲区到流
+* InputStream/OutStream-FileInputStream/ObjectInputStream/BufferInputStream
+* Reader/Writer-BufferReader/InputStreamReader-FileReader
+* 字节流、字符流二者之间的桥梁是OutputStreamWriter、InputStreamReader
