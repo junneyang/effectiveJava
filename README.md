@@ -61,3 +61,15 @@ effective java, deep learning and practice for java.
 * java数组
 * 概念、声明以及初始化(new方式初始化-运行时初始化或者声明就初始化、直接静态初始化)
 * ArrayList:	动态扩展
+
+### 011.CommonAPI
+* java常用API
+* String:		final修饰的类，不可变(每次修改都需要创建临时的string对象)
+* StringBuffer:	final修饰的类，但是可以变(修改StringBuffer不会创建新对象)
+* StringBuilder:	和StringBuffer一样，但是StringBuilder是线程非安全的，StringBuffer线程安全
+* System:		操作系统相关类，同时包括输入输出错误流
+* Runtime:		JVM运行时属性方法
+* Calendar:		日历操作类
+* Date:			日期操作类
+* DateFormate:	日期格式化工具
+* Math/Random:	java数学计算
