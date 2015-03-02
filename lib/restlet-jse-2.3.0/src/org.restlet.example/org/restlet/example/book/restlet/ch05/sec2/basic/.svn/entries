@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05/sec2/basic
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-MailResource.java
-file
-
-
-
-
-2015-02-27T14:04:09.000000Z
-eeced7c0b3765076225f330ffb8b2b7e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1166
 
 MailServerApplication.java
 file
@@ -195,4 +161,38 @@ yangjun03
 
 
 1737
+
+MailResource.java
+file
+
+
+
+
+2015-02-27T14:04:09.000000Z
+eeced7c0b3765076225f330ffb8b2b7e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1166
 

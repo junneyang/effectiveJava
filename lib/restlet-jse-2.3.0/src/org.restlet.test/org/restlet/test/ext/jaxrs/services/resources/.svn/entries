@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/resources
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,244 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+JsonTestService.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+62c1c38495609f4289ca0165852115db
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2488
+
+ThrowExceptionResource.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+003f750d326fd2876db1fd240b1fa3d7
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2016
+
+SimpleHouse.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+a611a244d4e336dcce0403215a98b375
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1797
+
+MatchedUriTestResource.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+cfb562f450136c0576835c27250f245b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2133
+
+InheritAnnotationTestServiceInterface.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+c6ebc517ef8097d129b19cdbba97868f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1353
+
+OwnProviderTestService.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+fbbfcdc7a27740463a767a69d6f4d949
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1649
+
+InheritAnnotationTestService2.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+04aafd26e961fcb70baba2a0f7f9ae63
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2392
 
 MatrixParamTestService.java
 file
@@ -468,6 +706,74 @@ yangjun03
 
 1764
 
+MatrixParamTestService2.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+11faeccb0724269271366278b1940d14
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2628
+
+DeterminingMediaTypeTestService.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+a2d2eb213ecd397d3b66faa9a5d44c71
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1535
+
 RecursiveTestService.java
 file
 
@@ -535,74 +841,6 @@ yangjun03
 
 
 3092
-
-DeterminingMediaTypeTestService.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-a2d2eb213ecd397d3b66faa9a5d44c71
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1535
-
-MatrixParamTestService2.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-11faeccb0724269271366278b1940d14
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2628
 
 ExcMapperTestResource.java
 file
@@ -672,40 +910,6 @@ yangjun03
 
 3486
 
-PathParamTestService.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-52a2a13c7cef3f655eac59ef5080c48b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2975
-
 HeadOptionsTestService.java
 file
 
@@ -740,14 +944,14 @@ yangjun03
 
 2294
 
-InheritAnnotationTestService1.java
+PathParamTestService.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-6d516ffd1a9535ea600ffadf07dc831b
+52a2a13c7cef3f655eac59ef5080c48b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -772,41 +976,7 @@ yangjun03
 
 
 
-1418
-
-NoProviderResource.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-d435d5071c63b209139a56cac7ade62c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1378
+2975
 
 ExtendedUriBuilderTestResource.java
 file
@@ -842,14 +1012,14 @@ yangjun03
 
 1860
 
-PersonsResource.java
+NoProviderResource.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-ae9c3c3b8a1e544531ddd8527569f6b9
+d435d5071c63b209139a56cac7ade62c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -874,16 +1044,16 @@ yangjun03
 
 
 
-2278
+1378
 
-Issue971Resource.java
+InheritAnnotationTestService1.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-ee8a3a40f43a8bceee76ecd4d3b479c7
+6d516ffd1a9535ea600ffadf07dc831b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -908,41 +1078,7 @@ yangjun03
 
 
 
-1340
-
-Issue593Resource.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-348d23045a166c1538b1e888f50c3a1b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1473
+1418
 
 SimpleResource.java
 file
@@ -978,6 +1114,108 @@ yangjun03
 
 1450
 
+Issue593Resource.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+348d23045a166c1538b1e888f50c3a1b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1473
+
+Issue971Resource.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+ee8a3a40f43a8bceee76ecd4d3b479c7
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1340
+
+PersonsResource.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+ae9c3c3b8a1e544531ddd8527569f6b9
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2278
+
 InjectionTestService.java
 file
 
@@ -1012,40 +1250,6 @@ yangjun03
 
 2703
 
-QueryParamTestService.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-caa2987ed41936283b53fdc2435e2a28
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5168
-
 IllegalThingsTestService.java
 file
 
@@ -1079,6 +1283,40 @@ yangjun03
 
 
 1875
+
+QueryParamTestService.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+caa2987ed41936283b53fdc2435e2a28
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5168
 
 PathParamTestResource3.java
 file
@@ -1521,242 +1759,4 @@ yangjun03
 
 
 2669
-
-JsonTestService.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-62c1c38495609f4289ca0165852115db
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2488
-
-ThrowExceptionResource.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-003f750d326fd2876db1fd240b1fa3d7
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2016
-
-SimpleHouse.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-a611a244d4e336dcce0403215a98b375
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1797
-
-MatchedUriTestResource.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-cfb562f450136c0576835c27250f245b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2133
-
-InheritAnnotationTestServiceInterface.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-c6ebc517ef8097d129b19cdbba97868f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1353
-
-OwnProviderTestService.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-fbbfcdc7a27740463a767a69d6f4d949
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1649
-
-InheritAnnotationTestService2.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-04aafd26e961fcb70baba2a0f7f9ae63
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2392
 

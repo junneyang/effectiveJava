@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/wadl
 https://svn.baidu.com/myspace
 
@@ -94,40 +94,6 @@ yangjun03
 
 18619
 
-DocumentedInfo.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-14e1d8a2ca08baa5c59673d966b2e7b3
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23295
-
 ResourceInfo.html
 file
 
@@ -161,6 +127,40 @@ yangjun03
 
 
 37400
+
+DocumentedInfo.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+14e1d8a2ca08baa5c59673d966b2e7b3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23295
 
 RequestInfo.html
 file
@@ -298,14 +298,14 @@ yangjun03
 
 24457
 
-WadlRepresentation.html
+ResponseInfo.html
 file
 
 
 
 
 2015-02-27T14:04:20.000000Z
-eb71537404f24574af2a5047b8463b3d
+2df090d8693f2caae83b3eacf971f27b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,7 +330,7 @@ yangjun03
 
 
 
-43971
+25981
 
 WadlComponent.html
 file
@@ -366,14 +366,14 @@ yangjun03
 
 32335
 
-ResponseInfo.html
+WadlRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:20.000000Z
-2df090d8693f2caae83b3eacf971f27b
+eb71537404f24574af2a5047b8463b3d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -398,7 +398,7 @@ yangjun03
 
 
 
-25981
+43971
 
 WadlApplication.html
 file
@@ -468,40 +468,6 @@ yangjun03
 
 33834
 
-ApplicationInfo.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-35f07ed5e71247d245449b37623a41db
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32289
-
 WadlConverter.html
 file
 
@@ -535,6 +501,40 @@ yangjun03
 
 
 29939
+
+ApplicationInfo.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+35f07ed5e71247d245449b37623a41db
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32289
 
 package-frame.html
 file

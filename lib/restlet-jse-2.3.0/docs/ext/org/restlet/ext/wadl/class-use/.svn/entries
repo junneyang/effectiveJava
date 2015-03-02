@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/wadl/class-use
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-ResourceTypeInfo.html
+WadlRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:20.000000Z
-a89971d0c483323445ce35e9c3c9bc60
+d166b4bcc2d87f304defdbea59bd451d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,109 +58,7 @@ yangjun03
 
 
 
-8116
-
-WadlDescribable.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-4ab7fcde239171328c005bbf0d766f15
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6718
-
-LinkInfo.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-aedd8b1d60e53003e0d0ab992f1f5a54
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7535
-
-WadlComponent.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-67aece595b943f2db4f0cb8eb9c8b7fd
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4594
+4649
 
 ResponseInfo.html
 file
@@ -196,14 +94,14 @@ yangjun03
 
 10870
 
-WadlRepresentation.html
+WadlComponent.html
 file
 
 
 
 
 2015-02-27T14:04:20.000000Z
-d166b4bcc2d87f304defdbea59bd451d
+67aece595b943f2db4f0cb8eb9c8b7fd
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -228,7 +126,7 @@ yangjun03
 
 
 
-4649
+4594
 
 WadlApplication.html
 file
@@ -298,40 +196,6 @@ yangjun03
 
 15029
 
-ApplicationInfo.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-c0d611eaea63065084cdb1632fa98017
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16199
-
 WadlConverter.html
 file
 
@@ -365,6 +229,40 @@ yangjun03
 
 
 4594
+
+ApplicationInfo.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+c0d611eaea63065084cdb1632fa98017
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16199
 
 OptionInfo.html
 file
@@ -400,40 +298,6 @@ yangjun03
 
 7966
 
-GrammarsInfo.html
-file
-
-
-
-
-2015-02-27T14:04:20.000000Z
-165aaf4d37c8fbd55db5d03beac00000
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7663
-
 DocumentationInfo.html
 file
 
@@ -468,14 +332,14 @@ yangjun03
 
 25208
 
-ResourcesInfo.html
+GrammarsInfo.html
 file
 
 
 
 
 2015-02-27T14:04:20.000000Z
-5bb3810e6a34eb4e7d706cadd4f9c687
+165aaf4d37c8fbd55db5d03beac00000
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -500,7 +364,7 @@ yangjun03
 
 
 
-7706
+7663
 
 WadlServerResource.html
 file
@@ -535,6 +399,40 @@ yangjun03
 
 
 4649
+
+ResourcesInfo.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+5bb3810e6a34eb4e7d706cadd4f9c687
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7706
 
 WadlWrapper.html
 file
@@ -807,4 +705,106 @@ yangjun03
 
 
 8937
+
+ResourceTypeInfo.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+a89971d0c483323445ce35e9c3c9bc60
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8116
+
+WadlDescribable.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+4ab7fcde239171328c005bbf0d766f15
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6718
+
+LinkInfo.html
+file
+
+
+
+
+2015-02-27T14:04:20.000000Z
+aedd8b1d60e53003e0d0ab992f1f5a54
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7535
 

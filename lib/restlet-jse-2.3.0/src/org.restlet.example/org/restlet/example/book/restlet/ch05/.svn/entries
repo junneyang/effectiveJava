@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch05
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,9 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+sec5
+dir
 
 serverKey.csr
 file
@@ -275,7 +278,4 @@ has-props
 
 
 922
-
-sec5
-dir
 

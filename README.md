@@ -96,3 +96,4 @@ effective java, deep learning and practice for java.
 * Throws：声明一个异常:这里可能要抛出异常了,Throw:才是真正的抛出一个异常的对象
 * finally不一定是最后执行的代码，如果try/catch有return语句，finally还会回到return语句做为结束点
 * 但是不管是否有return，finally肯定是会被执行的
+* enum exception可以结合使用提供比较完美的国际化解决方案

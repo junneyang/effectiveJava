@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/sip
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-UacServerResource.properties
-file
-
-
-
-
-2015-02-27T14:04:08.000000Z
-daafaa34b2fa3148bc0f5187eea7740b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-60
-
-UacServerResource.java
-file
-
-
-
-
-2015-02-27T14:04:08.000000Z
-52cb5fb3b021ea6d5c078ff45e95d5ae
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5387
 
 B2buaRedirector.java
 file
@@ -195,4 +127,72 @@ yangjun03
 
 
 1283
+
+UacServerResource.properties
+file
+
+
+
+
+2015-02-27T14:04:08.000000Z
+daafaa34b2fa3148bc0f5187eea7740b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60
+
+UacServerResource.java
+file
+
+
+
+
+2015-02-27T14:04:08.000000Z
+52cb5fb3b021ea6d5c078ff45e95d5ae
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5387
 

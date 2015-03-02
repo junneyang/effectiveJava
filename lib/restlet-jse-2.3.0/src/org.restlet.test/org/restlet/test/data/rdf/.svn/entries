@@ -1,7 +1,7 @@
 10
 
 dir
-233829
+233830
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf
 https://svn.baidu.com/myspace
 
@@ -74,10 +74,13 @@ dir
 rdfms-xmllang
 dir
 
+xmlsch-02
+dir
+
 horst-01
 dir
 
-xmlsch-02
+rdfms-rdf-id
 dir
 
 test.xml
@@ -114,9 +117,6 @@ yangjun03
 
 0
 
-rdfms-rdf-id
-dir
-
 rdfms-rdf-names-use
 dir
 
@@ -126,19 +126,19 @@ dir
 xmlbase
 dir
 
-rdfms-difference-between-ID-and-about
+rdfms-para196
 dir
 
-rdfms-para196
+rdfms-difference-between-ID-and-about
 dir
 
 statement-entailment
 dir
 
-rdfms-empty-property-elements
+rdfs-subPropertyOf-semantics
 dir
 
-rdfs-subPropertyOf-semantics
+rdfms-empty-property-elements
 dir
 
 rdf-charmod-uris
