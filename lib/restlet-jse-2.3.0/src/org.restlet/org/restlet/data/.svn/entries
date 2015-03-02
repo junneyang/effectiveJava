@@ -1,7 +1,7 @@
 10
 
 dir
-233058
+233827
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/data
 https://svn.baidu.com/myspace
 
@@ -25,176 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-ChallengeMessage.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-1ba5561a534a245835de792fe14adbde
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7512
-
-Range.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-c8847bfb868c0575ea288fad0aeded1c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6134
-
-RecipientInfo.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-64ee5e406c11948d08117c0a2420752a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3410
-
-Form.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-f5608359d1209773f9b794c6ca728ec1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10050
-
-Disposition.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-802abf3e539bda6d88175166df4cd2c8
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6475
 
 ChallengeScheme.java
 file
@@ -604,40 +434,6 @@ yangjun03
 
 3319
 
-ReferenceList.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-e55f7e2fc07180d0570738e1125ecaf1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6088
-
 ClientInfo.java
 file
 
@@ -672,14 +468,14 @@ yangjun03
 
 39018
 
-AuthenticationInfo.java
+ReferenceList.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-7c4d3b706e13cc7dcfb45651a6c7a71f
+e55f7e2fc07180d0570738e1125ecaf1
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -704,7 +500,7 @@ yangjun03
 
 
 
-7883
+6088
 
 ChallengeRequest.java
 file
@@ -740,6 +536,40 @@ yangjun03
 
 6738
 
+AuthenticationInfo.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+7c4d3b706e13cc7dcfb45651a6c7a71f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7883
+
 Reference.java
 file
 
@@ -774,40 +604,6 @@ yangjun03
 
 102712
 
-ChallengeResponse.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-4d348bb1dc22d895e7fb3bcc8ee92ce5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17124
-
 Protocol.java
 file
 
@@ -841,6 +637,40 @@ yangjun03
 
 
 14927
+
+ChallengeResponse.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+4d348bb1dc22d895e7fb3bcc8ee92ce5
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17124
 
 CacheDirective.java
 file
@@ -944,40 +774,6 @@ yangjun03
 
 9877
 
-Cookie.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-3eb40e7653e8a556dfc7acccaa6e3f0a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7057
-
 Conditions.java
 file
 
@@ -1011,6 +807,40 @@ yangjun03
 
 
 16245
+
+Cookie.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+3eb40e7653e8a556dfc7acccaa6e3f0a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7057
 
 Tag.java
 file
@@ -1249,4 +1079,174 @@ yangjun03
 
 
 5694
+
+ChallengeMessage.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+1ba5561a534a245835de792fe14adbde
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7512
+
+Range.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+c8847bfb868c0575ea288fad0aeded1c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6134
+
+RecipientInfo.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+64ee5e406c11948d08117c0a2420752a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3410
+
+Form.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+f5608359d1209773f9b794c6ca728ec1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10050
+
+Disposition.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+802abf3e539bda6d88175166df4cd2c8
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6475
 

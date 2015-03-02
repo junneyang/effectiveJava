@@ -87,3 +87,12 @@ effective java, deep learning and practice for java.
 * 2.Externalizable是Serializable的子类,需要程序员手动的参与序列化的过程,同时可以提供额外的数据的序列化.
 * 3.Serializable序列化简单一些，但是要消耗性能,Externalizable比Serializable要高一些.
 * 4.如果不需要过多的知道序列化的过程那么我们还是选者Serializable不容易出错,Externalizable比较容易出错.
+
+### 013.ExceptionSys
+* java异常处理
+* Throwable:是java异常机制的超类,Exception和error是:throwable的子,Error:是程序无法解决问题. 内存溢出了,突然断电
+* Exception:我们可以通过程序控制的异常.
+* 不管return是否返回Finalily肯定是要被执行的.
+* Throws：声明一个异常:这里可能要抛出异常了,Throw:才是真正的抛出一个异常的对象
+* finally不一定是最后执行的代码，如果try/catch有return语句，finally还会回到return语句做为结束点
+* 但是不管是否有return，finally肯定是会被执行的

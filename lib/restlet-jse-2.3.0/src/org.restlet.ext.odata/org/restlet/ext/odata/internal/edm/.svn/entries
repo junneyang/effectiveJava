@@ -1,7 +1,7 @@
 10
 
 dir
-233058
+233827
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/edm
 https://svn.baidu.com/myspace
 
@@ -25,108 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Type.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-5e74cae556b430b0d2911bd87ca9895c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2789
-
-Property.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-e3b0e53fe8b366d6498864984f2d30b1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5689
-
-EntitySet.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-df8fb7328fde8592662dc07ee5f19d0e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1918
 
 AssociationSet.java
 file
@@ -161,6 +59,40 @@ yangjun03
 
 
 2696
+
+EntitySet.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+df8fb7328fde8592662dc07ee5f19d0e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1918
 
 ODataType.java
 file
@@ -332,40 +264,6 @@ yangjun03
 
 22005
 
-MetadataReader.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-87dfda8402183b249be67cc8624f3560
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31220
-
 AssociationEnd.java
 file
 
@@ -399,6 +297,40 @@ yangjun03
 
 
 2879
+
+MetadataReader.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+87dfda8402183b249be67cc8624f3560
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31220
 
 NavigationProperty.java
 file
@@ -773,4 +705,72 @@ yangjun03
 
 
 3858
+
+Type.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+5e74cae556b430b0d2911bd87ca9895c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2789
+
+Property.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+e3b0e53fe8b366d6498864984f2d30b1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5689
 

@@ -1,7 +1,7 @@
 10
 
 dir
-233058
+233827
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/class-use
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Expectation.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-a932d60fecfdebba0ca1a8fc8553733f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8714
 
 Status.html
 file
@@ -128,6 +94,40 @@ yangjun03
 
 29894
 
+Dimension.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+0ad2d7596a51b4f76afb0aa403eef6f6
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15349
+
 Header.html
 file
 
@@ -161,6 +161,40 @@ yangjun03
 
 
 6395
+
+ReferenceList.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+f8ba8621b4a37411b01828b7a1da0245
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9217
 
 ClientInfo.html
 file
@@ -264,14 +298,14 @@ yangjun03
 
 23028
 
-Range.html
+Reference.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-69424a810a21c79f646c1e44462a2ad3
+ab58a5721f419544fe4d62d3cb4676aa
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,16 +330,16 @@ yangjun03
 
 
 
-17597
+81907
 
-RecipientInfo.html
+ChallengeResponse.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-39ee9132441e97a8300d30442f77f6bc
+847820815049869622327aad9137b909
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,7 +364,7 @@ yangjun03
 
 
 
-7848
+15982
 
 Protocol.html
 file
@@ -400,14 +434,14 @@ yangjun03
 
 19528
 
-Disposition.html
+Warning.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-d981317e204c54caff8bc93dc1380baf
+f683f3d43b7bcddcaf0f8eeffbef470d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -432,16 +466,16 @@ yangjun03
 
 
 
-9974
+7676
 
-ChallengeScheme.html
+CookieSetting.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-f12048ae29cab34deaa26468403172de
+79d3223e0ec9791bbb032a55f3905560
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -466,7 +500,7 @@ yangjun03
 
 
 
-35380
+13249
 
 Cookie.html
 file
@@ -536,6 +570,40 @@ yangjun03
 
 12261
 
+Tag.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+a962c089a44489ce8abb7b0b2f165eca
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24551
+
 Method.html
 file
 
@@ -570,14 +638,14 @@ yangjun03
 
 54214
 
-Product.html
+Parameter.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-c764ee21bb9eb51bde5d028995c6813c
+820245c68ce1aada40431e599570303a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -602,7 +670,41 @@ yangjun03
 
 
 
-8692
+34772
+
+MediaType.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+45199152cec1bb1a8ce620cf7aebe18c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+123160
 
 ServerInfo.html
 file
@@ -638,14 +740,14 @@ yangjun03
 
 12210
 
-Dimension.html
+Expectation.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-0ad2d7596a51b4f76afb0aa403eef6f6
+a932d60fecfdebba0ca1a8fc8553733f
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -670,7 +772,7 @@ yangjun03
 
 
 
-15349
+8714
 
 Encoding.html
 file
@@ -740,14 +842,14 @@ yangjun03
 
 6738
 
-ReferenceList.html
+Range.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-f8ba8621b4a37411b01828b7a1da0245
+69424a810a21c79f646c1e44462a2ad3
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -772,16 +874,16 @@ yangjun03
 
 
 
-9217
+17597
 
-Reference.html
+RecipientInfo.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-ab58a5721f419544fe4d62d3cb4676aa
+39ee9132441e97a8300d30442f77f6bc
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -806,41 +908,7 @@ yangjun03
 
 
 
-81907
-
-ChallengeResponse.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-847820815049869622327aad9137b909
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15982
+7848
 
 Form.html
 file
@@ -876,14 +944,14 @@ yangjun03
 
 10133
 
-Warning.html
+Disposition.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-f683f3d43b7bcddcaf0f8eeffbef470d
+d981317e204c54caff8bc93dc1380baf
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -908,16 +976,16 @@ yangjun03
 
 
 
-7676
+9974
 
-CookieSetting.html
+ChallengeScheme.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-79d3223e0ec9791bbb032a55f3905560
+f12048ae29cab34deaa26468403172de
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -942,7 +1010,7 @@ yangjun03
 
 
 
-13249
+35380
 
 CharacterSet.html
 file
@@ -1012,40 +1080,6 @@ yangjun03
 
 12693
 
-Tag.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-a962c089a44489ce8abb7b0b2f165eca
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24551
-
 Preference.html
 file
 
@@ -1114,14 +1148,14 @@ yangjun03
 
 11892
 
-Parameter.html
+Product.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-820245c68ce1aada40431e599570303a
+c764ee21bb9eb51bde5d028995c6813c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1146,7 +1180,7 @@ yangjun03
 
 
 
-34772
+8692
 
 Metadata.html
 file
@@ -1181,38 +1215,4 @@ yangjun03
 
 
 25997
-
-MediaType.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-45199152cec1bb1a8ce620cf7aebe18c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-123160
 

@@ -1,7 +1,7 @@
 10
 
 dir
-233058
+233827
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/util
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+TypeInfo.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+dc85064326b353a4100efc5f283d0c05
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3844
 
 Types.java
 file
@@ -93,38 +127,4 @@ yangjun03
 
 
 1435
-
-TypeInfo.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-dc85064326b353a4100efc5f283d0c05
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3844
 

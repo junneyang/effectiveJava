@@ -1,7 +1,7 @@
 10
 
 dir
-233058
+233827
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/security
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-MemoryRealm.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-87ed533d88d22eea29fe163469eb875c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17067
-
-Authorizer.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-4032b4c13be91c04114abf065749efdf
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5068
 
 Group.java
 file
@@ -127,6 +59,40 @@ yangjun03
 
 
 5652
+
+Authorizer.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+4032b4c13be91c04114abf065749efdf
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5068
 
 MethodAuthorizer.java
 file
@@ -400,40 +366,6 @@ yangjun03
 
 1614
 
-ChallengeAuthenticator.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-75e283e965adbde66d3b88432f645665
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11947
-
 CertificateAuthenticator.java
 file
 
@@ -468,14 +400,14 @@ yangjun03
 
 4877
 
-RoleAuthorizer.java
+ChallengeAuthenticator.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-ac068aefade63dd097103031a98fa139
+75e283e965adbde66d3b88432f645665
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -500,7 +432,7 @@ yangjun03
 
 
 
-4823
+11947
 
 User.java
 file
@@ -535,6 +467,40 @@ yangjun03
 
 
 5476
+
+RoleAuthorizer.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+ac068aefade63dd097103031a98fa139
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4823
 
 SecretVerifier.java
 file
@@ -603,4 +569,38 @@ yangjun03
 
 
 1685
+
+MemoryRealm.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+87ed533d88d22eea29fe163469eb875c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17067
 

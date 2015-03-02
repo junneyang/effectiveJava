@@ -64,6 +64,12 @@ public class IOSyetem {
 	 	* InputStream/OutStream-FileInputStream/ObjectInputStream/BufferInputStream
 	 	* Reader/Writer-BufferReader/InputStreamReader-FileReader
 	 	* 字节流、字符流二者之间的桥梁是OutputStreamWriter、InputStreamReader
+	 	* 序列化:		实现Serializable接口，类对象也需要实现，Externalizable也可以实现序列化:有具体的方法
+	 	* 1.Serializable实现序列化不需要程序员手动的参与序列化的过程.JVM已经为我们实现了整个序列化的过程
+	 	* 2.Externalizable是Serializable的子类,需要程序员手动的参与序列化的过程,同时可以提供额外的数据的序列化.
+	 	* 3.Serializable序列化简单一些，但是要消耗性能,Externalizable比Serializable要高一些.
+	 	* 4.如果不需要过多的知道序列化的过程那么我们还是选者Serializable不容易出错,Externalizable比较容易出错.
+
 	 * @param args
 	 * @return: void
 	 */

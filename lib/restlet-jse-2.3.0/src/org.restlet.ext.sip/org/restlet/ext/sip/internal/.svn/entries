@@ -1,7 +1,7 @@
 10
 
 dir
-233058
+233827
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/internal
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-SipServerOutboundWay.java
+SubscriptionWriter.java
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-7ef6d091b9161b167561fd00813312a3
+e53f4cebd3ce5fe2814811e9a7dec5e5
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,7 +58,109 @@ yangjun03
 
 
 
-6473
+2361
+
+SipServerInboundWay.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+8e7287f807d12be3dc7b97d132948d4b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1895
+
+SipServerHelper.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+d4ef456677289bcaec0f04da35eaae9c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2892
+
+AddressWriter.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+059fbf4be70f0369c827d0dcfdb756ba
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3323
 
 SipInboundRequest.java
 file
@@ -93,6 +195,40 @@ yangjun03
 
 
 43006
+
+SipServerOutboundWay.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+7ef6d091b9161b167561fd00813312a3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6473
 
 OptionTagReader.java
 file
@@ -162,14 +298,14 @@ yangjun03
 
 3120
 
-ContactInfoReader.java
+SipClientInboundWay.java
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-e8079d9d5a2b00174cb142b071e4f0dd
+6ab862e4b416741be33e417e6decb4bb
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -194,7 +330,7 @@ yangjun03
 
 
 
-6235
+11546
 
 SipClientHelper.java
 file
@@ -230,14 +366,14 @@ yangjun03
 
 5264
 
-SipClientInboundWay.java
+ContactInfoReader.java
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-6ab862e4b416741be33e417e6decb4bb
+e8079d9d5a2b00174cb142b071e4f0dd
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -262,7 +398,7 @@ yangjun03
 
 
 
-11546
+6235
 
 SipClientOutboundWay.java
 file
@@ -298,40 +434,6 @@ yangjun03
 
 8764
 
-AvailabilityReader.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-e5684c5cab997e83ee57c7ea7410803a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2515
-
 SipRecipientInfoReader.java
 file
 
@@ -365,6 +467,40 @@ yangjun03
 
 
 5021
+
+AvailabilityReader.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+e5684c5cab997e83ee57c7ea7410803a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2515
 
 OptionTagWriter.java
 file
@@ -400,40 +536,6 @@ yangjun03
 
 1976
 
-ContactInfoWriter.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-9490884403e30019c9fa7b37ed6a9138
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3719
-
 EventReader.java
 file
 
@@ -467,6 +569,40 @@ yangjun03
 
 
 3698
+
+ContactInfoWriter.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+9490884403e30019c9fa7b37ed6a9138
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3719
 
 EventTypeReader.java
 file
@@ -739,140 +875,4 @@ yangjun03
 
 
 2194
-
-SubscriptionWriter.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-e53f4cebd3ce5fe2814811e9a7dec5e5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2361
-
-SipServerInboundWay.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-8e7287f807d12be3dc7b97d132948d4b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1895
-
-SipServerHelper.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-d4ef456677289bcaec0f04da35eaae9c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2892
-
-AddressWriter.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-059fbf4be70f0369c827d0dcfdb756ba
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3323
 
