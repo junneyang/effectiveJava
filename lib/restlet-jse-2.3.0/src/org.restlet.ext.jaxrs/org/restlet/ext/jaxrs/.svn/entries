@@ -1,7 +1,7 @@
 10
 
 dir
-233827
+233829
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-ExtendedUriBuilder.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-214f3ab6c4ec1f50a9418a69060f229c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14515
 
 AbstractUriBuilder.java
 file
@@ -300,4 +266,38 @@ yangjun03
 
 
 2035
+
+ExtendedUriBuilder.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+214f3ab6c4ec1f50a9418a69060f229c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14515
 

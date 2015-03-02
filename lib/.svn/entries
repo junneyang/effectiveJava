@@ -1,7 +1,7 @@
 10
 
 dir
-233827
+233829
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-org.json-20120521.jar.zip
-file
-
-
-
-
-2015-02-27T14:04:29.000000Z
-f50212aea3c2c3e086068d617f699607
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-39246
 
 json-lib-2.4-jdk15
 dir
@@ -210,4 +176,38 @@ has-props
 
 org.json-20120521.jar
 dir
+
+org.json-20120521.jar.zip
+file
+
+
+
+
+2015-02-27T14:04:29.000000Z
+f50212aea3c2c3e086068d617f699607
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39246
 

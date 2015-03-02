@@ -1,7 +1,7 @@
 10
 
 dir
-233827
+233829
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/javax.ws.rs_2.0
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-javax.ws.rs-api-2.0-sources.jar
-file
-
-
-
-
-2015-02-27T14:04:03.000000Z
-69ccfaeaf8d2814ce1cdd61173adabff
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-263578
-
-readme.txt
-file
-
-
-
-
-2015-02-27T14:04:03.000000Z
-f432c420e2080729a54a9633b3a164e2
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-490
 
 javax.ws.rs.jar
 file
@@ -195,4 +127,72 @@ yangjun03
 
 
 960
+
+javax.ws.rs-api-2.0-sources.jar
+file
+
+
+
+
+2015-02-27T14:04:03.000000Z
+69ccfaeaf8d2814ce1cdd61173adabff
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+263578
+
+readme.txt
+file
+
+
+
+
+2015-02-27T14:04:03.000000Z
+f432c420e2080729a54a9633b3a164e2
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+490
 

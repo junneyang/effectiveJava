@@ -18,17 +18,18 @@ import com.LogHandler;
 
 class ErrException extends Exception {
 	private static final long serialVersionUID = 608751847135585998L;
-	private int errno;
-	private String msg;
-	public ErrException(int errno, String msg) {
-		this.errno = errno;
-		this.msg = msg;
+	private EnumSys enumSys;
+	public ErrException(EnumSys enumSys) {
+		this.enumSys = enumSys;
 	}
 	public int getErrno() {
-		return errno;
+		return this.enumSys.getId();
 	}
-	public String getMsg() {
-		return msg;
+	public String getEnMsg() {
+		return this.enumSys.getMsgEN();
+	}
+	public String getZhMsg() {
+		return this.enumSys.getMsgZH();
 	}
 }
 
@@ -76,11 +77,12 @@ public class ExceptionSys {
 		
 		
 		try {
-			throw new ErrException(1000000000, "system internal exception");
+			throw new ErrException(EnumSys.EXCEPTION);
 		} catch (ErrException e) {
 			// TODO: handle exception
 			logger.info(e.getErrno());
-			logger.info(e.getMsg());
+			logger.info(e.getEnMsg());
+			logger.info(e.getZhMsg());
 		} finally {
 			logger.info("finally");
 		}

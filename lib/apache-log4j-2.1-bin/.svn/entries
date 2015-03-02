@@ -1,7 +1,7 @@
 10
 
 dir
-233827
+233829
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/apache-log4j-2.1-bin
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,312 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+RELEASE-NOTES.txt
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+4bf2977648c92f94f85c371093448332
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16632
+
+log4j-taglib-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+6e63b17b07ae9d1cbd37c16bba1b195c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31582
+
+log4j-1.2-api-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+11dfc4347d2d921ff4b66aad3b6169d1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36795
+
+log4j-taglib-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+96b38bf6987cdcb34a18ed31beb82fa7
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+96939
+
+log4j-jcl-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+f8bfddbb9524ce12b893e3cbc6a7dd2b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12513
+
+log4j-1.2-api-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+bb1d4fd6f9e2a31f61288ce769d216cd
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+191950
+
+log4j-jcl-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+80c44db4c0874ffb0b8efb4a6e578653
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41760
+
+log4j-web-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+beeaa22af45d028bc69f8264e0f3e4c1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23607
+
+log4j-jmx-gui-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+0729f02079e8c59f0a60ec301a240af5
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27274
 
 log4j-slf4j-impl-2.1.jar
 file
@@ -536,40 +842,6 @@ has-props
 
 108839
 
-log4j-to-slf4j-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-41d1fd0a01212e08b6b556b90c948256
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15863
-
 log4j-slf4j-impl-2.1-sources.jar
 file
 
@@ -603,6 +875,40 @@ has-props
 
 
 19945
+
+log4j-to-slf4j-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+41d1fd0a01212e08b6b556b90c948256
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15863
 
 log4j-iostreams-2.1.jar
 file
@@ -672,17 +978,18 @@ has-props
 
 47813
 
-NOTICE.txt
+log4j-api-2.1.jar
 file
 
 
 
 
 2015-02-27T14:04:28.000000Z
-fbcffba956ccfcb3a07e40aef96f6dbb
+4267a502ce8fe77a74a98ddfcf26830b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
+has-props
 
 
 
@@ -703,8 +1010,7 @@ yangjun03
 
 
 
-
-355
+133531
 
 log4j-core-2.1-sources.jar
 file
@@ -740,18 +1046,17 @@ has-props
 
 699656
 
-log4j-api-2.1.jar
+NOTICE.txt
 file
 
 
 
 
 2015-02-27T14:04:28.000000Z
-4267a502ce8fe77a74a98ddfcf26830b
+fbcffba956ccfcb3a07e40aef96f6dbb
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
-has-props
 
 
 
@@ -772,41 +1077,8 @@ has-props
 
 
 
-133531
-
-log4j-flume-ng-2.1.jar
-file
 
-
-
-
-2015-02-27T14:04:28.000000Z
-ff4eafff1a56a8b7c8c00f97ba550196
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-59123
+355
 
 LICENSE.txt
 file
@@ -842,14 +1114,14 @@ yangjun03
 
 11366
 
-log4j-iostreams-2.1-javadoc.jar
+log4j-flume-ng-2.1.jar
 file
 
 
 
 
 2015-02-27T14:04:28.000000Z
-e185211882c805c8ca15d0e2908def1c
+ff4eafff1a56a8b7c8c00f97ba550196
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -874,7 +1146,7 @@ has-props
 
 
 
-103564
+59123
 
 log4j-jul-2.1-sources.jar
 file
@@ -909,6 +1181,40 @@ has-props
 
 
 19169
+
+log4j-iostreams-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+e185211882c805c8ca15d0e2908def1c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+103564
 
 log4j-nosql-2.1-sources.jar
 file
@@ -1181,310 +1487,4 @@ has-props
 
 
 32526
-
-RELEASE-NOTES.txt
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-4bf2977648c92f94f85c371093448332
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16632
-
-log4j-taglib-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-6e63b17b07ae9d1cbd37c16bba1b195c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31582
-
-log4j-1.2-api-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-11dfc4347d2d921ff4b66aad3b6169d1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-36795
-
-log4j-taglib-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-96b38bf6987cdcb34a18ed31beb82fa7
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-96939
-
-log4j-jcl-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-f8bfddbb9524ce12b893e3cbc6a7dd2b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12513
-
-log4j-1.2-api-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-bb1d4fd6f9e2a31f61288ce769d216cd
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-191950
-
-log4j-jcl-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-80c44db4c0874ffb0b8efb4a6e578653
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41760
-
-log4j-web-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-beeaa22af45d028bc69f8264e0f3e4c1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23607
-
-log4j-jmx-gui-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-0729f02079e8c59f0a60ec301a240af5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27274
 

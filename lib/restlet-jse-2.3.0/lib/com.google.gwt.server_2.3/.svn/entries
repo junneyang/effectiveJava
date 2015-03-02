@@ -1,7 +1,7 @@
 10
 
 dir
-233827
+233829
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/com.google.gwt.server_2.3
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+library.xml
+file
+
+
+
+
+2015-02-27T14:04:02.000000Z
+6e2b6b7c8fc24fd5194419d209fb1f95
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+611
 
 com.google.gwt.server.jar
 file
@@ -127,38 +161,4 @@ yangjun03
 
 
 11357
-
-library.xml
-file
-
-
-
-
-2015-02-27T14:04:02.000000Z
-6e2b6b7c8fc24fd5194419d209fb1f95
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-611
 

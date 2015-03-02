@@ -1,7 +1,7 @@
 10
 
 dir
-233827
+233829
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security
 https://svn.baidu.com/myspace
 
@@ -25,111 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-class-use
-dir
-
-Authorizer.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-2e4450c5a8309748decaf714b3be763c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27996
-
-Group.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-cca9aa4187170aa221be77b3eadaac49
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23629
-
-MethodAuthorizer.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-f77daabdb114f31ee59d319770e43259
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24388
 
 Realm.html
 file
@@ -369,40 +264,6 @@ yangjun03
 
 18228
 
-CertificateAuthenticator.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-09108a2a9ba5e37efcf31c4464cf414d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23950
-
 ChallengeAuthenticator.html
 file
 
@@ -437,14 +298,14 @@ yangjun03
 
 36421
 
-User.html
+CertificateAuthenticator.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-cd6254a0ec5056414cd230ef8870b6db
+09108a2a9ba5e37efcf31c4464cf414d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -469,7 +330,7 @@ yangjun03
 
 
 
-29947
+23950
 
 RoleAuthorizer.html
 file
@@ -504,6 +365,40 @@ yangjun03
 
 
 24075
+
+User.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+cd6254a0ec5056414cd230ef8870b6db
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29947
 
 SecretVerifier.html
 file
@@ -742,4 +637,109 @@ yangjun03
 
 
 42943
+
+Group.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+cca9aa4187170aa221be77b3eadaac49
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23629
+
+Authorizer.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+2e4450c5a8309748decaf714b3be763c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27996
+
+class-use
+dir
+
+MethodAuthorizer.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+f77daabdb114f31ee59d319770e43259
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24388
 
