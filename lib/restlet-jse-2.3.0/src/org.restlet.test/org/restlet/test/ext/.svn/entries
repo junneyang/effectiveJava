@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext
 https://svn.baidu.com/myspace
 
@@ -26,10 +26,16 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-raml
+odata
+dir
+
+jackson
 dir
 
 sip
+dir
+
+raml
 dir
 
 guice
@@ -38,19 +44,19 @@ dir
 velocity
 dir
 
-xml
+atom
 dir
 
-atom
+xml
 dir
 
 gwt
 dir
 
-rome
+spring
 dir
 
-spring
+rome
 dir
 
 html
@@ -96,11 +102,5 @@ jaxrs
 dir
 
 wadl
-dir
-
-odata
-dir
-
-jackson
 dir
 

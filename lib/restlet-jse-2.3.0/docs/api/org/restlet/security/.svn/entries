@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/security
 https://svn.baidu.com/myspace
 
@@ -196,40 +196,6 @@ yangjun03
 
 18228
 
-CertificateAuthenticator.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-09108a2a9ba5e37efcf31c4464cf414d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23950
-
 ChallengeAuthenticator.html
 file
 
@@ -264,14 +230,14 @@ yangjun03
 
 36421
 
-User.html
+CertificateAuthenticator.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-cd6254a0ec5056414cd230ef8870b6db
+09108a2a9ba5e37efcf31c4464cf414d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,7 +262,7 @@ yangjun03
 
 
 
-29947
+23950
 
 RoleAuthorizer.html
 file
@@ -331,6 +297,40 @@ yangjun03
 
 
 24075
+
+User.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+cd6254a0ec5056414cd230ef8870b6db
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29947
 
 SecretVerifier.html
 file
@@ -434,40 +434,6 @@ yangjun03
 
 11177
 
-LocalVerifier.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-ff40094a17099c9fe15f77ee73775287
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15995
-
 package-summary.html
 file
 
@@ -501,6 +467,40 @@ yangjun03
 
 
 10327
+
+LocalVerifier.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+ff40094a17099c9fe15f77ee73775287
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15995
 
 package-tree.html
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,108 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+ParamConstructorProvider.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+727f10f0f1cb69fccd2ae59d2b5c774a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1226
+
+SqlExceptionMapper.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+3a313f6f2e902f445a37754dc6112562
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1580
+
+GenericTypeMBW.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+64ab7f00c37a0d04ac9945c217b8eb8f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2871
 
 Issue971Writer.java
 file
@@ -162,40 +264,6 @@ yangjun03
 
 1177
 
-TextCrazyPersonProvider.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-884ec876cfe47b44ba3567310bcc456a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3021
-
 BaseUriContext.java
 file
 
@@ -230,14 +298,14 @@ yangjun03
 
 1262
 
-MatchedUriTestProvider.java
+TextCrazyPersonProvider.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-e6bcfaa8d31791f09998da8e4a734146
+884ec876cfe47b44ba3567310bcc456a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -262,7 +330,7 @@ yangjun03
 
 
 
-3172
+3021
 
 Issue971WriterSub.java
 file
@@ -297,6 +365,40 @@ yangjun03
 
 
 1085
+
+MatchedUriTestProvider.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+e6bcfaa8d31791f09998da8e4a734146
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3172
 
 ContextResolverTestWriter.java
 file
@@ -501,106 +603,4 @@ yangjun03
 
 
 3316
-
-ParamConstructorProvider.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-727f10f0f1cb69fccd2ae59d2b5c774a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1226
-
-SqlExceptionMapper.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-3a313f6f2e902f445a37754dc6112562
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1580
-
-GenericTypeMBW.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-64ab7f00c37a0d04ac9945c217b8eb8f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2871
 

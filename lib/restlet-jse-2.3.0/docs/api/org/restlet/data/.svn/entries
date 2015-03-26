@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/data
 https://svn.baidu.com/myspace
 
@@ -25,176 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Method.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-f40a56fed79a4e7fb05fd5c688ceb495
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-48090
-
-Parameter.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-87f477b6dc92c1f6d07d3e1923bc862d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26520
-
-MediaType.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-8249941a8379cc902f3adaa2b6cef680
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-125572
-
-ServerInfo.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-e9f2a887da90ce314e4f1543a32249cb
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17260
-
-Expectation.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-8576470fc05c5ad4088f41944512ee1e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23288
 
 Encoding.html
 file
@@ -604,40 +434,6 @@ yangjun03
 
 23817
 
-Product.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-a60a8de4d029be6c009d4e52a0654ad1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17119
-
 Metadata.html
 file
 
@@ -672,14 +468,14 @@ yangjun03
 
 21239
 
-package-frame.html
+Product.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-fd2a3d57e2e5d16b9af6eba4da120b96
+a60a8de4d029be6c009d4e52a0654ad1
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -704,41 +500,7 @@ yangjun03
 
 
 
-4359
-
-Status.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-b4a412369da74c200d5d5b860fa90d93
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-116878
+17119
 
 Language.html
 file
@@ -774,14 +536,14 @@ yangjun03
 
 26055
 
-Dimension.html
+Status.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-9163d4e0714a3f13ec3579604929964b
+b4a412369da74c200d5d5b860fa90d93
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -806,7 +568,41 @@ yangjun03
 
 
 
-19165
+116878
+
+package-frame.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+fd2a3d57e2e5d16b9af6eba4da120b96
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4359
 
 package-use.html
 file
@@ -841,6 +637,40 @@ yangjun03
 
 
 34636
+
+Dimension.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+9163d4e0714a3f13ec3579604929964b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19165
 
 package-summary.html
 file
@@ -910,40 +740,6 @@ yangjun03
 
 19011
 
-ClientInfo.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-81fc90db3cdeecf24fc98b1e9d57eba6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-81685
-
 ReferenceList.html
 file
 
@@ -978,14 +774,14 @@ yangjun03
 
 24269
 
-ChallengeRequest.html
+ClientInfo.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-b3e705516346cda05d0c8e2dbe7c9e1e
+81fc90db3cdeecf24fc98b1e9d57eba6
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1010,7 +806,7 @@ yangjun03
 
 
 
-24886
+81685
 
 AuthenticationInfo.html
 file
@@ -1045,6 +841,40 @@ yangjun03
 
 
 24191
+
+ChallengeRequest.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+b3e705516346cda05d0c8e2dbe7c9e1e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24886
 
 class-use
 dir
@@ -1354,4 +1184,174 @@ yangjun03
 
 
 22325
+
+Method.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+f40a56fed79a4e7fb05fd5c688ceb495
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48090
+
+Parameter.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+87f477b6dc92c1f6d07d3e1923bc862d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26520
+
+MediaType.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+8249941a8379cc902f3adaa2b6cef680
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+125572
+
+ServerInfo.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+e9f2a887da90ce314e4f1543a32249cb
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17260
+
+Expectation.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+8576470fc05c5ad4088f41944512ee1e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23288
 

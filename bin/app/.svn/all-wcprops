@@ -1,49 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/233830/lbs/bmeqa/restlet/effectiveJava/bin/app
-END
-FunctionDesign.class
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/FunctionDesign.class
-END
-CommonAPI.class
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/myspace/!svn/ver/233051/lbs/bmeqa/restlet/effectiveJava/bin/app/CommonAPI.class
-END
-BasicGrammar.class
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/BasicGrammar.class
-END
-ConcreteClass.class
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/ConcreteClass.class
-END
-AbstractClass.class
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/AbstractClass.class
-END
-OOFeature.class
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/OOFeature.class
-END
-Implement.class
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/bin/app/Implement.class
+/myspace/!svn/ver/248228/lbs/bmeqa/restlet/effectiveJava/bin/app
 END
 ExceptionSys.class
 K 25
@@ -51,17 +9,35 @@ svn:wc:ra_dav:version-url
 V 83
 /myspace/!svn/ver/233830/lbs/bmeqa/restlet/effectiveJava/bin/app/ExceptionSys.class
 END
+IOSyetem.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/233827/lbs/bmeqa/restlet/effectiveJava/bin/app/IOSyetem.class
+END
 OOParam.class
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/bin/app/OOParam.class
 END
-IOSyetem.class
+ThreadRunnable.class
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/myspace/!svn/ver/233827/lbs/bmeqa/restlet/effectiveJava/bin/app/IOSyetem.class
+V 85
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/bin/app/ThreadRunnable.class
+END
+ProducerConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/245567/lbs/bmeqa/restlet/effectiveJava/bin/app/ProducerConsumer.class
+END
+ThreadThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/bin/app/ThreadThread.class
 END
 Interface.class
 K 25
@@ -69,29 +45,29 @@ svn:wc:ra_dav:version-url
 V 80
 /myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/bin/app/Interface.class
 END
-OOClass.class
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/OOClass.class
-END
 EnumSys.class
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /myspace/!svn/ver/233829/lbs/bmeqa/restlet/effectiveJava/bin/app/EnumSys.class
 END
-OOMemory.class
+OOClass.class
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/bin/app/OOMemory.class
+V 78
+/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/OOClass.class
 END
 Person.class
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /myspace/!svn/ver/233058/lbs/bmeqa/restlet/effectiveJava/bin/app/Person.class
+END
+OOMemory.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/bin/app/OOMemory.class
 END
 ErrException.class
 K 25
@@ -105,9 +81,93 @@ svn:wc:ra_dav:version-url
 V 80
 /myspace/!svn/ver/233041/lbs/bmeqa/restlet/effectiveJava/bin/app/DataArray.class
 END
+JavaThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/bin/app/JavaThread.class
+END
 HelloWorld.class
 K 25
 svn:wc:ra_dav:version-url
 V 81
 /myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/HelloWorld.class
+END
+JavaGeneric.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/248141/lbs/bmeqa/restlet/effectiveJava/bin/app/JavaGeneric.class
+END
+FunctionDesign.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/FunctionDesign.class
+END
+CommonAPI.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/233051/lbs/bmeqa/restlet/effectiveJava/bin/app/CommonAPI.class
+END
+Producer.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/bin/app/Producer.class
+END
+JavaContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/247629/lbs/bmeqa/restlet/effectiveJava/bin/app/JavaContainer.class
+END
+PublicResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/bin/app/PublicResource.class
+END
+JavaReflect.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/248228/lbs/bmeqa/restlet/effectiveJava/bin/app/JavaReflect.class
+END
+ConcreteClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/ConcreteClass.class
+END
+BasicGrammar.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/bin/app/BasicGrammar.class
+END
+OOFeature.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/OOFeature.class
+END
+AbstractClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/bin/app/AbstractClass.class
+END
+Implement.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/bin/app/Implement.class
+END
+Consumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/bin/app/Consumer.class
 END

@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/resources
 https://svn.baidu.com/myspace
 
@@ -536,14 +536,14 @@ yangjun03
 
 2585
 
-MatchedTestService.java
+GenericTypeResource.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-1f1faea960cb403c96bd93798e5b119b
+11b46b10e41cbd50c3a85da7deacc8ef
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -568,7 +568,7 @@ yangjun03
 
 
 
-4701
+1797
 
 ResponseBuilderService.java
 file
@@ -604,14 +604,14 @@ yangjun03
 
 2966
 
-GenericTypeResource.java
+MatchedTestService.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-11b46b10e41cbd50c3a85da7deacc8ef
+1f1faea960cb403c96bd93798e5b119b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -636,41 +636,7 @@ yangjun03
 
 
 
-1797
-
-SimpleTrain.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-47581eb9f4518277299b6b31d0b4812b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4015
+4701
 
 IllegalConstructorResource.java
 file
@@ -706,14 +672,14 @@ yangjun03
 
 1764
 
-MatrixParamTestService2.java
+SimpleTrain.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-11faeccb0724269271366278b1940d14
+47581eb9f4518277299b6b31d0b4812b
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -738,16 +704,16 @@ yangjun03
 
 
 
-2628
+4015
 
-DeterminingMediaTypeTestService.java
+ContextsTestService.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-a2d2eb213ecd397d3b66faa9a5d44c71
+4973407a0351b885c92f8735687676e0
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -772,7 +738,7 @@ yangjun03
 
 
 
-1535
+3092
 
 RecursiveTestService.java
 file
@@ -808,14 +774,14 @@ yangjun03
 
 1865
 
-ContextsTestService.java
+DeterminingMediaTypeTestService.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-4973407a0351b885c92f8735687676e0
+a2d2eb213ecd397d3b66faa9a5d44c71
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -840,7 +806,41 @@ yangjun03
 
 
 
-3092
+1535
+
+MatrixParamTestService2.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+11faeccb0724269271366278b1940d14
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2628
 
 ExcMapperTestResource.java
 file
@@ -910,40 +910,6 @@ yangjun03
 
 3486
 
-HeadOptionsTestService.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-9f13d360a3ca9e6d463fc8d71eaddd56
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2294
-
 PathParamTestService.java
 file
 
@@ -978,14 +944,14 @@ yangjun03
 
 2975
 
-ExtendedUriBuilderTestResource.java
+HeadOptionsTestService.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-68e0ce3e5f592b03adaa41de02263229
+9f13d360a3ca9e6d463fc8d71eaddd56
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1010,7 +976,41 @@ yangjun03
 
 
 
-1860
+2294
+
+InheritAnnotationTestService1.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+6d516ffd1a9535ea600ffadf07dc831b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1418
 
 NoProviderResource.java
 file
@@ -1046,14 +1046,14 @@ yangjun03
 
 1378
 
-InheritAnnotationTestService1.java
+ExtendedUriBuilderTestResource.java
 file
 
 
 
 
 2015-02-27T14:04:13.000000Z
-6d516ffd1a9535ea600ffadf07dc831b
+68e0ce3e5f592b03adaa41de02263229
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1078,7 +1078,7 @@ yangjun03
 
 
 
-1418
+1860
 
 SimpleResource.java
 file

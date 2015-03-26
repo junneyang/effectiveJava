@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/feed
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-University expand name-literals-language, departments-name-literals-language, departments-divisions-name-literals-language.xml
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-040c6a337aa4d9889b0378f7a92961b6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-277972
 
 CoOpApplication.java
 file
@@ -195,4 +161,38 @@ yangjun03
 
 
 142302
+
+University expand name-literals-language, departments-name-literals-language, departments-divisions-name-literals-language.xml
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+040c6a337aa4d9889b0378f7a92961b6
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+277972
 

@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/provider
 https://svn.baidu.com/myspace
 
@@ -94,40 +94,6 @@ yangjun03
 
 3747
 
-JaxbProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-9fd448b2ee202143968aeadbac9a4439
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8218
-
 FileUploadProvider.java
 file
 
@@ -161,6 +127,40 @@ yangjun03
 
 
 5150
+
+JaxbProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+9fd448b2ee202143968aeadbac9a4439
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8218
 
 DataSourceProvider.java
 file
@@ -298,40 +298,6 @@ yangjun03
 
 4393
 
-ReaderProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-d375df0c9f13e474a2393925985c668a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4172
-
 ByteArrayProvider.java
 file
 
@@ -365,6 +331,40 @@ yangjun03
 
 
 2880
+
+ReaderProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+d375df0c9f13e474a2393925985c668a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4172
 
 AbstractProvider.java
 file

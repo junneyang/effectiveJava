@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf/xmlbase
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+test001.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+ab6d9693c5b6aba781745fb36b527eea
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+742
 
 test010.rdf
 file
@@ -60,14 +94,14 @@ yangjun03
 
 722
 
-test001.rdf
+test002.rdf
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-ab6d9693c5b6aba781745fb36b527eea
+c4a1c6e1b1e72ad287eff7f984b3c383
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -128,40 +162,6 @@ yangjun03
 
 756
 
-test002.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-c4a1c6e1b1e72ad287eff7f984b3c383
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-742
-
 test003.rdf
 file
 
@@ -196,40 +196,6 @@ yangjun03
 
 693
 
-test004.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-e441af3770786a9d5d9840b1a1133c45
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-747
-
 test013.rdf
 file
 
@@ -263,6 +229,40 @@ yangjun03
 
 
 795
+
+test004.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+e441af3770786a9d5d9840b1a1133c45
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+747
 
 test014.rdf
 file
@@ -332,14 +332,14 @@ yangjun03
 
 750
 
-test007.rdf
+test001.nt
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-46a7146a5143e2159b53f042a8e9dd97
+b2f0b83b8c126c2ddb4bd3db9989ac08
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,7 +364,7 @@ yangjun03
 
 
 
-688
+500
 
 test010.nt
 file
@@ -400,14 +400,82 @@ yangjun03
 
 548
 
-test001.nt
+test007.rdf
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-b2f0b83b8c126c2ddb4bd3db9989ac08
+46a7146a5143e2159b53f042a8e9dd97
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688
+
+test011.nt
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+95c00eaa4b21b52d4a25251934185953
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+540
+
+test002.nt
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+441c0aa4fc3c025c930602bcc4898cea
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -467,74 +535,6 @@ yangjun03
 
 
 689
-
-test002.nt
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-441c0aa4fc3c025c930602bcc4898cea
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-500
-
-test011.nt
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-95c00eaa4b21b52d4a25251934185953
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-540
 
 test009.rdf
 file

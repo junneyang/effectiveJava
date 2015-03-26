@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/connector
 https://svn.baidu.com/myspace
 
@@ -60,14 +60,14 @@ yangjun03
 
 28594
 
-ClientHelper.html
+HttpClientHelper.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-0a1f05583f5caa350729439a38806b2f
+1dd97aa9615b01730b488f192077a496
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -92,41 +92,7 @@ yangjun03
 
 
 
-14054
-
-HttpUrlConnectionCall.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-9836721fdb37e70525d832c989936493
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41716
+27873
 
 HttpExchangeCall.html
 file
@@ -162,14 +128,14 @@ yangjun03
 
 34447
 
-HttpClientHelper.html
+HttpUrlConnectionCall.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-1dd97aa9615b01730b488f192077a496
+9836721fdb37e70525d832c989936493
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -194,7 +160,41 @@ yangjun03
 
 
 
-27873
+41716
+
+ClientHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+0a1f05583f5caa350729439a38806b2f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14054
 
 Method.html
 file
@@ -332,40 +332,6 @@ yangjun03
 
 10604
 
-FtpClientHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-5d1e0eaf3a01352448998b6b809edc30
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22953
-
 package-tree.html
 file
 
@@ -399,6 +365,40 @@ yangjun03
 
 
 9735
+
+FtpClientHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+5d1e0eaf3a01352448998b6b809edc30
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22953
 
 HttpsServerHelper.html
 file
@@ -434,40 +434,6 @@ yangjun03
 
 20483
 
-WebDavProtocolHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-a48a17ba283fe85c7d0a90727235c3ab
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12103
-
 ConnectorHelper.html
 file
 
@@ -501,6 +467,40 @@ yangjun03
 
 
 22114
+
+WebDavProtocolHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+a48a17ba283fe85c7d0a90727235c3ab
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12103
 
 class-use
 dir

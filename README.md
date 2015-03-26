@@ -97,3 +97,48 @@ effective java, deep learning and practice for java.
 * finally不一定是最后执行的代码，如果try/catch有return语句，finally还会回到return语句做为结束点
 * 但是不管是否有return，finally肯定是会被执行的
 * enum exception可以结合使用提供比较完美的国际化解决方案
+
+### 014.JavaThread
+* Java线程
+* 进程与线程:	进程运行中的程序，线程运行中的代码片段
+* 线程创建:	基础Thread类-重写run方法，实现Runnable接口-重写run方法，前者不利于扩展，也不利于数据共享
+* 后台线程:	后台线程如果不join，立即停止。有join，都一样。
+* 线程安全:	synchronized修饰代码块、修饰方法
+* 线程通信:	notify/notifyall/wait，同样是对象方法
+* 线程问题:	线程死锁、线程饥饿
+* 线程停止:	比较复杂的问题，一种是通过run方法停止，一种是同座interrupt实现
+* 经典生产者消费者模式实现方法，方法一：公共资源：put、get加锁，等待与唤醒其他线程
+* 方法二：使用java阻塞队列LinkedBlockingQueue，阻塞队列内部已经实现了公共资源加锁机制，外部线程可直接使用get、put
+* 方法三：使用可重入锁以及await、signal方式
+
+### 015.JavaContainer
+* Java容器
+* 线性表:ArrayList && LinkedList
+* 集合:HashSet && TreeSet
+* map:HashMap && TreeMap
+* 队列:Queue
+* List的vector是线程安全的-早期版本-源码中所有方法都经过sychornized关键字进行修饰,ArrayList非线程安全，但是
+* Collections.synchronizedList(l);可以将ArrayList转化成线程安全的List。Set/Map雷同
+* CopyOnWriteArrayList读大于写的时候性能较好，是Collections.synchronizedList另外一种替代思路，可以应用于缓存
+* Queue:ConcurrentLinkedQueue:提供的并发queue,无界线程安全队列,非阻塞的队列,没有 Take和put成对出现.
+* ArrayBlockingQueue:阻塞的队列,当queue满的时候，会阻塞指导queue可以插入数据为止,当queue为空的时候会一直阻塞直到有元素为止. Take和put  成对出现.
+* Collections同步方式比较老的方式，流行的方式是java并发包提供的线程安全版本
+* JAVA迭代异常：java.util.ConcurrentModificationException 对于 
+* hashset  ArrayList   LinkedList   TreeSet  hashMap   treeMap  linkedHashMap
+* 在迭代元素的时候  是不允许去修改我们的集合的.一旦修改会出现迭代异常.后来并发包下的集合解决了这个问题，引入弱迭代器.
+* 或者使用CopyOnWrite方式
+
+### 016.JavaGeneric
+* Java泛型
+* 好处：代码复用、编译期间安全检查、不需要强制类型转化
+* 注意：必须是引用类型、泛型通配符？ ？extends A——A以及A的子类构成的集合，不能添加元素
+* ？super A——A以及A的父类的列表
+* 带有super超类型限定的通配符可以向泛型对易用写入，带有extends子类型限定的通配符可以向泛型对象读取
+
+### 017.JavaReflect
+* Java反射
+* java vm启动时加载class文件，java对class字节码文件的描述也有专用的类Class
+* 通过Class可以动态的获取类的信息，这叫做反射
+* 三种方式获取Class对象：通过类名、通过类名字符串、通过类对象
+* 获取Class对象之后就可以获取很多此类相关的信息如构造函数、方法、属性等、可以得到构造函数创建实例、可以执行方法
+

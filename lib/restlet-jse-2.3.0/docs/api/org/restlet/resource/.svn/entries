@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/resource
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Result.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-364d402ac894206f1a7324cd06d67cdf
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8776
 
 ServerResource.html
 file
@@ -93,6 +59,40 @@ yangjun03
 
 
 130274
+
+Result.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+364d402ac894206f1a7324cd06d67cdf
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8776
 
 Get.html
 file
@@ -162,40 +162,6 @@ yangjun03
 
 7896
 
-package-frame.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-5721b50fd06f8de2732d6acf141380d3
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2524
-
 Status.html
 file
 
@@ -230,14 +196,14 @@ yangjun03
 
 10590
 
-package-use.html
+package-frame.html
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-c489482fd6c5cdf9f3af4cbcf23ced16
+5721b50fd06f8de2732d6acf141380d3
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -262,7 +228,7 @@ yangjun03
 
 
 
-9910
+2524
 
 Post.html
 file
@@ -298,14 +264,14 @@ yangjun03
 
 10321
 
-package-summary.html
+package-use.html
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-599c83493af726a080d4cdf3372e6bb8
+c489482fd6c5cdf9f3af4cbcf23ced16
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,7 +296,7 @@ yangjun03
 
 
 
-10828
+9910
 
 ClientResource.html
 file
@@ -365,6 +331,40 @@ yangjun03
 
 
 192374
+
+package-summary.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+599c83493af726a080d4cdf3372e6bb8
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10828
 
 Resource.html
 file

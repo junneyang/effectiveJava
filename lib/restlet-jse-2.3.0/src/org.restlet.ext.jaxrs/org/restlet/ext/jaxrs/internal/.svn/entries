@@ -1,7 +1,7 @@
 10
 
 dir
-233830
+248236
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal
 https://svn.baidu.com/myspace
 
@@ -26,9 +26,6 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-core
-dir
-
 provider
 dir
 
@@ -51,5 +48,8 @@ wrappers
 dir
 
 todo
+dir
+
+core
 dir
 
