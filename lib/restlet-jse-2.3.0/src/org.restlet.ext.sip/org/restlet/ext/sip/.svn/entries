@@ -1,7 +1,7 @@
 10
 
 dir
-248236
+249376
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,108 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+Priority.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+436b1b9256524ddee15877a30c2e55a0
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4389
+
+Event.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+1cbb558e4468c79df8d13d3fabcb266b
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3080
+
+Subscribe.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+dc50eb50123392be00069389e2a820b1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2345
 
 EventType.java
 file
@@ -60,40 +162,6 @@ yangjun03
 
 2440
 
-Subscription.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-b2289421db32f56df5127e362c12993a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7898
-
 Register.java
 file
 
@@ -127,6 +195,40 @@ yangjun03
 
 
 2346
+
+Subscription.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+b2289421db32f56df5127e362c12993a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7898
 
 Cancel.java
 file
@@ -298,6 +400,9 @@ yangjun03
 
 2329
 
+internal
+dir
+
 SipMethod.java
 file
 
@@ -332,8 +437,39 @@ yangjun03
 
 6960
 
-internal
-dir
+Ack.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+0baf8c0be056e6b63b5a26c59dc78b4e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2351
 
 Invite.java
 file
@@ -368,40 +504,6 @@ yangjun03
 
 
 2337
-
-Ack.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-0baf8c0be056e6b63b5a26c59dc78b4e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2351
 
 SipStatus.java
 file
@@ -505,40 +607,6 @@ yangjun03
 
 2341
 
-SipRequest.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-e26c9ced3700335ff159c72987b5c012
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-25895
-
 OptionTag.java
 file
 
@@ -572,6 +640,40 @@ yangjun03
 
 
 11100
+
+SipRequest.java
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+e26c9ced3700335ff159c72987b5c012
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25895
 
 Publish.java
 file
@@ -675,14 +777,14 @@ yangjun03
 
 2304
 
-SipResponse.java
+Availability.java
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-59306fb3eb33a741482f36696b9c0bb4
+32884887b9feee67fa51192b588fa2ca
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -707,7 +809,7 @@ yangjun03
 
 
 
-16689
+4478
 
 SipRecipientInfo.java
 file
@@ -743,14 +845,14 @@ yangjun03
 
 3490
 
-Availability.java
+SipResponse.java
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-32884887b9feee67fa51192b588fa2ca
+59306fb3eb33a741482f36696b9c0bb4
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -775,7 +877,7 @@ yangjun03
 
 
 
-4478
+16689
 
 Bye.java
 file
@@ -810,106 +912,4 @@ yangjun03
 
 
 2388
-
-Subscribe.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-dc50eb50123392be00069389e2a820b1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2345
-
-Event.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-1cbb558e4468c79df8d13d3fabcb266b
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3080
-
-Priority.java
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-436b1b9256524ddee15877a30c2e55a0
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4389
 

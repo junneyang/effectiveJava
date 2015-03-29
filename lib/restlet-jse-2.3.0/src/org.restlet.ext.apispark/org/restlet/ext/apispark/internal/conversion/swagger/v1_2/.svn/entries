@@ -1,7 +1,7 @@
 10
 
 dir
-248236
+249376
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2
 https://svn.baidu.com/myspace
 
@@ -25,43 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-model
-dir
-
-SwaggerUtils.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-2b02b88ad37fca9e840576c5daeacf69
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5418
 
 SwaggerTypes.java
 file
@@ -164,4 +127,41 @@ yangjun03
 
 
 1420
+
+model
+dir
+
+SwaggerUtils.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+2b02b88ad37fca9e840576c5daeacf69
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5418
 

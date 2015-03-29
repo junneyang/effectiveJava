@@ -1,7 +1,7 @@
 10
 
 dir
-248236
+249376
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/exceptions
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,346 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+NoMessageBodyReaderException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+a64f8714b428117a3c3e0232b45f01bc
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2760
+
+ConvertFormParamException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+c9f34f03eb803743c6e8ed77c58cf885
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1554
+
+ConvertMatrixParamException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+af9f69a1435d031d63f1d6b61229cc10
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1560
+
+ConvertQueryParamException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+1f4cc0573d4a20470c961c652927b245
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1554
+
+IllegalBeanSetterTypeException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+33cb56408f60810a8c9723f57b51a457
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1442
+
+UnsupportedMediaTypeWebAppException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+adfad4eca55ef0227ae5b289c9dd3a31
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2250
+
+JaxRsRuntimeException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+c29ecd867e0fdd078acc700d074f672e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1604
+
+ConvertRepresentationException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+7a4a9cc57f02d7eedc67054e9ad85512
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2283
+
+NotAcceptableWebAppException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+84bbda4427adb6822495ba95f64b76e4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2275
+
+MissingAnnotationException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+6866bfed1e81155b4c6f0eb2421ffb3a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1604
 
 IllegalPathParamTypeException.java
 file
@@ -127,40 +467,6 @@ yangjun03
 
 
 1563
-
-IllegalTypeException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-c6ffdc128f6c1ef2de9fa1b564b8bd65
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1622
 
 ProviderNotInitializableException.java
 file
@@ -298,14 +604,14 @@ yangjun03
 
 2961
 
-NoMessageBodyReaderException.java
+IllegalPathOnMethodException.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-a64f8714b428117a3c3e0232b45f01bc
+f00fcc6d307fb5f597605fd4773fe65a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,41 +636,7 @@ yangjun03
 
 
 
-2760
-
-IllegalConstrParamTypeException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-d1bce8da733379854c51ef04cf86a683
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1414
+1473
 
 ImplementationException.java
 file
@@ -400,14 +672,14 @@ yangjun03
 
 1684
 
-ConvertQueryParamException.java
+IllegalConstrParamTypeException.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-1f4cc0573d4a20470c961c652927b245
+d1bce8da733379854c51ef04cf86a683
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -432,16 +704,16 @@ yangjun03
 
 
 
-1554
+1414
 
-IllegalBeanSetterTypeException.java
+IllegalPathException.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-33cb56408f60810a8c9723f57b51a457
+cb0e178d18335b51381b1368963037db
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -466,7 +738,41 @@ yangjun03
 
 
 
-1442
+3195
+
+JaxRsException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+61dba79a5f1c5f3351baf72253cf6226
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1673
 
 ConvertCookieParamException.java
 file
@@ -502,40 +808,6 @@ yangjun03
 
 1643
 
-IllegalParamTypeException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-5d82f387e627c40a976ac7adae4c5d24
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1663
-
 MethodInvokeException.java
 file
 
@@ -569,6 +841,40 @@ yangjun03
 
 
 1737
+
+IllegalParamTypeException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+5d82f387e627c40a976ac7adae4c5d24
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1663
 
 IllegalMethodParamTypeException.java
 file
@@ -604,14 +910,14 @@ yangjun03
 
 1501
 
-ConvertRepresentationException.java
+IllegalAnnotationException.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-7a4a9cc57f02d7eedc67054e9ad85512
+55bec3000d3b765eedc8c0943a1115c1
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -636,75 +942,7 @@ yangjun03
 
 
 
-2283
-
-NotAcceptableWebAppException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-84bbda4427adb6822495ba95f64b76e4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2275
-
-MissingAnnotationException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-6866bfed1e81155b4c6f0eb2421ffb3a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1604
+1335
 
 RequestHandledException.java
 file
@@ -739,6 +977,40 @@ yangjun03
 
 
 1488
+
+IllegalTypeException.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+c6ffdc128f6c1ef2de9fa1b564b8bd65
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1622
 
 InjectException.java
 file
@@ -807,276 +1079,4 @@ yangjun03
 
 
 1436
-
-IllegalPathOnMethodException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-f00fcc6d307fb5f597605fd4773fe65a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1473
-
-ConvertFormParamException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-c9f34f03eb803743c6e8ed77c58cf885
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1554
-
-IllegalPathException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-cb0e178d18335b51381b1368963037db
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3195
-
-ConvertMatrixParamException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-af9f69a1435d031d63f1d6b61229cc10
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1560
-
-JaxRsException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-61dba79a5f1c5f3351baf72253cf6226
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1673
-
-UnsupportedMediaTypeWebAppException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-adfad4eca55ef0227ae5b289c9dd3a31
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2250
-
-JaxRsRuntimeException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-c29ecd867e0fdd078acc700d074f672e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1604
-
-IllegalAnnotationException.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-55bec3000d3b765eedc8c0943a1115c1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1335
 

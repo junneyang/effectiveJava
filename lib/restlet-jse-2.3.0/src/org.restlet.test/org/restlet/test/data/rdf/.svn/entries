@@ -1,7 +1,7 @@
 10
 
 dir
-248236
+249376
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf
 https://svn.baidu.com/myspace
 
@@ -26,6 +26,30 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
+rdf-ns-prefix-confusion
+dir
+
+pfps-10
+dir
+
+rdf-containers-syntax-vs-schema
+dir
+
+rdfms-duplicate-member-props
+dir
+
+rdfms-syntax-incomplete
+dir
+
+rdfs-entailment
+dir
+
+rdf-element-not-mandatory
+dir
+
+xml-canon
+dir
+
 rdfs-domain-and-range
 dir
 
@@ -35,10 +59,10 @@ dir
 statement-entailment
 dir
 
-rdfs-subPropertyOf-semantics
+rdfms-identity-anon-resources
 dir
 
-rdfms-identity-anon-resources
+rdfs-subPropertyOf-semantics
 dir
 
 rdfms-abouteach
@@ -63,6 +87,9 @@ tex-01
 dir
 
 rdfms-rdf-names-use
+dir
+
+rdfms-xml-literal-namespaces
 dir
 
 Manifest.rdf
@@ -99,9 +126,6 @@ yangjun03
 
 230369
 
-rdfms-xml-literal-namespaces
-dir
-
 rdfms-uri-substructure
 dir
 
@@ -123,25 +147,28 @@ dir
 rdfs-no-cycles-in-subClassOf
 dir
 
-rdfms-not-id-and-resource-attr
+rdfs-subClassOf-a-Property
 dir
 
-rdfs-subClassOf-a-Property
+rdfms-not-id-and-resource-attr
 dir
 
 rdfms-seq-representation
 dir
 
-rdfms-empty-property-elements
+rdf-charmod-literals
 dir
 
-rdf-charmod-literals
+rdfms-empty-property-elements
 dir
 
 rdfs-no-cycles-in-subPropertyOf
 dir
 
 horst-01
+dir
+
+rdfms-rdf-id
 dir
 
 test.xml
@@ -177,31 +204,4 @@ yangjun03
 
 
 0
-
-rdfms-rdf-id
-dir
-
-rdf-ns-prefix-confusion
-dir
-
-rdf-containers-syntax-vs-schema
-dir
-
-pfps-10
-dir
-
-rdfms-duplicate-member-props
-dir
-
-rdfms-syntax-incomplete
-dir
-
-rdfs-entailment
-dir
-
-rdf-element-not-mandatory
-dir
-
-xml-canon
-dir
 

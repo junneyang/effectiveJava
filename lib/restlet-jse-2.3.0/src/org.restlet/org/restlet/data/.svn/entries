@@ -1,7 +1,7 @@
 10
 
 dir
-248236
+249376
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/data
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-Tag.java
+ReferenceList.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-7f78ae1b7714a5c53c1b1736730787ce
+e55f7e2fc07180d0570738e1125ecaf1
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,16 +58,16 @@ yangjun03
 
 
 
-6292
+6088
 
-Parameter.java
+Reference.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-c3db387c0367310165e8fced783a7084
+c12eafab414118a48c9a458a17912623
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -92,16 +92,16 @@ yangjun03
 
 
 
-5331
+102712
 
-Method.java
+ChallengeResponse.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-8d8bad4d19dd0f2e984fb20f2538b7f9
+4d348bb1dc22d895e7fb3bcc8ee92ce5
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,245 +126,7 @@ yangjun03
 
 
 
-16870
-
-MediaType.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-c0d8c048ca138f3bc0f105820ea23a65
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-38933
-
-ServerInfo.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-0604a525c382a3d671d8cf203b4e951c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3803
-
-Expectation.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-1df245bfcc98816c383a8c1bd5ab0c92
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5514
-
-Encoding.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-ae622c58baa125121bf6b04d7b02eb59
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5694
-
-ChallengeMessage.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-1ba5561a534a245835de792fe14adbde
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7512
-
-Range.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-c8847bfb868c0575ea288fad0aeded1c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6134
-
-RecipientInfo.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-64ee5e406c11948d08117c0a2420752a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3410
+17124
 
 Form.java
 file
@@ -400,14 +162,14 @@ yangjun03
 
 10050
 
-Disposition.java
+Warning.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-802abf3e539bda6d88175166df4cd2c8
+234a06795b60432aae3b94f128bb0279
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -432,16 +194,16 @@ yangjun03
 
 
 
-6475
+3199
 
-ChallengeScheme.java
+CookieSetting.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-8ecd018e1c9605ec09f793cee8ab5364
+37dd9784674e1d2b55aaf11319680d95
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -466,7 +228,7 @@ yangjun03
 
 
 
-9680
+9877
 
 CharacterSet.java
 file
@@ -536,14 +298,14 @@ yangjun03
 
 13430
 
-agent.properties
+Tag.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-ffb9fa36755f7c94e149bead228b88a3
+7f78ae1b7714a5c53c1b1736730787ce
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -568,7 +330,7 @@ yangjun03
 
 
 
-3151
+6292
 
 Preference.java
 file
@@ -672,14 +434,14 @@ yangjun03
 
 4633
 
-Product.java
+Parameter.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-8188a635f893a77c75008dd9f1befc94
+c3db387c0367310165e8fced783a7084
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -704,16 +466,16 @@ yangjun03
 
 
 
-3017
+5331
 
-Language.java
+MediaType.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-9e2521015901f128723fb26c85c5c98a
+c0d8c048ca138f3bc0f105820ea23a65
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -738,7 +500,7 @@ yangjun03
 
 
 
-7364
+38933
 
 Status.java
 file
@@ -774,14 +536,14 @@ yangjun03
 
 65380
 
-Dimension.java
+Expectation.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-ba1161b266dc898d3a2a6e08c880f862
+1df245bfcc98816c383a8c1bd5ab0c92
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -806,7 +568,41 @@ yangjun03
 
 
 
-1354
+5514
+
+Language.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+9e2521015901f128723fb26c85c5c98a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7364
 
 Header.java
 file
@@ -876,14 +672,14 @@ yangjun03
 
 39018
 
-ReferenceList.java
+ChallengeRequest.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-e55f7e2fc07180d0570738e1125ecaf1
+17ab23a9118c2a662eaf87e23c67c0a0
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -908,7 +704,7 @@ yangjun03
 
 
 
-6088
+6738
 
 AuthenticationInfo.java
 file
@@ -944,14 +740,14 @@ yangjun03
 
 7883
 
-ChallengeRequest.java
+Range.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-17ab23a9118c2a662eaf87e23c67c0a0
+c8847bfb868c0575ea288fad0aeded1c
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -976,16 +772,16 @@ yangjun03
 
 
 
-6738
+6134
 
-Reference.java
+RecipientInfo.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-c12eafab414118a48c9a458a17912623
+64ee5e406c11948d08117c0a2420752a
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1010,41 +806,7 @@ yangjun03
 
 
 
-102712
-
-ChallengeResponse.java
-file
-
-
-
-
-2015-02-27T14:04:11.000000Z
-4d348bb1dc22d895e7fb3bcc8ee92ce5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17124
+3410
 
 Protocol.java
 file
@@ -1114,14 +876,14 @@ yangjun03
 
 17640
 
-Warning.java
+Disposition.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-234a06795b60432aae3b94f128bb0279
+802abf3e539bda6d88175166df4cd2c8
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1146,16 +908,16 @@ yangjun03
 
 
 
-3199
+6475
 
-CookieSetting.java
+ChallengeScheme.java
 file
 
 
 
 
 2015-02-27T14:04:11.000000Z
-37dd9784674e1d2b55aaf11319680d95
+8ecd018e1c9605ec09f793cee8ab5364
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1180,7 +942,41 @@ yangjun03
 
 
 
-9877
+9680
+
+agent.properties
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+ffb9fa36755f7c94e149bead228b88a3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3151
 
 Conditions.java
 file
@@ -1249,4 +1045,208 @@ yangjun03
 
 
 7057
+
+Method.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+8d8bad4d19dd0f2e984fb20f2538b7f9
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16870
+
+Product.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+8188a635f893a77c75008dd9f1befc94
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3017
+
+ServerInfo.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+0604a525c382a3d671d8cf203b4e951c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3803
+
+Dimension.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+ba1161b266dc898d3a2a6e08c880f862
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1354
+
+Encoding.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+ae622c58baa125121bf6b04d7b02eb59
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5694
+
+ChallengeMessage.java
+file
+
+
+
+
+2015-02-27T14:04:11.000000Z
+1ba5561a534a245835de792fe14adbde
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7512
 

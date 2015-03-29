@@ -1,7 +1,7 @@
 10
 
 dir
-248236
+249376
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Component.xml
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-dd106f2f3f1ead214b37fa782ed42eb1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-613
-
-ComponentXmlConfigTestCase.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-97c0bd3273077b80796e5f408b5ab6e8
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23510
 
 HelloWorldRestlet.java
 file
@@ -195,4 +127,72 @@ yangjun03
 
 
 1164
+
+Component.xml
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+dd106f2f3f1ead214b37fa782ed42eb1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+613
+
+ComponentXmlConfigTestCase.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+97c0bd3273077b80796e5f408b5ab6e8
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23510
 

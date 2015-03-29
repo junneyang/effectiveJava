@@ -142,3 +142,20 @@ effective java, deep learning and practice for java.
 * 三种方式获取Class对象：通过类名、通过类名字符串、通过类对象
 * 获取Class对象之后就可以获取很多此类相关的信息如构造函数、方法、属性等、可以得到构造函数创建实例、可以执行方法
 
+### 018.JavaSocket
+* Java 网络通信
+* TCP：面向连接，三次握手保证正确连接，之后才正式发送数据——打手机、rpc
+* UDP：数据报协议，通信不需要建立连接，不保证数据可以确定到达——发短信、心跳
+* 套接字：对IP、端口进行抽象，实现端到端通信
+* 对于TCP，客户端Socket、服务端ServerSocket。基于getInputStream、getOutputSteam进行通信
+* 对于UDP协议客户端服务端都是DatagramSocket,SendTo/RecvFrom，完全依赖于数据包
+* 示例采用简单的线程池方式实现异步，buf粗放型设计。以后再加入基于事件的网络设计开发示例
+
+### 019.JavaAtom
+* Java原子类
+* synchronized线程之间同步到达线程安全，本质是互斥锁，是一个悲观锁
+* 乐观锁通过CAS实现：通过硬件指令的方式实现乐观锁,以及锁的非阻塞方式来实现线程之间的同步。乐观+非阻塞。读写一步完成Atom——通过硬件实现
+* 单个变量有效，复合变量通过同步器等方法实现
+* Volatile：保证单个变量的可见性，通过CAS保证单个共享变量的原子性，对于线程安全的有序性也有保障。——可见、原子、有序
+* Atomic开头的代表类，比如：AtomicLong
+
