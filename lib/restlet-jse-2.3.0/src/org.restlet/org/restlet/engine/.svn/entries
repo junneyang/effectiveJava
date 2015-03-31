@@ -1,7 +1,7 @@
 10
 
 dir
-249376
+250309
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine
 https://svn.baidu.com/myspace
 
@@ -25,15 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-header
-dir
-
-connector
-dir
-
-local
-dir
 
 Helper.java
 file
@@ -72,9 +63,6 @@ yangjun03
 ssl
 dir
 
-component
-dir
-
 RestletHelper.java
 file
 
@@ -109,16 +97,19 @@ yangjun03
 
 5030
 
+component
+dir
+
 application
 dir
 
-security
+io
 dir
 
 converter
 dir
 
-io
+security
 dir
 
 Edition.java
@@ -233,5 +224,14 @@ yangjun03
 40418
 
 resource
+dir
+
+header
+dir
+
+local
+dir
+
+connector
 dir
 

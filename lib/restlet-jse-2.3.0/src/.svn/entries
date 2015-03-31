@@ -1,7 +1,7 @@
 10
 
 dir
-249376
+250309
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,30 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+org.restlet.ext.xml
+dir
+
+org.restlet.ext.atom
+dir
+
+org.restlet.ext.gwt
+dir
+
+org.restlet.ext.spring
+dir
+
+org.restlet.ext.gson
+dir
+
+org.restlet.ext.e4
+dir
+
+org.restlet.ext.sdc
+dir
+
+org.restlet.ext.rdf
+dir
 
 org.restlet.ext.jaas
 dir
@@ -68,31 +92,31 @@ dir
 org.restlet.ext.raml
 dir
 
-org.restlet.ext.jsslutils
+org.restlet.example
 dir
 
 org.restlet.ext.guice
 dir
 
-org.restlet.example
+org.restlet.ext.jsslutils
 dir
 
 org.restlet.ext.velocity
 dir
 
-org.restlet.ext.jetty
-dir
-
 org.restlet.ext.swagger
 dir
 
-org.restlet.ext.jdbc
+org.restlet.ext.jetty
+dir
+
+org.restlet
 dir
 
 org.restlet.ext.rome
 dir
 
-org.restlet
+org.restlet.ext.jdbc
 dir
 
 org.restlet.ext.html
@@ -166,29 +190,5 @@ org.restlet.ext.sip
 dir
 
 org.restlet.ext.jibx
-dir
-
-org.restlet.ext.xml
-dir
-
-org.restlet.ext.atom
-dir
-
-org.restlet.ext.gwt
-dir
-
-org.restlet.ext.spring
-dir
-
-org.restlet.ext.gson
-dir
-
-org.restlet.ext.e4
-dir
-
-org.restlet.ext.sdc
-dir
-
-org.restlet.ext.rdf
 dir
 

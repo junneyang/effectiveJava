@@ -1,7 +1,7 @@
 10
 
 dir
-249376
+250309
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/edm
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+Schema.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+ce407fdcc07883a70e2350869ace9c89
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4409
 
 TypeUtils.java
 file
@@ -60,40 +94,6 @@ yangjun03
 
 22005
 
-MetadataReader.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-87dfda8402183b249be67cc8624f3560
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31220
-
 AssociationEnd.java
 file
 
@@ -127,6 +127,40 @@ yangjun03
 
 
 2879
+
+MetadataReader.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+87dfda8402183b249be67cc8624f3560
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31220
 
 NavigationProperty.java
 file
@@ -230,40 +264,6 @@ yangjun03
 
 2560
 
-Association.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-734cc84b95c76639d73764108ff65d96
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2451
-
 ComplexProperty.java
 file
 
@@ -297,6 +297,40 @@ yangjun03
 
 
 1828
+
+Association.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+734cc84b95c76639d73764108ff65d96
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2451
 
 EntityType.java
 file
@@ -332,40 +366,6 @@ yangjun03
 
 6077
 
-EntityContainer.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-b7e0d8027f7519361d626008513cd267
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5045
-
 AssociationSetEnd.java
 file
 
@@ -400,14 +400,14 @@ yangjun03
 
 2014
 
-Parameter.java
+EntityContainer.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-84abf9f3c88117dd388627bcee1cff8f
+b7e0d8027f7519361d626008513cd267
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -432,7 +432,41 @@ yangjun03
 
 
 
-3858
+5045
+
+Metadata.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+51ed9d0a02d5570597d0d1abaef5c89a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14684
 
 FunctionImport.java
 file
@@ -468,14 +502,14 @@ yangjun03
 
 8081
 
-Metadata.java
+Parameter.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-51ed9d0a02d5570597d0d1abaef5c89a
+84abf9f3c88117dd388627bcee1cff8f
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -500,7 +534,7 @@ yangjun03
 
 
 
-14684
+3858
 
 Type.java
 file
@@ -739,38 +773,4 @@ yangjun03
 
 
 1765
-
-Schema.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-ce407fdcc07883a70e2350869ace9c89
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4409
 

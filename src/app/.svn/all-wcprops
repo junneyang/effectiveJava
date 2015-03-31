@@ -1,7 +1,49 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/249376/lbs/bmeqa/restlet/effectiveJava/src/app
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app
+END
+OOMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/src/app/OOMemory.java
+END
+DataArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/233041/lbs/bmeqa/restlet/effectiveJava/src/app/DataArray.java
+END
+TCPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/248583/lbs/bmeqa/restlet/effectiveJava/src/app/TCPServer.java
+END
+JavaGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/248141/lbs/bmeqa/restlet/effectiveJava/src/app/JavaGeneric.java
+END
+Producer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/src/app/Producer.java
+END
+JavaNIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app/JavaNIO.java
+END
+JavaCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app/JavaCondition.java
 END
 JavaAtomThread.java
 K 25
@@ -57,6 +99,12 @@ svn:wc:ra_dav:version-url
 V 82
 /myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/src/app/ThreadThread.java
 END
+JavaReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app/JavaReadWriteLock.java
+END
 JavaAtom.java
 K 25
 svn:wc:ra_dav:version-url
@@ -79,7 +127,7 @@ JavaThread.java
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/src/app/JavaThread.java
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app/JavaThread.java
 END
 HelloWorld.java
 K 25
@@ -111,23 +159,17 @@ svn:wc:ra_dav:version-url
 V 79
 /myspace/!svn/ver/248583/lbs/bmeqa/restlet/effectiveJava/src/app/TCPClient.java
 END
-JavaReflect.java
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/myspace/!svn/ver/248228/lbs/bmeqa/restlet/effectiveJava/src/app/JavaReflect.java
-END
 PublicResource.java
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/src/app/PublicResource.java
 END
-ConcreteClass.java
+JavaReflect.java
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/src/app/ConcreteClass.java
+V 81
+/myspace/!svn/ver/248228/lbs/bmeqa/restlet/effectiveJava/src/app/JavaReflect.java
 END
 BasicGrammar.java
 K 25
@@ -135,17 +177,23 @@ svn:wc:ra_dav:version-url
 V 82
 /myspace/!svn/ver/232471/lbs/bmeqa/restlet/effectiveJava/src/app/BasicGrammar.java
 END
-OOFeature.java
+ConcreteClass.java
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/src/app/OOFeature.java
+V 83
+/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/src/app/ConcreteClass.java
 END
 AbstractClass.java
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/src/app/AbstractClass.java
+END
+OOFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/233005/lbs/bmeqa/restlet/effectiveJava/src/app/OOFeature.java
 END
 ProducerConsumer.java
 K 25
@@ -159,33 +207,15 @@ svn:wc:ra_dav:version-url
 V 79
 /myspace/!svn/ver/233007/lbs/bmeqa/restlet/effectiveJava/src/app/Interface.java
 END
-OOMemory.java
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/myspace/!svn/ver/232993/lbs/bmeqa/restlet/effectiveJava/src/app/OOMemory.java
-END
-DataArray.java
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/myspace/!svn/ver/233041/lbs/bmeqa/restlet/effectiveJava/src/app/DataArray.java
-END
-TCPServer.java
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/myspace/!svn/ver/248583/lbs/bmeqa/restlet/effectiveJava/src/app/TCPServer.java
-END
-JavaGeneric.java
+JavaFututer.java
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/myspace/!svn/ver/248141/lbs/bmeqa/restlet/effectiveJava/src/app/JavaGeneric.java
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app/JavaFututer.java
 END
-Producer.java
+JavaSynchorized.java
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/myspace/!svn/ver/245448/lbs/bmeqa/restlet/effectiveJava/src/app/Producer.java
+V 85
+/myspace/!svn/ver/250309/lbs/bmeqa/restlet/effectiveJava/src/app/JavaSynchorized.java
 END

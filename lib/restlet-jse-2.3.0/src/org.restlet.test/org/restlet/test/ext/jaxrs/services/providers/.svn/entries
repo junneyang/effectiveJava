@@ -1,7 +1,7 @@
 10
 
 dir
-249376
+250309
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+IllegalArgExcMapper.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+540b1c0c177f5e26dd1d49cd4801ce5c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2639
+
+ThrowWebAppExcProvider.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+47c3f2c5fcf4cb36f206b1cec9a37fd8
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3316
 
 ParamConstructorProvider.java
 file
@@ -264,40 +332,6 @@ yangjun03
 
 1177
 
-BaseUriContext.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-b18fb859402b75e11314c552de7c5240
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1262
-
 TextCrazyPersonProvider.java
 file
 
@@ -332,14 +366,14 @@ yangjun03
 
 3021
 
-Issue971WriterSub.java
+BaseUriContext.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-15d66381d1da6262f3613f6756a1ccfb
+b18fb859402b75e11314c552de7c5240
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,7 +398,7 @@ yangjun03
 
 
 
-1085
+1262
 
 MatchedUriTestProvider.java
 file
@@ -399,6 +433,40 @@ yangjun03
 
 
 3172
+
+Issue971WriterSub.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+15d66381d1da6262f3613f6756a1ccfb
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1085
 
 ContextResolverTestWriter.java
 file
@@ -535,72 +603,4 @@ yangjun03
 
 
 1607
-
-IllegalArgExcMapper.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-540b1c0c177f5e26dd1d49cd4801ce5c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2639
-
-ThrowWebAppExcProvider.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-47c3f2c5fcf4cb36f206b1cec9a37fd8
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3316
 

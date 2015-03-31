@@ -159,3 +159,41 @@ effective java, deep learning and practice for java.
 * Volatile：保证单个变量的可见性，通过CAS保证单个共享变量的原子性，对于线程安全的有序性也有保障。——可见、原子、有序
 * Atomic开头的代表类，比如：AtomicLong
 
+### 020.JavaSynchorized
+* Java同步器
+* 信号量：semaphore，同步方式实现N（如果为1，相当于synchronized）个线程同时执行，可以改变生产者-消费者模式的实现
+* 屏障：N个线程达到屏障点才能执行其他线程
+* 倒计数闭锁：CountDownLatch，提供计数器，当计数器为0时，所有线程释放占用资源
+* exchange:交换器，线程同步点实现数据交换
+
+### 021.JavaCondition
+* Java条件变量
+* 以前实现线程之间的通信是通过notify，notifyall wait来实现的。Condition取代了这样的方式 来实现线程之间的通信.
+* Condition主要通过我们的重入锁.
+
+### 022.JavaReadWriteLock
+* Java读写锁
+* ReentrantReadWriteLock:可重入的读写锁,当我们的应用中有多线程和写线程的时候 ,
+* 读写锁分为：读读锁和写锁,对于所有的读锁是不互斥。写锁和读锁是要互斥的，写锁和写锁之间是互斥的。
+* 适合读大于写的情况.
+* ReentrantReadWriteLock和ReentrantLock:
+* ReentrantReadWriteLock,适合读线程多余写线程的情况,
+* 多线程多的时候,读锁是不会阻塞读的线程，要上读锁有写的线程的时候  要上写锁，，阻塞其他的读锁和写锁.
+
+### 023.JavaFututer
+* Java Future
+* Futrue:通过异步的方式获得线程执行的结果，让没有获得线程治国之前，可以去做其他的事情。
+* 这个种方式就好像下订单,当下了订单后我可以去做其他的事情，这个时候当我的物品来的时候  通知我去取  然后我拿着订货单就可以获得我的商品.
+* FutrueTasK：实现了Futrue这个借口一个实现类.
+
+### 024.JavaNIO
+* Java异步IO
+* 阻塞和非阻塞、同步和异步的方式
+* IO事件的轮询  --多路复用技术(select模式)
+* Java IO模型：
+* BIO:JDK1.4以前我们使用都是BIO 阻塞IO
+* 阻塞到我们的读写方法,阻塞到线程来提供性能.对于线程的开销本来就是性能的浪费.
+* NIO:jdk1.4  linux 多路复用技术(select模式)  实现IO事件的轮询方式:同步非阻塞的模式.这个种方式目前是主流的网络通信模式.
+* Mina，netty    mina2.0    netty5.0---网络通信框架.比我直接写NIO要容易些  并且代码可读性更好
+* AIO:jdk1.7 (NIO2) 才是实现真正的异步aio，学习linux epoll模式
+* AIO使用的比较少,可以认真的学习一些思想

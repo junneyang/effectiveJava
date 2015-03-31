@@ -1,7 +1,7 @@
 10
 
 dir
-249376
+250309
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/resource
 https://svn.baidu.com/myspace
 
@@ -25,142 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Get.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-4060e9a3176f508121a4e3dba00048ce
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2363
-
-ClientProxy.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-aeee0545106d1703c5ad9a0cbcb142e7
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1449
-
-Status.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-bab85170acb87a0e9773c20d16fe6128
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2426
-
-Post.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-c26731916c706fcfac2c1f85e4ab655a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2885
 
 ClientResource.java
 file
@@ -468,6 +332,40 @@ yangjun03
 
 2869
 
+Result.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+7927462baa3eef1289d8181d01099839
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1522
+
 ServerResource.java
 file
 
@@ -502,14 +400,14 @@ yangjun03
 
 66839
 
-Result.java
+Get.java
 file
 
 
 
 
 2015-02-27T14:04:10.000000Z
-7927462baa3eef1289d8181d01099839
+4060e9a3176f508121a4e3dba00048ce
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -534,5 +432,107 @@ yangjun03
 
 
 
-1522
+2363
+
+ClientProxy.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+aeee0545106d1703c5ad9a0cbcb142e7
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1449
+
+Status.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+bab85170acb87a0e9773c20d16fe6128
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2426
+
+Post.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+c26731916c706fcfac2c1f85e4ab655a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2885
 

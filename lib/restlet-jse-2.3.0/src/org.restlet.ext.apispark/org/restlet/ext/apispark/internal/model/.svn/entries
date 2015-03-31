@@ -1,7 +1,7 @@
 10
 
 dir
-249376
+250309
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/model
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Parameter.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-dec94631e4d93d3fcc0519910ecdd4fe
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3069
 
 Endpoint.java
 file
@@ -93,6 +59,40 @@ yangjun03
 
 
 3983
+
+Parameter.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+dec94631e4d93d3fcc0519910ecdd4fe
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3069
 
 Sample.java
 file
@@ -264,40 +264,6 @@ yangjun03
 
 3767
 
-Header.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-11762224362f89699e0ba77f6c3bd1f1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1054
-
 Definition.java
 file
 
@@ -331,6 +297,40 @@ yangjun03
 
 
 3501
+
+Header.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+11762224362f89699e0ba77f6c3bd1f1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1054
 
 PayLoad.java
 file
@@ -468,40 +468,6 @@ yangjun03
 
 4411
 
-PathVariable.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-ba17b75e1619d36ce46c359df9ac9dd1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1992
-
 Representation.java
 file
 
@@ -535,6 +501,40 @@ yangjun03
 
 
 2990
+
+PathVariable.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+ba17b75e1619d36ce46c359df9ac9dd1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992
 
 Section.java
 file

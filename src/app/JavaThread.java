@@ -37,7 +37,8 @@ public class JavaThread {
 	 	* 线程停止:	比较复杂的问题，一种是通过run方法停止，一种是同座interrupt实现
 	 	* 经典生产者消费者模式实现方法，方法一：公共资源：put、get加锁，等待与唤醒其他线程
 	 	* 方法二：使用java阻塞队列LinkedBlockingQueue，阻塞队列内部已经实现了公共资源加锁机制，外部线程可直接使用get、put
-	 	* 方法三：使用可重入锁以及await、signal方式
+	 	* 方法三：使用可重入锁以及await、signal方式,可重入锁提供了比synchronized更多的方法，但是保留了synchronized的方法行为，
+	 	* 加入了锁的重入、中断、定时等
 	 * @param args
 	 * @return: void
 	 */
