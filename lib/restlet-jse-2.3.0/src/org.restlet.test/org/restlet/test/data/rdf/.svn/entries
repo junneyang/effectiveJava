@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf
 https://svn.baidu.com/myspace
 
@@ -26,89 +26,25 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-xmlsch-02
-dir
-
-tex-01
-dir
-
-rdfms-rdf-names-use
-dir
-
-rdfms-uri-substructure
-dir
-
-Manifest.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-a0d8941add293253e2c8688e82e57152
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-230369
-
-rdfms-xml-literal-namespaces
-dir
-
-amp-in-url
-dir
-
-rdfms-reification-required
-dir
-
-xmlbase
-dir
-
-rdfms-para196
-dir
-
-rdfms-difference-between-ID-and-about
-dir
-
-rdfs-no-cycles-in-subClassOf
-dir
-
-rdfs-subClassOf-a-Property
-dir
-
-rdfms-not-id-and-resource-attr
-dir
-
-rdfms-seq-representation
+rdfms-identity-anon-resources
 dir
 
 rdf-charmod-literals
 dir
 
-rdfms-empty-property-elements
+rdfms-abouteach
 dir
 
-rdfs-no-cycles-in-subPropertyOf
+unrecognised-xml-attributes
+dir
+
+rdfs-container-membership-superProperty
+dir
+
+rdfms-xmllang
+dir
+
+xmlsch-02
 dir
 
 horst-01
@@ -151,28 +87,104 @@ yangjun03
 
 0
 
-rdf-ns-prefix-confusion
-dir
-
-pfps-10
-dir
-
-rdf-containers-syntax-vs-schema
+rdfms-rdf-names-use
 dir
 
 rdfms-duplicate-member-props
 dir
 
-rdfms-syntax-incomplete
+xmlbase
 dir
 
-rdfs-entailment
+rdfms-difference-between-ID-and-about
+dir
+
+rdfms-para196
+dir
+
+statement-entailment
+dir
+
+rdfs-subPropertyOf-semantics
+dir
+
+rdfms-empty-property-elements
+dir
+
+rdf-charmod-uris
+dir
+
+rdfs-no-cycles-in-subPropertyOf
+dir
+
+tex-01
+dir
+
+rdfms-uri-substructure
+dir
+
+rdfms-xml-literal-namespaces
+dir
+
+Manifest.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+a0d8941add293253e2c8688e82e57152
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+230369
+
+amp-in-url
+dir
+
+rdfms-reification-required
+dir
+
+rdf-ns-prefix-confusion
+dir
+
+rdf-containers-syntax-vs-schema
+dir
+
+pfps-10
+dir
+
+xml-canon
 dir
 
 rdf-element-not-mandatory
 dir
 
-xml-canon
+rdfs-entailment
+dir
+
+rdfms-syntax-incomplete
 dir
 
 rdfs-domain-and-range
@@ -181,27 +193,15 @@ dir
 datatypes
 dir
 
-statement-entailment
+rdfs-no-cycles-in-subClassOf
 dir
 
-rdfms-identity-anon-resources
+rdfs-subClassOf-a-Property
 dir
 
-rdfs-subPropertyOf-semantics
+rdfms-not-id-and-resource-attr
 dir
 
-rdfms-abouteach
-dir
-
-rdf-charmod-uris
-dir
-
-unrecognised-xml-attributes
-dir
-
-rdfs-container-membership-superProperty
-dir
-
-rdfms-xmllang
+rdfms-seq-representation
 dir
 

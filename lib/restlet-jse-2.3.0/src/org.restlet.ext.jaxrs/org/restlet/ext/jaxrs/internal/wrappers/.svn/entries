@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-PerRequestRootResourceClass.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-7f094e7246c771b877867bdcc121d1fc
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4869
 
 RrcOrRml.java
 file
@@ -131,40 +97,6 @@ yangjun03
 
 4234
 
-AbstractMethodWrapper.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-b0ab3bac33b46aa29209537fe0fb632e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6504
-
 ResourceClasses.java
 file
 
@@ -198,6 +130,40 @@ yangjun03
 
 
 14315
+
+AbstractMethodWrapper.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+b0ab3bac33b46aa29209537fe0fb632e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6504
 
 provider
 dir
@@ -236,40 +202,6 @@ yangjun03
 
 1997
 
-ResourceClass.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-68dc395eadbd19e4764f227d967fded6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18541
-
 ResourceMethodOrLocator.java
 file
 
@@ -304,14 +236,14 @@ yangjun03
 
 1574
 
-ResourceObject.java
+ResourceClass.java
 file
 
 
 
 
 2015-02-27T14:04:07.000000Z
-6fae0681413a38a2d3a8b345af118a2c
+68dc395eadbd19e4764f227d967fded6
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -336,7 +268,7 @@ yangjun03
 
 
 
-2604
+18541
 
 WrapperUtil.java
 file
@@ -371,6 +303,40 @@ yangjun03
 
 
 11456
+
+ResourceObject.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+6fae0681413a38a2d3a8b345af118a2c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2604
 
 RootResourceClass.java
 file
@@ -473,4 +439,38 @@ yangjun03
 
 
 15113
+
+PerRequestRootResourceClass.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+7f094e7246c771b877867bdcc121d1fc
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4869
 

@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/misc
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+AwsTest.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+149ad420eb743de596ed859150bd2e73
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2780
 
 HeadersTest.java
 file
@@ -93,38 +127,4 @@ yangjun03
 
 
 2149
-
-AwsTest.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-149ad420eb743de596ed859150bd2e73
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2780
 

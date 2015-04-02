@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/representation/class-use
 https://svn.baidu.com/myspace
 
@@ -60,40 +60,6 @@ yangjun03
 
 8353
 
-RepresentationInfo.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-99581ffc29c00eed416ae3c269d4c191
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-19429
-
 AppendableRepresentation.html
 file
 
@@ -127,6 +93,40 @@ yangjun03
 
 
 4722
+
+RepresentationInfo.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+99581ffc29c00eed416ae3c269d4c191
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19429
 
 CharacterRepresentation.html
 file
@@ -196,40 +196,6 @@ yangjun03
 
 4667
 
-InputRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-f92ff3ce5db86e3451e8d3a3f717c452
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6687
-
 ReadableRepresentation.html
 file
 
@@ -263,6 +229,40 @@ yangjun03
 
 
 4700
+
+InputRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+f92ff3ce5db86e3451e8d3a3f717c452
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6687
 
 OutputRepresentation.html
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/com.google.guava_16.0
 https://svn.baidu.com/myspace
 
@@ -25,74 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-com.google.guava.jar
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-a68693df58191585d9af914cfbe6067a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2228009
-
-readme.txt
-file
-
-
-
-
-2015-02-27T14:04:05.000000Z
-d040c6e79dd6c2576a55c3f2249f3def
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-442
 
 license.txt
 file
@@ -161,4 +93,72 @@ yangjun03
 
 
 475
+
+com.google.guava.jar
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+a68693df58191585d9af914cfbe6067a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2228009
+
+readme.txt
+file
+
+
+
+
+2015-02-27T14:04:05.000000Z
+d040c6e79dd6c2576a55c3f2249f3def
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+442
 

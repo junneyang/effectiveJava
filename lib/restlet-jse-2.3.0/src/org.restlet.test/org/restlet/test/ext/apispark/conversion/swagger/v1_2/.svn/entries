@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+store.json
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+6d58e0d6c59eb06560c1f2db9c099160
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2071
 
 SwaggerTranslatorTestCase.java
 file
@@ -195,38 +229,4 @@ yangjun03
 
 
 5825
-
-store.json
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-6d58e0d6c59eb06560c1f2db9c099160
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2071
 

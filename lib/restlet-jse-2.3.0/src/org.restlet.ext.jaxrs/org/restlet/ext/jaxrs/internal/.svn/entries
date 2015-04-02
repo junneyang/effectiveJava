@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal
 https://svn.baidu.com/myspace
 
@@ -26,15 +26,6 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-util
-dir
-
-client
-dir
-
-resteasy
-dir
-
 exceptions
 dir
 
@@ -51,5 +42,14 @@ provider
 dir
 
 spi
+dir
+
+util
+dir
+
+client
+dir
+
+resteasy
 dir
 

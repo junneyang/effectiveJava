@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/connector
 https://svn.baidu.com/myspace
 
@@ -94,40 +94,6 @@ yangjun03
 
 11909
 
-HttpServerHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-f17dba789102d6f78ae85d2528eb7691
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-19742
-
 ServerHelper.html
 file
 
@@ -161,6 +127,40 @@ yangjun03
 
 
 19772
+
+HttpServerHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+f17dba789102d6f78ae85d2528eb7691
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19742
 
 NetServerHelper.html
 file
@@ -196,14 +196,14 @@ yangjun03
 
 28594
 
-ClientHelper.html
+HttpClientHelper.html
 file
 
 
 
 
 2015-02-27T14:04:21.000000Z
-0a1f05583f5caa350729439a38806b2f
+1dd97aa9615b01730b488f192077a496
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -228,7 +228,7 @@ yangjun03
 
 
 
-14054
+27873
 
 HttpUrlConnectionCall.html
 file
@@ -264,6 +264,40 @@ yangjun03
 
 41716
 
+ClientHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+0a1f05583f5caa350729439a38806b2f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14054
+
 HttpExchangeCall.html
 file
 
@@ -297,40 +331,6 @@ yangjun03
 
 
 34447
-
-HttpClientHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-1dd97aa9615b01730b488f192077a496
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27873
 
 Method.html
 file
@@ -468,40 +468,6 @@ yangjun03
 
 10604
 
-FtpClientHelper.html
-file
-
-
-
-
-2015-02-27T14:04:21.000000Z
-5d1e0eaf3a01352448998b6b809edc30
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22953
-
 package-tree.html
 file
 
@@ -535,6 +501,40 @@ yangjun03
 
 
 9735
+
+FtpClientHelper.html
+file
+
+
+
+
+2015-02-27T14:04:21.000000Z
+5d1e0eaf3a01352448998b6b809edc30
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22953
 
 HttpsServerHelper.html
 file

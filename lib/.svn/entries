@@ -1,14 +1,14 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib
 https://svn.baidu.com/myspace
 
 
 
-2015-02-13T08:39:56.625992Z
-229962
+2015-04-01T08:13:30.451726Z
+251369
 yangjun03
 
 
@@ -103,6 +103,12 @@ has-props
 apache-log4j-2.1-bin
 dir
 
+slf4j
+dir
+
+log4j-1.2.16
+dir
+
 apache-log4j-2.1-bin.zip
 file
 
@@ -173,6 +179,9 @@ has-props
 
 
 39246
+
+zookeeper-3.4.6
+dir
 
 json-lib-2.4-jdk15
 dir

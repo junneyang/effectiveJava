@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/representation
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-Variant.java
+StreamRepresentation.java
 file
 
 
 
 
 2015-02-27T14:04:10.000000Z
-7e4d6a595374aab89977f71d977a369d
+89920d924d96b19567d1f2273040e8d6
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,7 +58,7 @@ yangjun03
 
 
 
-17404
+2155
 
 RepresentationInfo.java
 file
@@ -128,40 +128,6 @@ yangjun03
 
 4966
 
-StreamRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-89920d924d96b19567d1f2273040e8d6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2155
-
 CharacterRepresentation.java
 file
 
@@ -230,40 +196,6 @@ yangjun03
 
 2293
 
-InputRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-874eab6b4434d683129272f73d1ff34c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3847
-
 ReadableRepresentation.java
 file
 
@@ -297,6 +229,40 @@ yangjun03
 
 
 2861
+
+InputRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+874eab6b4434d683129272f73d1ff34c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3847
 
 OutputRepresentation.java
 file
@@ -332,40 +298,6 @@ yangjun03
 
 2604
 
-ReaderRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-53e0a1a845a6caf951a27d3ca7b6fa0c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3608
-
 ByteArrayRepresentation.java
 file
 
@@ -399,6 +331,40 @@ yangjun03
 
 
 3501
+
+ReaderRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+53e0a1a845a6caf951a27d3ca7b6fa0c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3608
 
 ObjectRepresentation.java
 file
@@ -434,40 +400,6 @@ yangjun03
 
 12702
 
-DigesterRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-9f9be5f7eefda96ef9e843db4847db71
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10107
-
 StringRepresentation.java
 file
 
@@ -501,6 +433,40 @@ yangjun03
 
 
 6398
+
+DigesterRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+9f9be5f7eefda96ef9e843db4847db71
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10107
 
 BufferingRepresentation.java
 file
@@ -705,4 +671,38 @@ yangjun03
 
 
 8410
+
+Variant.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+7e4d6a595374aab89977f71d977a369d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17404
 

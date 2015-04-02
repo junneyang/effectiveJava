@@ -1,7 +1,7 @@
 10
 
 dir
-250309
+251888
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-PathParamTest2.java
+Issue971Test.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-f011fb83966c4bdb7f72095bffb7f0b7
+e3a9fbfbee8f9967d9efb7658c625d4e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,16 +58,16 @@ yangjun03
 
 
 
-6098
+2322
 
-RepresentationTest.java
+Issue593Test.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-8ec05b2b858a6f91b8371041296b6ccf
+dd308cbc1dd61c17d3d16b973f607e48
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -92,16 +92,16 @@ yangjun03
 
 
 
-4100
+2170
 
-FormTest.java
+CookieParamTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-8c2d510f196d5e520e5d4eb179c1fbe2
+ed93aa94247d80ab95945730a9a9f9cf
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,7 +126,75 @@ yangjun03
 
 
 
-4998
+5626
+
+ListParamTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+5f403bbfa723ff6bca44036f0335cc0a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5123
+
+PathParamTest3.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+540efad16ca0b2cb39d23fcf126bd549
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2746
 
 ExtendedUriBuilderByServiceTest.java
 file
@@ -162,14 +230,14 @@ yangjun03
 
 6024
 
-AppPlusXmlTest.java
+MatchedTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-54fc16be004fd6a3a1ed66272107d8eb
+533ace450960740a4dc2870cad77778d
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -194,7 +262,7 @@ yangjun03
 
 
 
-2983
+5384
 
 ResponseBuilderTest.java
 file
@@ -230,14 +298,14 @@ yangjun03
 
 2728
 
-MatchedTest.java
+PrimitiveWrapperEntityTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-533ace450960740a4dc2870cad77778d
+264d68976f96fc85c7f2d8c465d93530
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -262,7 +330,7 @@ yangjun03
 
 
 
-5384
+4609
 
 RecursiveTest.java
 file
@@ -298,14 +366,14 @@ yangjun03
 
 3210
 
-ContextsTest.java
+MatrixParamTest2.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-6f2e10962e3dd4095898bbc4757b2f93
+e1774454e188670d3a8879bb319d1c9f
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -330,16 +398,16 @@ yangjun03
 
 
 
-2621
+3155
 
-DeterminingMediaTypeTest.java
+JsonTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-4630daf558c6aaadb30a445bd780f833
+9b0db544b62ecb83f9155b31701e6da7
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,7 +432,7 @@ yangjun03
 
 
 
-3754
+6014
 
 GenericTypeTestCase.java
 file
@@ -502,6 +570,40 @@ yangjun03
 
 4373
 
+ThrowWebAppExcProviderTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+9d42fbc8525fb90b973718094af98c93
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2360
+
 OwnProviderTest.java
 file
 
@@ -536,14 +638,14 @@ yangjun03
 
 2596
 
-IllegalConstructorTest.java
+ThrowExceptionTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-9005214599d3142e6ff9fedf96cd73a7
+97e00d5869992fd62f77613e00059460
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -568,7 +670,7 @@ yangjun03
 
 
 
-2072
+3028
 
 UriBuilderByServiceTest.java
 file
@@ -604,14 +706,14 @@ yangjun03
 
 5003
 
-MessageBodyWritersTest.java
+package-info.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-9c891ae175699149ab750a5f66c1491e
+0842dbe7471910b0de723c67b68afd78
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -636,7 +738,7 @@ yangjun03
 
 
 
-2949
+371
 
 ExcMapperTest.java
 file
@@ -672,14 +774,14 @@ yangjun03
 
 2708
 
-NoProviderTest.java
+QueryParamTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-8319106155d3e274651e82db55b2b75e
+bff003eea160090d082a1c34346d9326
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -704,16 +806,16 @@ yangjun03
 
 
 
-2059
+10749
 
-MethodAheadLocatorTest.java
+HttpHeaderTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-3f347e9b797c02a13386e47fc8b782f9
+1f4ed63d0ecaf2b4dd35d1a710d9ebd7
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -738,7 +840,7 @@ yangjun03
 
 
 
-2268
+7761
 
 RequestTest.java
 file
@@ -774,74 +876,6 @@ yangjun03
 
 13644
 
-Issue593Test.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-dd308cbc1dd61c17d3d16b973f607e48
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2170
-
-Issue971Test.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-e3a9fbfbee8f9967d9efb7658c625d4e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2322
-
 PersonsTest.java
 file
 
@@ -875,6 +909,74 @@ yangjun03
 
 
 4165
+
+ProviderTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+68b780dde4c69f69996c875ca0259500
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14667
+
+Issue594Test.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+513082cbb4911afc72c20df785d58d5f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4435
 
 SimpleHouseTest.java
 file
@@ -944,14 +1046,14 @@ yangjun03
 
 4452
 
-PathParamTest3.java
+PathParamTest2.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-540efad16ca0b2cb39d23fcf126bd549
+f011fb83966c4bdb7f72095bffb7f0b7
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -976,7 +1078,109 @@ yangjun03
 
 
 
-2746
+6098
+
+RepresentationTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+8ec05b2b858a6f91b8371041296b6ccf
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4100
+
+FormTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+8c2d510f196d5e520e5d4eb179c1fbe2
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4998
+
+AppPlusXmlTest.java
+file
+
+
+
+
+2015-02-27T14:04:12.000000Z
+54fc16be004fd6a3a1ed66272107d8eb
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2983
 
 CarTest.java
 file
@@ -1012,40 +1216,6 @@ yangjun03
 
 5245
 
-PrimitiveWrapperEntityTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-264d68976f96fc85c7f2d8c465d93530
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4609
-
 ContextResolverTest.java
 file
 
@@ -1080,14 +1250,14 @@ yangjun03
 
 2870
 
-MatrixParamTest2.java
+DeterminingMediaTypeTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-e1774454e188670d3a8879bb319d1c9f
+4630daf558c6aaadb30a445bd780f833
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1112,16 +1282,16 @@ yangjun03
 
 
 
-3155
+3754
 
-JsonTest.java
+ContextsTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-9b0db544b62ecb83f9155b31701e6da7
+6f2e10962e3dd4095898bbc4757b2f93
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1146,16 +1316,16 @@ yangjun03
 
 
 
-6014
+2621
 
-ThrowWebAppExcProviderTest.java
+IllegalConstructorTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-9d42fbc8525fb90b973718094af98c93
+9005214599d3142e6ff9fedf96cd73a7
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1180,7 +1350,7 @@ yangjun03
 
 
 
-2360
+2072
 
 InjectionTest.java
 file
@@ -1216,14 +1386,14 @@ yangjun03
 
 2530
 
-ThrowExceptionTest.java
+MessageBodyWritersTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-97e00d5869992fd62f77613e00059460
+9c891ae175699149ab750a5f66c1491e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1248,7 +1418,7 @@ yangjun03
 
 
 
-3028
+2949
 
 JaxRsTestCase.java
 file
@@ -1283,40 +1453,6 @@ yangjun03
 
 
 23333
-
-package-info.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-0842dbe7471910b0de723c67b68afd78
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-371
 
 MatrixParamTest.java
 file
@@ -1420,40 +1556,6 @@ yangjun03
 
 2454
 
-QueryParamTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-bff003eea160090d082a1c34346d9326
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10749
-
 SimpleTrainTest.java
 file
 
@@ -1488,14 +1590,14 @@ yangjun03
 
 8591
 
-HttpHeaderTest.java
+MethodAheadLocatorTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-1f4ed63d0ecaf2b4dd35d1a710d9ebd7
+3f347e9b797c02a13386e47fc8b782f9
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1520,16 +1622,16 @@ yangjun03
 
 
 
-7761
+2268
 
-CookieParamTest.java
+NoProviderTest.java
 file
 
 
 
 
 2015-02-27T14:04:12.000000Z
-ed93aa94247d80ab95945730a9a9f9cf
+8319106155d3e274651e82db55b2b75e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -1554,107 +1656,5 @@ yangjun03
 
 
 
-5626
-
-Issue594Test.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-513082cbb4911afc72c20df785d58d5f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4435
-
-ProviderTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-68b780dde4c69f69996c875ca0259500
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14667
-
-ListParamTest.java
-file
-
-
-
-
-2015-02-27T14:04:12.000000Z
-5f403bbfa723ff6bca44036f0335cc0a
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5123
+2059
 
