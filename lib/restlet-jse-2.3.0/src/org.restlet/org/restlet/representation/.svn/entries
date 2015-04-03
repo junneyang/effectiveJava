@@ -1,7 +1,7 @@
 10
 
 dir
-251888
+253111
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/representation
 https://svn.baidu.com/myspace
 
@@ -196,40 +196,6 @@ yangjun03
 
 2293
 
-ReadableRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-8f8d7cd51f7041099f0d5d657fcb674f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2861
-
 InputRepresentation.java
 file
 
@@ -263,6 +229,40 @@ yangjun03
 
 
 3847
+
+ReadableRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+8f8d7cd51f7041099f0d5d657fcb674f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2861
 
 OutputRepresentation.java
 file
@@ -298,40 +298,6 @@ yangjun03
 
 2604
 
-ByteArrayRepresentation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-036993b2e5f2e022e62824c3b0676380
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3501
-
 ReaderRepresentation.java
 file
 
@@ -365,6 +331,40 @@ yangjun03
 
 
 3608
+
+ByteArrayRepresentation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+036993b2e5f2e022e62824c3b0676380
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3501
 
 ObjectRepresentation.java
 file
@@ -604,40 +604,6 @@ yangjun03
 
 2223
 
-Representation.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-0c6b791de1521dac24b111af777a88ff
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-21838
-
 FileRepresentation.java
 file
 
@@ -671,6 +637,40 @@ yangjun03
 
 
 8410
+
+Representation.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+0c6b791de1521dac24b111af777a88ff
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21838
 
 Variant.java
 file

@@ -1,12 +1,12 @@
 /**  
  * Copyright © 2015 JunneYang. All rights reserved.
  *
- * @Title: Exception.java
+ * @Title: ExceptionSys.java
  * @Prject: effectiveJava
- * @Package: app
+ * @Package: app.java
  * @Description: TODO
  * @author: yangjun03  
- * @date: 2015年3月2日 下午9:53:49
+ * @date: 2015年4月2日 下午6:50:34
  * @version: V1.0  
  */
 package app.java;
@@ -14,30 +14,15 @@ package app.java;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import com.EnumSys;
+import com.ErrException;
 import com.LogHandler;
 
-class ErrException extends Exception {
-	private static final long serialVersionUID = 608751847135585998L;
-	private EnumSys enumSys;
-	public ErrException(EnumSys enumSys) {
-		this.enumSys = enumSys;
-	}
-	public int getErrno() {
-		return this.enumSys.getId();
-	}
-	public String getEnMsg() {
-		return this.enumSys.getMsgEN();
-	}
-	public String getZhMsg() {
-		return this.enumSys.getMsgZH();
-	}
-}
-
 /**
- * @ClassName: Exception
+ * @ClassName: ExceptionSys
  * @Description: TODO
  * @author: yangjun03
- * @date: 2015年3月2日 下午9:53:49
+ * @date: 2015年4月2日 下午6:50:34
  */
 public class ExceptionSys {
 	private static Logger logger = null;
@@ -88,5 +73,4 @@ public class ExceptionSys {
 			logger.info("finally");
 		}
 	}
-
 }

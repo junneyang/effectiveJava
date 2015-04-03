@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Apr 01 14:46:28 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=100.ZookeeperDemo.jar
+manifest.mergeall=true
+manifest.mainclass=app.zookeeper.ZookeeperDemo
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

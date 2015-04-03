@@ -1,7 +1,7 @@
 10
 
 dir
-251888
+253111
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf/xmlbase
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-test010.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-6d9d1e355638c0e9405d430da6e20971
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-722
 
 test001.rdf
 file
@@ -93,6 +59,40 @@ yangjun03
 
 
 742
+
+test010.rdf
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+6d9d1e355638c0e9405d430da6e20971
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+722
 
 test002.rdf
 file
@@ -434,14 +434,14 @@ yangjun03
 
 688
 
-test011.nt
+test002.nt
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-95c00eaa4b21b52d4a25251934185953
+441c0aa4fc3c025c930602bcc4898cea
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -466,7 +466,7 @@ yangjun03
 
 
 
-540
+500
 
 test008.rdf
 file
@@ -502,14 +502,14 @@ yangjun03
 
 689
 
-test002.nt
+test011.nt
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-441c0aa4fc3c025c930602bcc4898cea
+95c00eaa4b21b52d4a25251934185953
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -534,41 +534,7 @@ yangjun03
 
 
 
-500
-
-test009.rdf
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-add375eac5ac07868d5f84bd33c42909
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-706
+540
 
 test003.nt
 file
@@ -604,14 +570,14 @@ yangjun03
 
 544
 
-test013.nt
+test009.rdf
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-7d8840df82e18c4fad03bbf4ef0db76c
+add375eac5ac07868d5f84bd33c42909
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -636,7 +602,7 @@ yangjun03
 
 
 
-637
+706
 
 test004.nt
 file
@@ -671,6 +637,40 @@ yangjun03
 
 
 920
+
+test013.nt
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+7d8840df82e18c4fad03bbf4ef0db76c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+637
 
 test014.nt
 file

@@ -14,6 +14,8 @@ package app.java;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import com.EnumSys;
+import com.ErrException;
 import com.LogHandler;
 
 

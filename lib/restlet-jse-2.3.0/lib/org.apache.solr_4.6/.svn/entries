@@ -1,7 +1,7 @@
 10
 
 dir
-251888
+253111
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/org.apache.solr_4.6
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-library.xml
-file
-
-
-
-
-2015-02-27T14:04:04.000000Z
-26bf24cf01dfa70789727cbb17b05346
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-846
 
 org.apache.solr.common.jar
 file
@@ -195,4 +161,38 @@ has-props
 
 
 2435805
+
+library.xml
+file
+
+
+
+
+2015-02-27T14:04:04.000000Z
+26bf24cf01dfa70789727cbb17b05346
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+846
 

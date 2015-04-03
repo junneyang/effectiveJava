@@ -138,15 +138,28 @@ public class ThreadThread extends Thread {
 		
 		ThreadThread th0 = new ThreadThread("thread-0");
 		ThreadThread th1 = new ThreadThread("thread-1");
+		logger.info("game start");
+		th0.setDaemon(true);
+		th1.setDaemon(true);
 		th0.start();
 		th1.start();
 		try {
-			th0.join();
-			th1.join();
+			//th0.join();
+			//th1.join();
 		} catch (Exception e) {
 			// TODO: handle exception
 			logger.catching(e);
 		}
+		for (int i = 0; i < 10; i++) {
+			try {
+				Thread.sleep(1000);
+				logger.info("game doing...");
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				logger.catching(e);
+			}
+		}
+		logger.info("game over");
 	}
 
 }

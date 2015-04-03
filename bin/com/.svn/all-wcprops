@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/233049/lbs/bmeqa/restlet/effectiveJava/bin/com
+/myspace/!svn/ver/253110/lbs/bmeqa/restlet/effectiveJava/bin/com
 END
 StreamGobbler.class
 K 25
@@ -14,4 +14,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 81
 /myspace/!svn/ver/229962/lbs/bmeqa/restlet/effectiveJava/bin/com/LogHandler.class
+END
+EnumSys.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/253110/lbs/bmeqa/restlet/effectiveJava/bin/com/EnumSys.class
+END
+ErrException.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/253110/lbs/bmeqa/restlet/effectiveJava/bin/com/ErrException.class
 END

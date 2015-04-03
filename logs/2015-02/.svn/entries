@@ -1,14 +1,14 @@
 10
 
 dir
-251888
+253111
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/logs/2015-02
 https://svn.baidu.com/myspace
 
 
 
-2015-02-27T03:12:40.399297Z
-232037
+2015-04-03T09:44:23.491643Z
+253110
 yangjun03
 
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+com-02-27-2015-1.log.gz
+file
+
+
+
+
+2015-04-03T09:44:28.000000Z
+c925ea1f6fabb4e195c372e2d6733f03
+2015-04-03T09:44:23.491643Z
+253110
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+138
 
 com-02-13-2015-1.log.gz
 file

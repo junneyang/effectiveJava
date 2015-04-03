@@ -1,7 +1,7 @@
 10
 
 dir
-251888
+253111
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal
 https://svn.baidu.com/myspace
 
@@ -25,15 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-n3
-dir
-
-ntriples
-dir
-
-xml
-dir
 
 RdfConstants.java
 file
@@ -104,5 +95,14 @@ yangjun03
 2298
 
 turtle
+dir
+
+n3
+dir
+
+ntriples
+dir
+
+xml
 dir
 

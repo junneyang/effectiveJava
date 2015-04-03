@@ -58,10 +58,10 @@ public class ThreadRunnable implements Runnable {
 					System.out.println(Thread.currentThread().getName() + " sell appale num : " + this.sum);
 					this.sum -= 1;
 					//System.out.println(Thread.currentThread().getName() + " cur num : " + this.sum);
-				} //else {
-					//System.out.println(Thread.currentThread().getName() + " all appale selled out");
-					//System.exit(0);
-				//}
+				} else {
+					System.out.println(Thread.currentThread().getName() + " all appale selled out");
+					System.exit(0);
+				}
 			}
 			try {
 				Thread.sleep(1000);

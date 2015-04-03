@@ -1,7 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/myspace/!svn/ver/233049/lbs/bmeqa/restlet/effectiveJava/src/com
+/myspace/!svn/ver/253110/lbs/bmeqa/restlet/effectiveJava/src/com
+END
+EnumSys.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/253110/lbs/bmeqa/restlet/effectiveJava/src/com/EnumSys.java
+END
+ErrException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/253110/lbs/bmeqa/restlet/effectiveJava/src/com/ErrException.java
 END
 StreamGobbler.java
 K 25

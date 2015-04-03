@@ -53,7 +53,7 @@ public class PublicResource {
 		Object o = new Object();
 		this.wareHouse.add(o);
 		logger.info("wareHouse is added an object : " + o.toString() + ", you can get it");
-		notify();
+		notifyAll();
 	}
 	public synchronized void get() {
 		while (this.wareHouse.size() == 0) {
@@ -66,6 +66,6 @@ public class PublicResource {
 			}
 		}
 		logger.info("wareHouse is geted an object : " + this.wareHouse.removeFirst().toString() + ", you can put it");
-		notify();
+		notifyAll();
 	}
 }
