@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/lib/javax.inject_1.0
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-library.xml
-file
-
-
-
-
-2015-02-27T14:04:03.000000Z
-3c7db164abac44f4f31efff50d4fee4c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-552
 
 readme.txt
 file
@@ -161,4 +127,38 @@ yangjun03
 
 
 11560
+
+library.xml
+file
+
+
+
+
+2015-02-27T14:04:03.000000Z
+3c7db164abac44f4f31efff50d4fee4c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+552
 

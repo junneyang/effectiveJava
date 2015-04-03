@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.rome
 https://svn.baidu.com/myspace
 
@@ -26,9 +26,9 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-META-INF
+org
 dir
 
-org
+META-INF
 dir
 

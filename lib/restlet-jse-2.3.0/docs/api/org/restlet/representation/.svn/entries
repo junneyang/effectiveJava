@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/representation
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-RepresentationInfo.html
+AppendableRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-0ecfa4fdd38fe47402442c42af2f3459
+4ac8acd99c15047c975764bacc936aed
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,7 +58,7 @@ yangjun03
 
 
 
-26631
+36050
 
 StreamRepresentation.html
 file
@@ -94,14 +94,14 @@ yangjun03
 
 27334
 
-AppendableRepresentation.html
+RepresentationInfo.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-4ac8acd99c15047c975764bacc936aed
+0ecfa4fdd38fe47402442c42af2f3459
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -126,7 +126,7 @@ yangjun03
 
 
 
-36050
+26631
 
 CharacterRepresentation.html
 file
@@ -196,40 +196,6 @@ yangjun03
 
 32840
 
-ReadableRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:17.000000Z
-f48625a2aa32344c7f2143869aaae4a6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26823
-
 InputRepresentation.html
 file
 
@@ -264,14 +230,14 @@ yangjun03
 
 29786
 
-OutputRepresentation.html
+ReadableRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-f004c2ea9a6af2feb105b830403be833
+f48625a2aa32344c7f2143869aaae4a6
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,7 +262,7 @@ yangjun03
 
 
 
-24565
+26823
 
 package-frame.html
 file
@@ -332,14 +298,14 @@ yangjun03
 
 3372
 
-ReaderRepresentation.html
+OutputRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-e80576fd3e93df8ffc3f8aaff7baa5d3
+f004c2ea9a6af2feb105b830403be833
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,7 +330,41 @@ yangjun03
 
 
 
-29570
+24565
+
+ByteArrayRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:17.000000Z
+4c132385604ec405480173c5f618cf9a
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24899
 
 package-use.html
 file
@@ -400,14 +400,14 @@ yangjun03
 
 15180
 
-ByteArrayRepresentation.html
+ReaderRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:17.000000Z
-4c132385604ec405480173c5f618cf9a
+e80576fd3e93df8ffc3f8aaff7baa5d3
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -432,7 +432,7 @@ yangjun03
 
 
 
-24899
+29570
 
 package-summary.html
 file

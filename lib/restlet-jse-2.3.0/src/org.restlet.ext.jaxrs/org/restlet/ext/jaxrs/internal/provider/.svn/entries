@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/provider
 https://svn.baidu.com/myspace
 
@@ -25,108 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-DataSourceProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-dc0b5a7f635a7711cd085096e7d4a5ac
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3066
-
-WwwFormFormProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-2b42dea469d327da51483bd01ac237c3
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3885
-
-JaxbElementProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-cbd9c824171c90821772a4027857cbcf
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4680
 
 SourceProvider.java
 file
@@ -162,40 +60,6 @@ yangjun03
 
 4393
 
-ByteArrayProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-d07659f4282ab46516f9c2a03dd32c9d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2880
-
 ReaderProvider.java
 file
 
@@ -229,6 +93,40 @@ yangjun03
 
 
 4172
+
+ByteArrayProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+d07659f4282ab46516f9c2a03dd32c9d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2880
 
 AbstractProvider.java
 file
@@ -366,40 +264,6 @@ yangjun03
 
 5790
 
-AbstractJaxbProvider.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-4afd1e1fb6f15a2da3baf9c6deca6ff4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3256
-
 WebAppExcMapper.java
 file
 
@@ -433,6 +297,40 @@ yangjun03
 
 
 9598
+
+AbstractJaxbProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+4afd1e1fb6f15a2da3baf9c6deca6ff4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3256
 
 JsonProvider.java
 file
@@ -705,4 +603,106 @@ yangjun03
 
 
 5150
+
+DataSourceProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+dc0b5a7f635a7711cd085096e7d4a5ac
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3066
+
+WwwFormFormProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+2b42dea469d327da51483bd01ac237c3
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3885
+
+JaxbElementProvider.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+cbd9c824171c90821772a4027857cbcf
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4680
 

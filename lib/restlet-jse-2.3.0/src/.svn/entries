@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,15 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+org.restlet.ext.xstream
+dir
+
+org.restlet.ext.jaxb
+dir
+
+org.restlet.ext.fileupload
+dir
 
 org.restlet.ext.jaxrs
 dir
@@ -71,10 +80,10 @@ dir
 org.restlet.ext.e4
 dir
 
-org.restlet.ext.jaas
+org.restlet.ext.httpclient
 dir
 
-org.restlet.ext.httpclient
+org.restlet.ext.jaas
 dir
 
 org.restlet.test
@@ -98,10 +107,10 @@ dir
 org.restlet.ext.simple
 dir
 
-org.restlet.ext.sip
+org.restlet.ext.raml
 dir
 
-org.restlet.ext.raml
+org.restlet.ext.sip
 dir
 
 org.restlet.ext.velocity
@@ -113,10 +122,10 @@ dir
 org.restlet.ext.gwt
 dir
 
-org.restlet.ext.rome
+org.restlet.ext.jdbc
 dir
 
-org.restlet.ext.jdbc
+org.restlet.ext.rome
 dir
 
 org.restlet.ext.html
@@ -181,14 +190,5 @@ org.restlet.ext.oauth
 dir
 
 org.restlet.ext.crypto
-dir
-
-org.restlet.ext.xstream
-dir
-
-org.restlet.ext.jaxb
-dir
-
-org.restlet.ext.fileupload
 dir
 

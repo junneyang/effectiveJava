@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way
 https://svn.baidu.com/myspace
 
@@ -196,40 +196,6 @@ yangjun03
 
 2122
 
-ServerInboundWay.java
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-c23462ccba9bb5d0d6620ee2438b1c0e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7082
-
 HttpServerInboundWay.java
 file
 
@@ -264,14 +230,14 @@ yangjun03
 
 3587
 
-HttpServerOutboundWay.java
+ServerInboundWay.java
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-63ad84f73083a552b341f32b384d51c5
+c23462ccba9bb5d0d6620ee2438b1c0e
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,7 +262,7 @@ yangjun03
 
 
 
-4207
+7082
 
 ServerOutboundWay.java
 file
@@ -332,14 +298,14 @@ yangjun03
 
 7644
 
-HttpClientInboundWay.java
+HttpServerOutboundWay.java
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-92d8074fe30719fe08a279ab84ff48f1
+63ad84f73083a552b341f32b384d51c5
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,41 +330,7 @@ yangjun03
 
 
 
-3811
-
-ClientInboundWay.java
-file
-
-
-
-
-2015-02-27T14:04:15.000000Z
-dfa5ba2c34cc227d91de91871781fdf7
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8093
+4207
 
 EntityType.java
 file
@@ -434,14 +366,14 @@ yangjun03
 
 1210
 
-InboundWay.java
+ClientInboundWay.java
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-c24b222ac8c2e24c4204f938887cf8fc
+dfa5ba2c34cc227d91de91871781fdf7
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -466,7 +398,75 @@ yangjun03
 
 
 
-14068
+8093
+
+HttpClientInboundWay.java
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+92d8074fe30719fe08a279ab84ff48f1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3811
+
+HttpClientOutboundWay.java
+file
+
+
+
+
+2015-02-27T14:04:15.000000Z
+c78903cada17bd73b43c358cc9f623a5
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4218
 
 ClientOutboundWay.java
 file
@@ -502,14 +502,14 @@ yangjun03
 
 3572
 
-HttpClientOutboundWay.java
+InboundWay.java
 file
 
 
 
 
 2015-02-27T14:04:15.000000Z
-c78903cada17bd73b43c358cc9f623a5
+c24b222ac8c2e24c4204f938887cf8fc
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -534,7 +534,7 @@ yangjun03
 
 
 
-4218
+14068
 
 OutboundWay.java
 file

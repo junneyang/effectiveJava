@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/oauth
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+TokenVerifier.html
+file
+
+
+
+
+2015-02-27T14:04:19.000000Z
+7bdc1fcbcdd2810ba7c28e1870d0ddb5
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17084
+
+GrantType.html
+file
+
+
+
+
+2015-02-27T14:04:19.000000Z
+0c276bc7b88a51f2886c7ff44ea72128
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17733
 
 OAuthServerResource.html
 file
@@ -264,14 +332,14 @@ yangjun03
 
 13668
 
-OAuthResourceDefs.html
+AuthorizationBaseServerResource.html
 file
 
 
 
 
 2015-02-27T14:04:19.000000Z
-79c7de1b76a81064a81ce08e3c7b3074
+96bc2db920c0a149d5d9da4b01f444f0
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -296,7 +364,7 @@ yangjun03
 
 
 
-24542
+54127
 
 OAuthError.html
 file
@@ -332,14 +400,14 @@ yangjun03
 
 20859
 
-AuthorizationBaseServerResource.html
+OAuthResourceDefs.html
 file
 
 
 
 
 2015-02-27T14:04:19.000000Z
-96bc2db920c0a149d5d9da4b01f444f0
+79c7de1b76a81064a81ce08e3c7b3074
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -364,7 +432,7 @@ yangjun03
 
 
 
-54127
+24542
 
 class-use
 dir
@@ -403,40 +471,6 @@ yangjun03
 
 55118
 
-AuthorizationServerResource.html
-file
-
-
-
-
-2015-02-27T14:04:19.000000Z
-fe9111f766b9684eae0aab6e7cee0dc5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-60256
-
 OAuthException.html
 file
 
@@ -470,6 +504,40 @@ yangjun03
 
 
 21434
+
+AuthorizationServerResource.html
+file
+
+
+
+
+2015-02-27T14:04:19.000000Z
+fe9111f766b9684eae0aab6e7cee0dc5
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60256
 
 ProtectedClientResource.html
 file
@@ -776,72 +844,4 @@ yangjun03
 
 
 15919
-
-TokenVerifier.html
-file
-
-
-
-
-2015-02-27T14:04:19.000000Z
-7bdc1fcbcdd2810ba7c28e1870d0ddb5
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17084
-
-GrantType.html
-file
-
-
-
-
-2015-02-27T14:04:19.000000Z
-0c276bc7b88a51f2886c7ff44ea72128
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17733
 

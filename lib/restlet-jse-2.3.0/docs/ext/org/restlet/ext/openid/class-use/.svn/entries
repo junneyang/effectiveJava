@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/openid/class-use
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+RedirectAuthenticator.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+b6f7ed5468042ca0001ebfe261045892
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4704
+
+OpenIdFormForwarder.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+f6e6765381034707bff510e8b2078c60
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4682
 
 AttributeExchange.html
 file
@@ -127,72 +195,4 @@ yangjun03
 
 
 6764
-
-RedirectAuthenticator.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-b6f7ed5468042ca0001ebfe261045892
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4704
-
-OpenIdFormForwarder.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-f6e6765381034707bff510e8b2078c60
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4682
 

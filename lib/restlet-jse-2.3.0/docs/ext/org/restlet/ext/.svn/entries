@@ -1,7 +1,7 @@
 10
 
 dir
-253111
+253219
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext
 https://svn.baidu.com/myspace
 
@@ -74,49 +74,49 @@ dir
 gwt
 dir
 
-rome
+jdbc
 dir
 
-jdbc
+rome
 dir
 
 html
 dir
 
-json
+sdc
 dir
 
-sdc
+json
 dir
 
 apispark
 dir
 
-rdf
-dir
-
 lucene
 dir
 
-thymeleaf
+rdf
 dir
 
 openid
 dir
 
-oauth
+thymeleaf
 dir
 
 crypto
 dir
 
+oauth
+dir
+
 xstream
 dir
 
-fileupload
+jaxb
 dir
 
-jaxb
+fileupload
 dir
 
 jaxrs
