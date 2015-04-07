@@ -1,7 +1,7 @@
 10
 
 dir
-253219
+254110
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/rdf
 https://svn.baidu.com/myspace
 
@@ -26,25 +26,13 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-rdfs-subClassOf-a-Property
-dir
-
-rdfms-not-id-and-resource-attr
-dir
-
-rdfms-seq-representation
-dir
-
-rdf-charmod-literals
-dir
-
-rdfms-empty-property-elements
+rdfs-no-cycles-in-subPropertyOf
 dir
 
 horst-01
 dir
 
-rdfs-no-cycles-in-subPropertyOf
+rdfms-rdf-id
 dir
 
 test.xml
@@ -81,9 +69,6 @@ yangjun03
 
 0
 
-rdfms-rdf-id
-dir
-
 rdf-ns-prefix-confusion
 dir
 
@@ -96,16 +81,16 @@ dir
 rdfms-duplicate-member-props
 dir
 
-rdf-element-not-mandatory
-dir
-
-xml-canon
+rdfms-syntax-incomplete
 dir
 
 rdfs-entailment
 dir
 
-rdfms-syntax-incomplete
+rdf-element-not-mandatory
+dir
+
+xml-canon
 dir
 
 rdfs-domain-and-range
@@ -117,10 +102,10 @@ dir
 statement-entailment
 dir
 
-rdfms-identity-anon-resources
+rdfs-subPropertyOf-semantics
 dir
 
-rdfs-subPropertyOf-semantics
+rdfms-identity-anon-resources
 dir
 
 rdfms-abouteach
@@ -196,12 +181,27 @@ dir
 xmlbase
 dir
 
-rdfms-para196
-dir
-
 rdfms-difference-between-ID-and-about
 dir
 
+rdfms-para196
+dir
+
 rdfs-no-cycles-in-subClassOf
+dir
+
+rdfs-subClassOf-a-Property
+dir
+
+rdfms-not-id-and-resource-attr
+dir
+
+rdfms-seq-representation
+dir
+
+rdfms-empty-property-elements
+dir
+
+rdf-charmod-literals
 dir
 

@@ -1,14 +1,14 @@
 10
 
 dir
-253219
+254110
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/src/app/pc
 https://svn.baidu.com/myspace
 
 
 
-2015-04-03T13:20:23.691040Z
-253219
+2015-04-07T10:08:01.387528Z
+254110
 yangjun03
 
 
@@ -26,139 +26,9 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-Producer.java
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-928044d20e6c0b7a42d298193aa8b229
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1612
+lock
+dir
 
-PublicResource.java
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-0facb682ac4ef65a3220b1d417f7400b
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1830
-
-PCDemo.java
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-8b1bab7b9f9958bce82dbb556164f88b
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-995
-
-Consumer.java
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-e2dad8ced2ebc0513c8cc5323e38581c
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1646
+sync
+dir
 

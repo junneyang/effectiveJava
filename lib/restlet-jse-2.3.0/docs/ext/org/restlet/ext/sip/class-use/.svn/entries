@@ -1,7 +1,7 @@
 10
 
 dir
-253219
+254110
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/sip/class-use
 https://svn.baidu.com/myspace
 
@@ -26,14 +26,14 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-Priority.html
+Notify.html
 file
 
 
 
 
 2015-02-27T14:04:18.000000Z
-da4441a84290384fdf7513cda2fa0629
+e5dff898263efcc4dbe6333ae679f8cc
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -58,16 +58,16 @@ yangjun03
 
 
 
-11579
+4516
 
-Event.html
+SipResponse.html
 file
 
 
 
 
 2015-02-27T14:04:18.000000Z
-3971ffde13bb16cdcac027a6287531e4
+a7e63a297adefcdb49a3aee061505de2
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -92,7 +92,109 @@ yangjun03
 
 
 
-8623
+9025
+
+Availability.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+b553e5be40c70e2606d292884de5022d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7750
+
+SipRecipientInfo.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+3aef784cb246c5cf26cad40c7c994871
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11015
+
+Bye.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+4477b66f43d712522e22239b8e7a392e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4483
 
 Subscribe.html
 file
@@ -128,6 +230,74 @@ yangjun03
 
 4549
 
+Event.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+3971ffde13bb16cdcac027a6287531e4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8623
+
+Priority.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+da4441a84290384fdf7513cda2fa0629
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11579
+
 EventType.html
 file
 
@@ -161,40 +331,6 @@ yangjun03
 
 
 12611
-
-Subscription.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-c00033ccc06bd3c99897a7cf5c985f66
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7802
 
 Register.html
 file
@@ -230,14 +366,14 @@ yangjun03
 
 4538
 
-Cancel.html
+Subscription.html
 file
 
 
 
 
 2015-02-27T14:04:18.000000Z
-16c85bc4885c34efb95b05a0845541d1
+c00033ccc06bd3c99897a7cf5c985f66
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -262,7 +398,7 @@ yangjun03
 
 
 
-4516
+7802
 
 Address.html
 file
@@ -297,6 +433,40 @@ yangjun03
 
 
 29620
+
+Cancel.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+16c85bc4885c34efb95b05a0845541d1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4516
 
 SipServerResource.html
 file
@@ -604,40 +774,6 @@ yangjun03
 
 4505
 
-SipRequest.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-6ea7b2d956cb46ee5f62e7f516afc2cc
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9432
-
 OptionTag.html
 file
 
@@ -671,6 +807,40 @@ yangjun03
 
 
 29131
+
+SipRequest.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+6ea7b2d956cb46ee5f62e7f516afc2cc
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9432
 
 Publish.html
 file
@@ -739,174 +909,4 @@ yangjun03
 
 
 9351
-
-Notify.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-e5dff898263efcc4dbe6333ae679f8cc
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4516
-
-Availability.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-b553e5be40c70e2606d292884de5022d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7750
-
-SipResponse.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-a7e63a297adefcdb49a3aee061505de2
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9025
-
-SipRecipientInfo.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-3aef784cb246c5cf26cad40c7c994871
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11015
-
-Bye.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-4477b66f43d712522e22239b8e7a392e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4483
 

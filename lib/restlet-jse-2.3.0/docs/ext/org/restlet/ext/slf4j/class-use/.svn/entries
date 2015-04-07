@@ -1,7 +1,7 @@
 10
 
 dir
-253219
+254110
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/slf4j/class-use
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Slf4jLoggerFacade.html
-file
-
-
-
-
-2015-02-27T14:04:18.000000Z
-c894ba56774157842b33901d4f0aede1
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4649
 
 Slf4jLogger.html
 file
@@ -93,4 +59,38 @@ yangjun03
 
 
 4583
+
+Slf4jLoggerFacade.html
+file
+
+
+
+
+2015-02-27T14:04:18.000000Z
+c894ba56774157842b33901d4f0aede1
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4649
 

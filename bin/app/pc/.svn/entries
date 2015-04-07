@@ -1,14 +1,14 @@
 10
 
 dir
-253219
+254110
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/bin/app/pc
 https://svn.baidu.com/myspace
 
 
 
-2015-04-03T13:20:23.691040Z
-253219
+2015-04-07T10:08:01.387528Z
+254110
 yangjun03
 
 
@@ -26,139 +26,9 @@ yangjun03
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
 
-Producer.class
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-54047da873abcf85798a709eb8fd5451
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1735
+lock
+dir
 
-PublicResource.class
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-f66b5a4bb2b52d728f15caf7c1535b9f
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2308
-
-PCDemo.class
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-f357f7dccf6b3c46c6593ac7c5037235
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1109
-
-Consumer.class
-file
-
-
-
-
-2015-04-03T13:21:14.000000Z
-8dd2beeb70b5bda6f86fb0a8e0043f4a
-2015-04-03T13:20:23.691040Z
-253219
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1922
+sync
+dir
 

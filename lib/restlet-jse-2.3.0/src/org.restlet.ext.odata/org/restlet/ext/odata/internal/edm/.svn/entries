@@ -1,7 +1,7 @@
 10
 
 dir
-253219
+254110
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/edm
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,40 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+Namespace.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+13de5f783650d2d440f95e2ed8b874a0
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1765
 
 Schema.java
 file
@@ -94,40 +128,6 @@ yangjun03
 
 22005
 
-AssociationEnd.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-f896664ddfd91944360ee7d8f3f020a4
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2879
-
 MetadataReader.java
 file
 
@@ -161,6 +161,40 @@ yangjun03
 
 
 31220
+
+AssociationEnd.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+f896664ddfd91944360ee7d8f3f020a4
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2879
 
 NavigationProperty.java
 file
@@ -604,40 +638,6 @@ yangjun03
 
 5689
 
-EntitySet.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-df8fb7328fde8592662dc07ee5f19d0e
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1918
-
 AssociationSet.java
 file
 
@@ -671,6 +671,40 @@ yangjun03
 
 
 2696
+
+EntitySet.java
+file
+
+
+
+
+2015-02-27T14:04:07.000000Z
+df8fb7328fde8592662dc07ee5f19d0e
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1918
 
 ODataType.java
 file
@@ -739,38 +773,4 @@ yangjun03
 
 
 5801
-
-Namespace.java
-file
-
-
-
-
-2015-02-27T14:04:07.000000Z
-13de5f783650d2d440f95e2ed8b874a0
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1765
 
