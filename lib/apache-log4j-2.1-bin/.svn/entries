@@ -1,7 +1,7 @@
 10
 
 dir
-254110
+254144
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/apache-log4j-2.1-bin
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,142 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+log4j-slf4j-impl-2.1.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+63d0fa8a8faa163655575420205acb0c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22542
+
+log4j-taglib-2.1-sources.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+087d6295530956fbfbe40051ec934f22
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30879
+
+log4j-slf4j-impl-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+1095472f676d45683891db19fb96d273
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89089
+
+log4j-iostreams-2.1-sources.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+e34a6f65112cd887e3ae4f0e4843b250
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26524
 
 log4j-core-2.1.jar
 file
@@ -332,40 +468,6 @@ has-props
 
 12513
 
-log4j-core-2.1-sources.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-72e809227222837869d9ec3fd877d466
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-699656
-
 NOTICE.txt
 file
 
@@ -399,6 +501,40 @@ yangjun03
 
 
 355
+
+log4j-core-2.1-sources.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+72e809227222837869d9ec3fd877d466
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+699656
 
 log4j-flume-ng-2.1.jar
 file
@@ -468,40 +604,6 @@ has-props
 
 191950
 
-log4j-jcl-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-80c44db4c0874ffb0b8efb4a6e578653
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41760
-
 log4j-web-2.1.jar
 file
 
@@ -535,6 +637,40 @@ has-props
 
 
 23607
+
+log4j-jcl-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+80c44db4c0874ffb0b8efb4a6e578653
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41760
 
 log4j-flume-ng-2.1-javadoc.jar
 file
@@ -706,40 +842,6 @@ has-props
 
 59647
 
-log4j-1.2-api-2.1-sources.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-ed87ad1ced828b10da1b66e4b3c86bdc
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41247
-
 log4j-core-2.1-tests.jar
 file
 
@@ -773,6 +875,40 @@ has-props
 
 
 726391
+
+log4j-1.2-api-2.1-sources.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+ed87ad1ced828b10da1b66e4b3c86bdc
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41247
 
 log4j-jcl-2.1-sources.jar
 file
@@ -978,40 +1114,6 @@ has-props
 
 78010
 
-log4j-nosql-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-6c7df2ec1f424ea24847fb872f51582c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-108839
-
 log4j-jmx-gui-2.1-sources.jar
 file
 
@@ -1045,6 +1147,40 @@ has-props
 
 
 16767
+
+log4j-nosql-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+6c7df2ec1f424ea24847fb872f51582c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+108839
 
 log4j-taglib-2.1.jar
 file
@@ -1216,40 +1352,6 @@ yangjun03
 
 11366
 
-log4j-iostreams-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-e185211882c805c8ca15d0e2908def1c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-103564
-
 log4j-jul-2.1-sources.jar
 file
 
@@ -1283,6 +1385,40 @@ has-props
 
 
 19169
+
+log4j-iostreams-2.1-javadoc.jar
+file
+
+
+
+
+2015-02-27T14:04:28.000000Z
+e185211882c805c8ca15d0e2908def1c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+103564
 
 log4j-nosql-2.1-sources.jar
 file
@@ -1351,140 +1487,4 @@ has-props
 
 
 477478
-
-log4j-slf4j-impl-2.1.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-63d0fa8a8faa163655575420205acb0c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22542
-
-log4j-taglib-2.1-sources.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-087d6295530956fbfbe40051ec934f22
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-30879
-
-log4j-slf4j-impl-2.1-javadoc.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-1095472f676d45683891db19fb96d273
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-89089
-
-log4j-iostreams-2.1-sources.jar
-file
-
-
-
-
-2015-02-27T14:04:28.000000Z
-e34a6f65112cd887e3ae4f0e4843b250
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26524
 

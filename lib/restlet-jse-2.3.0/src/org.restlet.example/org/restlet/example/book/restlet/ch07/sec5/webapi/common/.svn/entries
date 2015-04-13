@@ -1,7 +1,7 @@
 10
 
 dir
-254110
+254144
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/common
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-AccountResource.java
-file
-
-
-
-
-2015-02-27T14:04:10.000000Z
-27e4a41c73f309c1ca1048cbc357dc0f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1645
 
 MailRepresentation.java
 file
@@ -331,4 +297,38 @@ yangjun03
 
 
 1694
+
+AccountResource.java
+file
+
+
+
+
+2015-02-27T14:04:10.000000Z
+27e4a41c73f309c1ca1048cbc357dc0f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1645
 

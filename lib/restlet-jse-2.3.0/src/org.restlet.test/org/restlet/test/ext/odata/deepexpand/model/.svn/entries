@@ -1,7 +1,7 @@
 10
 
 dir
-254110
+254144
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/odata/deepexpand/model
 https://svn.baidu.com/myspace
 
@@ -25,40 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-Location.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-213eafecdbc1ceeb862bd6e80dcda695
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7813
 
 EmbeddableAddress.java
 file
@@ -808,40 +774,6 @@ yangjun03
 
 8761
 
-FacultyUser.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-cbb4cccda17c1f24492493f7920d1d3d
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11122
-
 Company.java
 file
 
@@ -875,6 +807,40 @@ yangjun03
 
 
 11064
+
+FacultyUser.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+cbb4cccda17c1f24492493f7920d1d3d
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11122
 
 Person.java
 file
@@ -1046,40 +1012,6 @@ yangjun03
 
 8166
 
-Category.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-376c4bc40ef99bdb34a1f468ef7a1dec
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5882
-
 Payment.java
 file
 
@@ -1113,6 +1045,40 @@ yangjun03
 
 
 7277
+
+Category.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+376c4bc40ef99bdb34a1f468ef7a1dec
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5882
 
 JobPosting.java
 file
@@ -1148,40 +1114,6 @@ yangjun03
 
 8768
 
-University.java
-file
-
-
-
-
-2015-02-27T14:04:13.000000Z
-e1041f2b958d935b0ff5b84fe2fd1556
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4021
-
 AuthenticatedUser.java
 file
 
@@ -1215,6 +1147,40 @@ yangjun03
 
 
 10600
+
+University.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+e1041f2b958d935b0ff5b84fe2fd1556
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4021
 
 Professor.java
 file
@@ -1589,4 +1555,38 @@ yangjun03
 
 
 2302
+
+Location.java
+file
+
+
+
+
+2015-02-27T14:04:13.000000Z
+213eafecdbc1ceeb862bd6e80dcda695
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7813
 

@@ -1,7 +1,7 @@
 10
 
 dir
-254110
+254144
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/docs/api/org/restlet/representation/class-use
 https://svn.baidu.com/myspace
 
@@ -25,142 +25,6 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
-
-InputRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-f92ff3ce5db86e3451e8d3a3f717c452
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6687
-
-ReadableRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-c529d44c7dc21eb341270df2a43cfe69
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4700
-
-OutputRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-ca84f02b8681615d4e1e8ad7a3e9d1f9
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7300
-
-ByteArrayRepresentation.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-47a0c2c217bff4daaa79d98cec51af56
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4711
 
 ReaderRepresentation.html
 file
@@ -195,6 +59,40 @@ yangjun03
 
 
 4678
+
+ByteArrayRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+47a0c2c217bff4daaa79d98cec51af56
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4711
 
 DigesterRepresentation.html
 file
@@ -434,40 +332,6 @@ yangjun03
 
 4678
 
-Representation.html
-file
-
-
-
-
-2015-02-27T14:04:16.000000Z
-b6d50099a7e7588038f22c17f26a490f
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-101534
-
 FileRepresentation.html
 file
 
@@ -501,6 +365,40 @@ yangjun03
 
 
 4656
+
+Representation.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+b6d50099a7e7588038f22c17f26a490f
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+101534
 
 Variant.html
 file
@@ -536,14 +434,14 @@ yangjun03
 
 46978
 
-StreamRepresentation.html
+RepresentationInfo.html
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-76b1340021f919c14e5aedf8a3dc10cf
+99581ffc29c00eed416ae3c269d4c191
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -568,7 +466,7 @@ yangjun03
 
 
 
-8353
+19429
 
 AppendableRepresentation.html
 file
@@ -604,14 +502,14 @@ yangjun03
 
 4722
 
-RepresentationInfo.html
+StreamRepresentation.html
 file
 
 
 
 
 2015-02-27T14:04:16.000000Z
-99581ffc29c00eed416ae3c269d4c191
+76b1340021f919c14e5aedf8a3dc10cf
 2015-02-13T08:39:56.625992Z
 229962
 yangjun03
@@ -636,7 +534,7 @@ yangjun03
 
 
 
-19429
+8353
 
 CharacterRepresentation.html
 file
@@ -705,4 +603,106 @@ yangjun03
 
 
 4667
+
+ReadableRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+c529d44c7dc21eb341270df2a43cfe69
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4700
+
+InputRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+f92ff3ce5db86e3451e8d3a3f717c452
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6687
+
+OutputRepresentation.html
+file
+
+
+
+
+2015-02-27T14:04:16.000000Z
+ca84f02b8681615d4e1e8ad7a3e9d1f9
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7300
 

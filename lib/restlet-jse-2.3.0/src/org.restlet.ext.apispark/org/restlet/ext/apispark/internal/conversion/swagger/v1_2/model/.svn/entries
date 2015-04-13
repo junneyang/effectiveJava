@@ -1,7 +1,7 @@
 10
 
 dir
-254110
+254144
 https://svn.baidu.com/myspace/lbs/bmeqa/restlet/effectiveJava/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model
 https://svn.baidu.com/myspace
 
@@ -25,6 +25,74 @@ yangjun03
 
 
 c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+TokenRequestEndpointDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+dad2208d61e96e12835eee8486842501
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1762
+
+AuthorizationCodeDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+bcecf7b3eab917adcf0f794aa83c8f9c
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1787
 
 AuthorizationType.java
 file
@@ -196,40 +264,6 @@ yangjun03
 
 1296
 
-ResponseMessageDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-6274fcaea98db27b1893666cfe92a0e6
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1699
-
 ApiKeyAuthorizationDeclaration.java
 file
 
@@ -263,6 +297,40 @@ yangjun03
 
 
 1540
+
+ResponseMessageDeclaration.java
+file
+
+
+
+
+2015-02-27T14:04:06.000000Z
+6274fcaea98db27b1893666cfe92a0e6
+2015-02-13T08:39:56.625992Z
+229962
+yangjun03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1699
 
 ResourceListingApi.java
 file
@@ -773,72 +841,4 @@ yangjun03
 
 
 1959
-
-TokenRequestEndpointDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-dad2208d61e96e12835eee8486842501
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1762
-
-AuthorizationCodeDeclaration.java
-file
-
-
-
-
-2015-02-27T14:04:06.000000Z
-bcecf7b3eab917adcf0f794aa83c8f9c
-2015-02-13T08:39:56.625992Z
-229962
-yangjun03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1787
 
